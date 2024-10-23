@@ -1,11 +1,5 @@
 [
     {
-        "id": 1,
-        "name": "Geometric shapes",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/shapes.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/shapes.gif"
-    },
-    {
         "id": 3,
         "name": "Abc phonics",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/abc_phonics.mp4",
@@ -73,7 +67,7 @@
     },
     {
         "id": 14,
-        "name": "HABC with baloons",
+        "name": "ABC with baloons",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/abc_with_baloons.mp4",
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/abc_with_baloons.jpg"
     },
@@ -94,5 +88,29 @@
         "name": "Kitten bath",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/kitten_bath.mp4",
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/kitten_bath.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Guess animal",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/guess_animal.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/guess_animal.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Guess shapes",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/guess_shapes.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/guess_shapes.jpg"
+    },
+    {
+        "id": 20,
+        "name": "learn abc more version",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/learn_abc_another.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/learn_abc_another.jpg"
+    },
+    {
+        "id": 21,
+        "name": "learn numbers more version",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/learn_numbers.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/learn_numbers.jpg"
     }
 ]
