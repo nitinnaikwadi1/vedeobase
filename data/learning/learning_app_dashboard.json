@@ -70,11 +70,5 @@
         "url": "insects.gif",
 		"audio": "insects",
         "link": "insects.json"
-    },
-    {
-        "id": 11,
-        "url": "sea_animals.gif",
-		"audio": "sea_animals",
-        "link": "sea_animals.json"
     }
 ]
