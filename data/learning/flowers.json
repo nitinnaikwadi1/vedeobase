@@ -1,0 +1,132 @@
+[
+    {
+        "id": 0,
+        "url": "zendu.gif",
+		"audio": "zendu.mp3"
+    },
+    {
+        "id": 1,
+        "url": "mogra.gif",
+		"audio": "mogra.mp3"
+    },
+    {
+        "id": 2,
+        "url": "kamal.gif",
+		"audio": "kamal.mp3"
+    },
+    {
+        "id": 3,
+        "url": "parijat.gif",
+		"audio": "parijat.mp3"
+    },
+    {
+        "id": 4,
+        "url": "shevanti.gif",
+		"audio": "shevanti.mp3"
+    },
+    {
+        "id": 5,
+        "url": "chameli.gif",
+		"audio": "chameli.mp3"
+    },
+    {
+        "id": 6,
+        "url": "jaswand.gif",
+		"audio": "jaswand.mp3"
+    },
+    {
+        "id": 7,
+        "url": "ratrani.gif",
+		"audio": "ratrani.mp3"
+    },
+    {
+        "id": 8,
+        "url": "palas.gif",
+		"audio": "palas.mp3"
+    },
+    {
+        "id": 9,
+        "url": "gulmohar.gif",
+		"audio": "gulmohar.mp3"
+    },
+    {
+        "id": 10,
+        "url": "sadafuli.gif",
+		"audio": "sadafuli.mp3"
+    },
+    {
+        "id": 11,
+        "url": "suryful.gif",
+		"audio": "suryful.mp3"
+    },
+    {
+        "id": 12,
+        "url": "gulab.gif",
+		"audio": "gulab.mp3"
+    },
+	{
+        "id": 13,
+        "url": "n.gif",
+		"audio": "n.mp3"
+    },
+    {
+        "id": 14,
+        "url": "o.gif",
+		"audio": "o.mp3"
+    },
+    {
+        "id": 15,
+        "url": "p.gif",
+		"audio": "p.mp3"
+    },
+    {
+        "id": 16,
+        "url": "q.gif",
+		"audio": "q.mp3"
+    },
+    {
+        "id": 17,
+        "url": "r.gif",
+		"audio": "r.mp3"
+    },
+    {
+        "id": 18,
+        "url": "s.gif",
+		"audio": "s.mp3"
+    },
+    {
+        "id": 19,
+        "url": "t.gif",
+		"audio": "t.mp3"
+    },
+    {
+        "id": 20,
+        "url": "u.gif",
+		"audio": "u.mp3"
+    },
+    {
+        "id": 21,
+        "url": "v.gif",
+		"audio": "v.mp3"
+    },
+    {
+        "id": 22,
+        "url": "w.gif",
+		"audio": "w.mp3"
+    },
+    {
+        "id": 23,
+        "url": "x.gif",
+		"audio": "x.mp3"
+    },
+    {
+        "id": 24,
+        "url": "y.gif",
+		"audio": "y.mp3"
+    },
+    {
+        "id": 25,
+        "url": "z.gif",
+		"audio": "z.mp3"
+    }
+]

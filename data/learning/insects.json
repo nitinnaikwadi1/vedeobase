@@ -1,0 +1,57 @@
+[
+    {
+        "id": 0,
+        "url": "beetle.gif",
+		"audio": "beetle.mp3"
+    },
+    {
+        "id": 1,
+        "url": "dragonfly.gif",
+		"audio": "dragonfly.mp3"
+    },
+    {
+        "id": 2,
+        "url": "butterfly.gif",
+		"audio": "butterfly.mp3"
+    },
+    {
+        "id": 3,
+        "url": "bumblebee.gif",
+		"audio": "bumblebee.mp3"
+    },
+    {
+        "id": 4,
+        "url": "caterpiller.gif",
+		"audio": "caterpiller.mp3"
+    },
+    {
+        "id": 5,
+        "url": "earthworm.gif",
+		"audio": "earthworm.mp3"
+    },
+    {
+        "id": 6,
+        "url": "grasshopper.gif",
+		"audio": "grasshopper.mp3"
+    },
+    {
+        "id": 7,
+        "url": "redants.gif",
+		"audio": "redants.mp3"
+    },
+    {
+        "id": 8,
+        "url": "blackants.gif",
+		"audio": "blackants.mp3"
+    },
+    {
+        "id": 9,
+        "url": "snail.gif",
+		"audio": "snail.mp3"
+    },
+    {
+        "id": 10,
+        "url": "spider.gif",
+		"audio": "spider.mp3"
+    }
+]

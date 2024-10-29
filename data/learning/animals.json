@@ -1,0 +1,107 @@
+[
+    {
+        "id": 0,
+        "url": "black_bear.gif",
+		"audio": "black_bear.mp3"
+    },
+    {
+        "id": 1,
+        "url": "camel.gif",
+		"audio": "camel.mp3"
+    },
+    {
+        "id": 2,
+        "url": "cat.gif",
+		"audio": "cat.mp3"
+    },
+    {
+        "id": 3,
+        "url": "cheetah.gif",
+		"audio": "cheetah.mp3"
+    },
+    {
+        "id": 4,
+        "url": "dog.gif",
+		"audio": "dog.mp3"
+    },
+    {
+        "id": 5,
+        "url": "elephant.gif",
+		"audio": "elephant.mp3"
+    },
+    {
+        "id": 6,
+        "url": "giraff.gif",
+		"audio": "giraff.mp3"
+    },
+    {
+        "id": 7,
+        "url": "squriell.gif",
+		"audio": "squriell.mp3"
+    },
+    {
+        "id": 8,
+        "url": "horse.gif",
+		"audio": "horse.mp3"
+    },
+    {
+        "id": 9,
+        "url": "lion.gif",
+		"audio": "lion.mp3"
+    },
+    {
+        "id": 10,
+        "url": "zebra.gif",
+		"audio": "zebra.mp3"
+    },
+    {
+        "id": 11,
+        "url": "monkey.gif",
+		"audio": "monkey.mp3"
+    },
+    {
+        "id": 12,
+        "url": "sheep.gif",
+		"audio": "sheep.mp3"
+    },
+	{
+        "id": 13,
+        "url": "polar_bear.gif",
+		"audio": "polar_bear.mp3"
+    },
+    {
+        "id": 14,
+        "url": "rabbit.gif",
+		"audio": "rabbit.mp3"
+    },
+    {
+        "id": 15,
+        "url": "tiger.gif",
+		"audio": "tiger.mp3"
+    },
+    {
+        "id": 16,
+        "url": "wolf.gif",
+		"audio": "wolf.mp3"
+    },
+    {
+        "id": 17,
+        "url": "kangaroo.gif",
+		"audio": "kangaroo.mp3"
+    },
+    {
+        "id": 18,
+        "url": "deer.gif",
+		"audio": "deer.mp3"
+    },
+    {
+        "id": 19,
+        "url": "raindeer.gif",
+		"audio": "raindeer.mp3"
+    },
+    {
+        "id": 20,
+        "url": "mouse.gif",
+		"audio": "mouse.mp3"
+    }
+]
