@@ -112,5 +112,23 @@
         "name": "learn numbers more version",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/learn_numbers.mp4",
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/learn_numbers.jpg"
+    },
+    {
+        "id": 22,
+        "name": "ten in the bed",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/ten_in_bed.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/ten_in_bed.jpg"
+    },
+    {
+        "id": 23,
+        "name": "twinkle twinkle star",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/twinkle_twinkle.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/twinkle_twinkle.jpg"
+    },
+    {
+        "id": 24,
+        "name": "bingo dog playing",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/bingo_dog.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/bingo_dog.jpg"
     }
 ]
