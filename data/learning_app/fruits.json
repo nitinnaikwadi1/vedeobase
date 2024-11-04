@@ -10,13 +10,63 @@
 		"audio": "banana.mp3"
     },
     {
+        "id": 2,
+        "url": "coconut.gif",
+		"audio": "coconut.mp3"
+    },
+    {
         "id": 3,
         "url": "grapes.gif",
 		"audio": "grapes.mp3"
+    },
+	 {
+        "id": 4,
+        "url": "lemon.gif",
+		"audio": "lemon.mp3"
+    },
+    {
+        "id": 5,
+        "url": "mango.gif",
+		"audio": "mango.mp3"
     },
     {
         "id": 6,
         "url": "orange.gif",
 		"audio": "orange.mp3"
+    },
+    {
+        "id": 7,
+        "url": "watermelon.gif",
+		"audio": "watermelon.mp3"
+    },
+    {
+        "id": 8,
+        "url": "strawberry.gif",
+		"audio": "strawberry.mp3"
+    },
+    {
+        "id": 9,
+        "url": "pomegranate.gif",
+		"audio": "pomegranate.mp3"
+    },
+    {
+        "id": 10,
+        "url": "pineapple.gif",
+		"audio": "pineapple.mp3"
+    },
+    {
+        "id": 11,
+        "url": "papaya.gif",
+		"audio": "papaya.mp3"
+    },
+    {
+        "id": 12,
+        "url": "pear.gif",
+		"audio": "pear.mp3"
+    },
+    {
+        "id": 13,
+        "url": "tamarind.gif",
+		"audio": "tamarind.mp3"
     }
 ]
