@@ -48,35 +48,5 @@
         "id": 10,
         "url": "yellow_color.gif",
 		"audio": "yellow_color.mp3"
-    },
-    {
-        "id": 11,
-        "url": "silver.gif",
-		"audio": "silver.mp3"
-    },
-    {
-        "id": 12,
-        "url": "gold.gif",
-		"audio": "gold.mp3"
-    },
-	{
-        "id": 13,
-        "url": "maroon.gif",
-		"audio": "maroon.mp3"
-    },
-    {
-        "id": 14,
-        "url": "olive.gif",
-		"audio": "olive.mp3"
-    },
-    {
-        "id": 15,
-        "url": "tan.gif",
-		"audio": "tan.mp3"
-    },
-    {
-        "id": 16,
-        "url": "teal.gif",
-		"audio": "teal.mp3"
     }
 ]
