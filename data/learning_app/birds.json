@@ -16,16 +16,6 @@
     },
     {
         "id": 3,
-        "url": "eagle.gif",
-		"audio": "eagle.mp3"
-    },
-    {
-        "id": 4,
-        "url": "kingfisher.gif",
-		"audio": "kingfisher.mp3"
-    },
-    {
-        "id": 5,
         "url": "owl.gif",
 		"audio": "owl.mp3"
     },
@@ -33,15 +23,5 @@
         "id": 6,
         "url": "peacock.gif",
 		"audio": "peacock.mp3"
-    },
-    {
-        "id": 7,
-        "url": "parrot.gif",
-		"audio": "parrot.mp3"
-    },
-    {
-        "id": 8,
-        "url": "heron.gif",
-		"audio": "heron.mp3"
     }
 ]

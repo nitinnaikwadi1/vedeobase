@@ -1,58 +1,53 @@
 [
     {
         "id": 0,
-        "url": "red.gif",
+        "url": "red_color.gif",
 		"audio": "red.mp3"
     },
     {
         "id": 1,
-        "url": "green.gif",
-		"audio": "green.mp3"
+        "url": "green_color.gif",
+		"audio": "green_color.mp3"
     },
     {
         "id": 2,
-        "url": "blue.gif",
-		"audio": "blue.mp3"
+        "url": "blue_color.gif",
+		"audio": "blue_color.mp3"
     },
     {
         "id": 3,
-        "url": "white.gif",
-		"audio": "white.mp3"
-    },
-    {
-        "id": 4,
-        "url": "black.gif",
-		"audio": "black.mp3"
+        "url": "white_color.gif",
+		"audio": "white_color.mp3"
     },
     {
         "id": 5,
-        "url": "orange.gif",
-		"audio": "orange.mp3"
+        "url": "orange_color.gif",
+		"audio": "orange_color.mp3"
     },
     {
         "id": 6,
-        "url": "purple.gif",
-		"audio": "purple.mp3"
+        "url": "purple_color.gif",
+		"audio": "purple_color.mp3"
     },
     {
         "id": 7,
-        "url": "brown.gif",
-		"audio": "brown.mp3"
+        "url": "brown_color.gif",
+		"audio": "brown_color.mp3"
     },
     {
         "id": 8,
-        "url": "pink.gif",
-		"audio": "pink.mp3"
+        "url": "pink_color.gif",
+		"audio": "pink_color.mp3"
     },
     {
         "id": 9,
-        "url": "grey.gif",
-		"audio": "grey.mp3"
+        "url": "grey_color.gif",
+		"audio": "grey_color.mp3"
     },
     {
         "id": 10,
-        "url": "yellow.gif",
-		"audio": "yellow.mp3"
+        "url": "yellow_color.gif",
+		"audio": "yellow_color.mp3"
     },
     {
         "id": 11,
