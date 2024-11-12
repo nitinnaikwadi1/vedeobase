@@ -51,16 +51,11 @@
     },
     {
         "id": 10,
-        "url": "hexagon.gif",
-		"audio": "hexagon.mp3"
-    },
-    {
-        "id": 11,
         "url": "cube.gif",
 		"audio": "cube.mp3"
     },
     {
-        "id": 12,
+        "id": 11,
         "url": "cylinder.gif",
 		"audio": "cylinder.mp3"
     }
