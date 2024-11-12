@@ -1,21 +1,9 @@
 [
     {
-        "id": 3,
-        "name": "Abc phonics",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/abc_phonics.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/abc_phonics.jpg"
-    },
-    {
         "id": 4,
         "name": "Animal dance",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/animal_dance.mp4",
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/animal_dance.jpg"
-    },
-    {
-        "id": 5,
-        "name": "Learn shapes with truck",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/shapes_with_truck.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/shapes_with_truck.jpg"
     },
     {
         "id": 6,
@@ -30,58 +18,16 @@
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/ducks_hiding.jpg"
     },
     {
-        "id": 8,
-        "name": "Wash your hands",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/wash_hands.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/wash_hands.jpg"
-    },
-    {
-        "id": 9,
-        "name": "Brush your teeth",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/brush_teeth.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/brush_teeth.jpg"
-    },
-    {
-        "id": 10,
-        "name": "Jungle safari",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/jungle_safari.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/jungle_safari.jpg"
-    },
-    {
-        "id": 11,
-        "name": "Sharing is fair",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/sharing_is_fair.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/sharing_is_fair.jpg"
-    },
-    {
-        "id": 12,
-        "name": "Learn ABC Preschool",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/learn_abc.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/learn_abc.jpg"
-    },
-    {
         "id": 13,
         "name": "Head Shoulder Knees and Tows",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/head_shoulder_knees_toes.mp4",
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/head_shoulder_knees_toes.jpg"
     },
     {
-        "id": 14,
-        "name": "ABC with baloons",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/abc_with_baloons.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/abc_with_baloons.jpg"
-    },
-    {
         "id": 15,
         "name": "Stacking rings",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/stacking_rings.mp4",
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/stacking_rings.jpg"
-    },
-    {
-        "id": 16,
-        "name": "Kitten pudding play",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/kitten_pudding.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/kitten_pudding.jpg"
     },
     {
         "id": 17,
@@ -130,5 +76,89 @@
         "name": "bingo dog playing",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/bingo_dog.mp4",
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/bingo_dog.jpg"
+    },
+    {
+        "id": 25,
+        "name": "animanimals_polar_bear",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/animanimals_polar_bear.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/animanimals_polar_bear.jpg"
+    },
+    {
+        "id": 26,
+        "name": "animanimals_giraffe",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/animanimals_giraffe.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/animanimals_giraffe.jpg"
+    },
+    {
+        "id": 27,
+        "name": "animanimals_ants",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/animanimals_ants.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/animanimals_ants.jpg"
+    },
+    {
+        "id": 28,
+        "name": "arts_crafts",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/arts_crafts.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/arts_crafts.jpg"
+    },
+    {
+        "id": 29,
+        "name": "kittens_story",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/kittens_story.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/kittens_story.jpg"
+    },
+    {
+        "id": 30,
+        "name": "margo_egg",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/margo_egg.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/margo_egg.jpg"
+    },
+    {
+        "id": 31,
+        "name": "margo_apple",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/margo_apple.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/margo_apple.jpg"
+    },
+    {
+        "id": 32,
+        "name": "my_body",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/my_body.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/my_body.jpg"
+    },
+    {
+        "id": 33,
+        "name": "i_want_fruit",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/i_want_fruit.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/i_want_fruit.jpg"
+    },
+    {
+        "id": 34,
+        "name": "i_see_sea_animal",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/i_see_sea_animal.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/i_see_sea_animal.jpg"
+    },
+    {
+        "id": 35,
+        "name": "colorful_fruits",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/colorful_fruits.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/colorful_fruits.jpg"
+    },
+    {
+        "id": 36,
+        "name": "numbers_vehicle",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/numbers_vehicle.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/numbers_vehicle.jpg"
+    },
+    {
+        "id": 37,
+        "name": "cat_hide_seek",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/cat_hide_seek.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/cat_hide_seek.jpg"
+    },
+    {
+        "id": 38,
+        "name": "cat_numbers",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/cat_numbers.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/cat_numbers.jpg"
     }
 ]

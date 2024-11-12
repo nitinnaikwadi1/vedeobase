@@ -2,73 +2,61 @@
     {
         "id": 0,
         "url": "alphabets.gif",
-		"audio": "alphabets",
         "link": "alphabets.json"
     },
     {
         "id": 1,
         "url": "numbers.gif",
-		"audio": "numbers",
         "link": "numbers.json"
     },
     {
         "id": 2,
         "url": "shapes.gif",
-		"audio": "shapes",
         "link": "shapes.json"
     },
     {
         "id": 3,
         "url": "colors.gif",
-		"audio": "colors",
         "link": "colors.json"
     },
     {
         "id": 12,
         "url": "human_body.gif",
-		"audio": "human_body",
         "link": "human_body.json"
     },
     {
         "id": 4,
         "url": "fruits.gif",
-		"audio": "fruits",
         "link": "fruits.json"
     },
     {
         "id": 5,
         "url": "vegetables.gif",
-		"audio": "vegetables",
         "link": "vegetables.json"
     },
     {
         "id": 6,
-        "url": "flowers.gif",
-		"audio": "flowers",
-        "link": "flowers.json"
+        "url": "vehicle.gif",
+        "link": "vehicle.json"
     },
     {
         "id": 7,
         "url": "trees.gif",
-		"audio": "trees",
         "link": "trees.json"
     },
     {
         "id": 8,
         "url": "animals.gif",
-		"audio": "animals",
         "link": "animals.json"
     },
     {
         "id": 9,
         "url": "birds.gif",
-		"audio": "birds",
         "link": "birds.json"
     },
     {
         "id": 10,
         "url": "insects.gif",
-		"audio": "insects",
         "link": "insects.json"
     }
 ]
