@@ -68,5 +68,65 @@
         "id": 13,
         "url": "tamarind.gif",
 		"audio": "tamarind.mp3"
+    },
+    {
+        "id": 14,
+        "url": "cherry.gif",
+		"audio": "cherry.mp3"
+    },
+    {
+        "id": 15,
+        "url": "apricot.gif",
+		"audio": "apricot.mp3"
+    },
+    {
+        "id": 16,
+        "url": "jackfruit.gif",
+		"audio": "jackfruit.mp3"
+    },
+    {
+        "id": 17,
+        "url": "lychee.gif",
+		"audio": "lychee.mp3"
+    },
+    {
+        "id": 18,
+        "url": "raspberry.gif",
+		"audio": "raspberry.mp3"
+    },
+    {
+        "id": 19,
+        "url": "avocado.gif",
+		"audio": "avocado.mp3"
+    },
+    {
+        "id": 20,
+        "url": "kiwi.gif",
+		"audio": "kiwi.mp3"
+    },
+    {
+        "id": 21,
+        "url": "cashew.gif",
+		"audio": "cashew.mp3"
+    },
+    {
+        "id": 22,
+        "url": "fig.gif",
+		"audio": "fig.mp3"
+    },
+    {
+        "id": 23,
+        "url": "guava.gif",
+		"audio": "guava.mp3"
+    },
+    {
+        "id": 24,
+        "url": "melon.gif",
+		"audio": "melon.mp3"
+    },
+    {
+        "id": 25,
+        "url": "plum.gif",
+		"audio": "plum.mp3"
     }
 ]
