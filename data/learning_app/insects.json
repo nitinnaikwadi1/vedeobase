@@ -21,8 +21,8 @@
     },
     {
         "id": 4,
-        "url": "caterpiller.gif",
-		"audio": "caterpiller.mp3"
+        "url": "caterpillar.gif",
+		"audio": "caterpillar.mp3"
     },
     {
         "id": 5,
@@ -36,13 +36,8 @@
     },
     {
         "id": 7,
-        "url": "redants.gif",
-		"audio": "redants.mp3"
-    },
-    {
-        "id": 8,
-        "url": "blackants.gif",
-		"audio": "blackants.mp3"
+        "url": "ant.gif",
+		"audio": "ant.mp3"
     },
     {
         "id": 9,
@@ -53,5 +48,20 @@
         "id": 10,
         "url": "spider.gif",
 		"audio": "spider.mp3"
+    },
+    {
+        "id": 11,
+        "url": "bee.gif",
+		"audio": "bee.mp3"
+    },
+    {
+        "id": 12,
+        "url": "mosquito.gif",
+		"audio": "mosquito.mp3"
+    },
+    {
+        "id": 13,
+        "url": "scorpio.gif",
+		"audio": "scorpio.mp3"
     }
 ]
