@@ -3,5 +3,95 @@
         "id": 0,
         "url": "carrot.gif",
 		"audio": "carrot.mp3"
+    },
+	{
+        "id": 1,
+        "url": "tomato.gif",
+		"audio": "tomato.mp3"
+    },
+	{
+        "id": 2,
+        "url": "eggplant.gif",
+		"audio": "eggplant.mp3"
+    },
+	{
+        "id": 3,
+        "url": "spinach.gif",
+		"audio": "spinach.mp3"
+    },
+	{
+        "id": 4,
+        "url": "cabbage.gif",
+		"audio": "cabbage.mp3"
+    },
+	{
+        "id": 5,
+        "url": "chili.gif",
+		"audio": "chili.mp3"
+    },
+	{
+        "id": 6,
+        "url": "peas.gif",
+		"audio": "peas.mp3"
+    },
+	{
+        "id": 7,
+        "url": "cucumber.gif",
+		"audio": "cucumber.mp3"
+    },
+	{
+        "id": 8,
+        "url": "potato.gif",
+		"audio": "potato.mp3"
+    },
+	{
+        "id": 9,
+        "url": "sweet_potato.gif",
+		"audio": "sweet_potato.mp3"
+    },
+	{
+        "id": 10,
+        "url": "cauliflower.gif",
+		"audio": "cauliflower.mp3"
+    },
+	{
+        "id": 11,
+        "url": "okra.gif",
+		"audio": "okra.mp3"
+    },
+	{
+        "id": 12,
+        "url": "beetroot.gif",
+		"audio": "beetroot.mp3"
+    },
+	{
+        "id": 13,
+        "url": "corn.gif",
+		"audio": "corn.mp3"
+    },
+	{
+        "id": 14,
+        "url": "radish.gif",
+		"audio": "radish.mp3"
+    },
+	{
+        "id": 15,
+        "url": "bell_pepper.gif",
+		"audio": "bell_pepper.mp3"
+    },
+	{
+        "id": 16,
+        "url": "pumpkin.gif",
+		"audio": "pumpkin.mp3"
+    },
+	{
+        "id": 17,
+        "url": "ginger.gif",
+		"audio": "ginger.mp3"
+    },
+	{
+        "id": 18,
+        "url": "garlic.gif",
+		"audio": "garlic.mp3"
     }
 ]
