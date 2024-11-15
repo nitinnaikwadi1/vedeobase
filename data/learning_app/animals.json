@@ -5,11 +5,6 @@
 		"audio": "giraff.mp3"
     },
     {
-        "id": 1,
-        "url": "ostrich.gif",
-		"audio": "ostrich.mp3"
-    },
-    {
         "id": 2,
         "url": "elephant.gif",
 		"audio": "elephant.mp3"

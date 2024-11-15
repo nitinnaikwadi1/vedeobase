@@ -20,8 +20,83 @@
 		"audio": "owl.mp3"
     },
     {
-        "id": 6,
+        "id": 4,
         "url": "peacock.gif",
 		"audio": "peacock.mp3"
+    },
+    {
+        "id": 5,
+        "url": "ostrich.gif",
+		"audio": "ostrich.mp3"
+    },
+    {
+        "id": 6,
+        "url": "goose.gif",
+		"audio": "goose.mp3"
+    },
+    {
+        "id": 7,
+        "url": "eagle.gif",
+		"audio": "eagle.mp3"
+    },
+    {
+        "id": 8,
+        "url": "chicken.gif",
+		"audio": "chicken.mp3"
+    },
+    {
+        "id": 9,
+        "url": "pigeon.gif",
+		"audio": "pigeon.mp3"
+    },
+    {
+        "id": 10,
+        "url": "pelican.gif",
+		"audio": "pelican.mp3"
+    },
+    {
+        "id": 11,
+        "url": "seagull.gif",
+		"audio": "seagull.mp3"
+    },
+    {
+        "id": 12,
+        "url": "kingfisher.gif",
+		"audio": "kingfisher.mp3"
+    },
+    {
+        "id": 13,
+        "url": "hummingbird.gif",
+		"audio": "hummingbird.mp3"
+    },
+    {
+        "id": 14,
+        "url": "toucan.gif",
+		"audio": "toucan.mp3"
+    },
+    {
+        "id": 15,
+        "url": "parrot.gif",
+		"audio": "parrot.mp3"
+    },
+    {
+        "id": 16,
+        "url": "bat.gif",
+		"audio": "bat.mp3"
+    },
+    {
+        "id": 17,
+        "url": "flamingo.gif",
+		"audio": "flamingo.mp3"
+    },
+    {
+        "id": 18,
+        "url": "woodpeaker.gif",
+		"audio": "woodpeaker.mp3"
+    },
+    {
+        "id": 19,
+        "url": "rooster.gif",
+		"audio": "rooster.mp3"
     }
 ]
