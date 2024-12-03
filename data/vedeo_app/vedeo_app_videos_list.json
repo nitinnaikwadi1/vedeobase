@@ -166,5 +166,11 @@
         "name": "animanimals_sheep",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/animanimals_sheep.mp4",
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/animanimals_sheep.jpg"
+    },
+    {
+        "id": 40,
+        "name": "row_boat",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/row_boat.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/row_boat.jpg"
     }
 ]
