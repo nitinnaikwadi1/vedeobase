@@ -154,5 +154,11 @@
         "name": "margo_frog",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/margo_frog.mp4",
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/margo_frog.jpg"
+    },
+    {
+        "id": 48,
+        "name": "brush_teeth",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/brush_teeth.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/brush_teeth.jpg"
     }
 ]
