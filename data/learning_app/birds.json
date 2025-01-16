@@ -2,101 +2,121 @@
     {
         "id": 0,
         "url": "sparrow.gif",
-		"audio": "sparrow.mp3"
+		"audio": "sparrow.mp3",
+		"name" : "Sparrow"
     },
     {
         "id": 1,
         "url": "crow.gif",
-		"audio": "crow.mp3"
+		"audio": "crow.mp3",
+		"name" : "Crow"
     },
     {
         "id": 2,
         "url": "duck.gif",
-		"audio": "duck.mp3"
+		"audio": "duck.mp3",
+		"name" : "Duck"
     },
     {
         "id": 3,
         "url": "owl.gif",
-		"audio": "owl.mp3"
+		"audio": "owl.mp3",
+		"name" : "Owl"
     },
     {
         "id": 4,
         "url": "peacock.gif",
-		"audio": "peacock.mp3"
+		"audio": "peacock.mp3",
+		"name" : "Peacock"
     },
     {
         "id": 5,
         "url": "ostrich.gif",
-		"audio": "ostrich.mp3"
+		"audio": "ostrich.mp3",
+		"name" : "Ostrich"
     },
     {
         "id": 6,
         "url": "goose.gif",
-		"audio": "goose.mp3"
+		"audio": "goose.mp3",
+		"name" : "Goose"
     },
     {
         "id": 7,
         "url": "eagle.gif",
-		"audio": "eagle.mp3"
+		"audio": "eagle.mp3",
+		"name" : "Eagle"
     },
     {
         "id": 8,
         "url": "chicken.gif",
-		"audio": "chicken.mp3"
+		"audio": "chicken.mp3",
+		"name" : "Chicken"
     },
     {
         "id": 9,
         "url": "pigeon.gif",
-		"audio": "pigeon.mp3"
+		"audio": "pigeon.mp3",
+		"name" : "Pigeon"
     },
     {
         "id": 10,
         "url": "pelican.gif",
-		"audio": "pelican.mp3"
+		"audio": "pelican.mp3",
+		"name" : "Pelican"
     },
     {
         "id": 11,
         "url": "seagull.gif",
-		"audio": "seagull.mp3"
+		"audio": "seagull.mp3",
+		"name" : "Seagull"
     },
     {
         "id": 12,
         "url": "kingfisher.gif",
-		"audio": "kingfisher.mp3"
+		"audio": "kingfisher.mp3",
+		"name" : "Kingfisher"
     },
     {
         "id": 13,
         "url": "hummingbird.gif",
-		"audio": "hummingbird.mp3"
+		"audio": "hummingbird.mp3",
+		"name" : "Hummingbird"
     },
     {
         "id": 14,
         "url": "toucan.gif",
-		"audio": "toucan.mp3"
+		"audio": "toucan.mp3",
+		"name" : "Toucan"
     },
     {
         "id": 15,
         "url": "parrot.gif",
-		"audio": "parrot.mp3"
+		"audio": "parrot.mp3",
+		"name" : "Parrot"
     },
     {
         "id": 16,
         "url": "bat.gif",
-		"audio": "bat.mp3"
+		"audio": "bat.mp3",
+		"name" : "Bat"
     },
     {
         "id": 17,
         "url": "flamingo.gif",
-		"audio": "flamingo.mp3"
+		"audio": "flamingo.mp3",
+		"name" : "Flamingo"
     },
     {
         "id": 18,
         "url": "woodpeaker.gif",
-		"audio": "woodpeaker.mp3"
+		"audio": "woodpeaker.mp3",
+		"name" : "Woodpeaker"
     },
     {
         "id": 19,
         "url": "rooster.gif",
-		"audio": "rooster.mp3"
+		"audio": "rooster.mp3",
+		"name" : "Rooster"
     }
 ]

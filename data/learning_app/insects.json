@@ -2,66 +2,79 @@
     {
         "id": 0,
         "url": "beetle.gif",
-		"audio": "beetle.mp3"
+		"audio": "beetle.mp3",
+		"name" : "Beetle"
     },
     {
         "id": 1,
         "url": "dragonfly.gif",
-		"audio": "dragonfly.mp3"
+		"audio": "dragonfly.mp3",
+		"name" : "Dragonfly"
     },
     {
         "id": 2,
         "url": "butterfly.gif",
-		"audio": "butterfly.mp3"
+		"audio": "butterfly.mp3",
+		"name" : "Butterfly"
     },
     {
         "id": 3,
         "url": "bumblebee.gif",
-		"audio": "bumblebee.mp3"
+		"audio": "bumblebee.mp3",
+		"name" : "Bumblebee"
     },
     {
         "id": 4,
         "url": "caterpillar.gif",
-		"audio": "caterpillar.mp3"
+		"audio": "caterpillar.mp3",
+		"name" : "Caterpillar"
     },
     {
         "id": 5,
         "url": "earthworm.gif",
-		"audio": "earthworm.mp3"
+		"audio": "earthworm.mp3",
+		"name" : "Earthworm"
     },
     {
         "id": 6,
         "url": "grasshopper.gif",
-		"audio": "grasshopper.mp3"
+		"audio": "grasshopper.mp3",
+		"name" : "Grasshopper"
     },
     {
         "id": 7,
         "url": "ant.gif",
-		"audio": "ant.mp3"
+		"audio": "ant.mp3",
+		"name" : "Ant"
     },
     {
         "id": 9,
         "url": "snail.gif",
-		"audio": "snail.mp3"
+		"audio": "snail.mp3",
+		"name" : "Snail"
     },
     {
         "id": 10,
         "url": "spider.gif",
-		"audio": "spider.mp3"
+		"audio": "spider.mp3",
+		"name" : "Spider"
     },
     {
         "id": 11,
         "url": "bee.gif",
-		"audio": "bee.mp3"
+		"audio": "bee.mp3",
+		"name" : "Bee"
     },
     {
         "id": 12,
         "url": "mosquito.gif",
-		"audio": "mosquito.mp3"
+		"audio": "mosquito.mp3",
+		"name" : "Mosquito"
     },
     {
         "id": 13,
         "url": "scorpio.gif",
-		"audio": "scorpio.mp3"
+		"audio": "scorpio.mp3",
+		"name" : "Scorpio"
     }
 ]

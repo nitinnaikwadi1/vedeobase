@@ -2,61 +2,73 @@
     {
         "id": 0,
         "url": "circle.gif",
-		"audio": "circle.mp3"
+		"audio": "circle.mp3",
+		"name" : "Circle"
     },
     {
         "id": 1,
         "url": "line.gif",
-		"audio": "line.mp3"
+		"audio": "line.mp3",
+		"name" : "Line"
     },
     {
         "id": 2,
         "url": "triangle.gif",
-		"audio": "triangle.mp3"
+		"audio": "triangle.mp3",
+		"name" : "Triangle"
     },
     {
         "id": 3,
         "url": "square.gif",
-		"audio": "square.mp3"
+		"audio": "square.mp3",
+		"name" : "Square"
     },
     {
         "id": 4,
         "url": "rectangle.gif",
-		"audio": "rectangle.mp3"
+		"audio": "rectangle.mp3",
+		"name" : "Rectangle"
     },
     {
         "id": 5,
         "url": "star.gif",
-		"audio": "star.mp3"
+		"audio": "star.mp3",
+		"name" : "Star"
     },
     {
         "id": 6,
         "url": "oval.gif",
-		"audio": "oval.mp3"
+		"audio": "oval.mp3",
+		"name" : "Oval"
     },
     {
         "id": 7,
         "url": "diamond.gif",
-		"audio": "diamond.mp3"
+		"audio": "diamond.mp3",
+		"name" : "Diamond"
     },
     {
         "id": 8,
         "url": "heart.gif",
-		"audio": "heart.mp3"
+		"audio": "heart.mp3",
+		"name" : "Heart"
     },
     {
         "id": 9,
         "url": "pentagon.gif",
-		"audio": "pentagon.mp3"
+		"audio": "pentagon.mp3",
+		"name" : "Pentagon"
     },
     {
         "id": 10,
         "url": "cube.gif",
-		"audio": "cube.mp3"
+		"audio": "cube.mp3",
+		"name" : "Cube"
     },
     {
         "id": 11,
         "url": "cylinder.gif",
-		"audio": "cylinder.mp3"
+		"audio": "cylinder.mp3",
+		"name" : "Cylinder"
     }
 ]

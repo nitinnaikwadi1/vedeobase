@@ -2,111 +2,133 @@
     {
         "id": 0,
         "url": "giraff.gif",
-		"audio": "giraff.mp3"
+		"audio": "giraff.mp3",
+		"name" : "Giraff"
     },
     {
         "id": 2,
         "url": "elephant.gif",
-		"audio": "elephant.mp3"
+		"audio": "elephant.mp3",
+		"name" : "Elephant"
     },
     {
         "id": 3,
         "url": "panda.gif",
-		"audio": "panda.mp3"
+		"audio": "panda.mp3",
+		"name" : "Panda"
     },
     {
         "id": 4,
         "url": "bear.gif",
-		"audio": "bear.mp3"
+		"audio": "bear.mp3",
+		"name" : "Bear"
     },
     {
         "id": 5,
         "url": "camel.gif",
-		"audio": "camel.mp3"
+		"audio": "camel.mp3",
+		"name" : "Camel"
     },
     {
         "id": 6,
         "url": "goat.gif",
-		"audio": "goat.mp3"
+		"audio": "goat.mp3",
+		"name" : "Goat"
     },
     {
         "id": 7,
         "url": "tiger.gif",
-		"audio": "tiger.mp3"
+		"audio": "tiger.mp3",
+		"name" : "Tiger"
     },
     {
         "id": 8,
         "url": "cheetah.gif",
-		"audio": "cheetah.mp3"
+		"audio": "cheetah.mp3",
+		"name" : "Cheetah"
     },
     {
         "id": 9,
         "url": "sheep.gif",
-		"audio": "sheep.mp3"
+		"audio": "sheep.mp3",
+		"name" : "Sheep"
     },
     {
         "id": 10,
         "url": "buffalow.gif",
-		"audio": "buffalow.mp3"
+		"audio": "buffalow.mp3",
+		"name" : "Buffalow"
     },
     {
         "id": 11,
         "url": "lion.gif",
-		"audio": "lion.mp3"
+		"audio": "lion.mp3",
+		"name" : "Lion"
     },
     {
         "id": 12,
         "url": "cow.gif",
-		"audio": "cow.mp3"
+		"audio": "cow.mp3",
+		"name" : "Cow"
     },
     {
         "id": 13,
         "url": "rhino.gif",
-		"audio": "rhino.mp3"
+		"audio": "rhino.mp3",
+		"name" : "Rhino"
     },
     {
         "id": 14,
         "url": "zebra.gif",
-		"audio": "zebra.mp3"
+		"audio": "zebra.mp3",
+		"name" : "Zebra"
     },
     {
         "id": 15,
         "url": "deer.gif",
-		"audio": "deer.mp3"
+		"audio": "deer.mp3",
+		"name" : "Deer"
     },
     {
         "id": 16,
         "url": "fox.gif",
-		"audio": "fox.mp3"
+		"audio": "fox.mp3",
+		"name" : "Fox"
     },
     {
         "id": 17,
         "url": "monkey.gif",
-		"audio": "monkey.mp3"
+		"audio": "monkey.mp3",
+		"name" : "Monkey"
     },
     {
         "id": 18,
         "url": "pig.gif",
-		"audio": "pig.mp3"
+		"audio": "pig.mp3",
+		"name" : "Pig"
     },
     {
         "id": 19,
         "url": "hyena.gif",
-		"audio": "hyena.mp3"
+		"audio": "hyena.mp3",
+		"name" : "Hyena"
     },
     {
         "id": 20,
         "url": "racoon.gif",
-		"audio": "racoon.mp3"
+		"audio": "racoon.mp3",
+		"name" : "Pumpkin"
     },
     {
         "id": 21,
         "url": "rabbit.gif",
-		"audio": "rabbit.mp3"
+		"audio": "rabbit.mp3",
+		"name" : "Rabbit"
     },
     {
         "id": 22,
         "url": "koala.gif",
-		"audio": "koala.mp3"
+		"audio": "koala.mp3",
+		"name" : "Koala"
     }
 ]

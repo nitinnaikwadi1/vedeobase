@@ -2,126 +2,151 @@
     {
         "id": 0,
         "url": "umbrella.gif",
-		"audio": "umbrella.mp3"
+		"audio": "umbrella.mp3",
+		"name" : "Umbrella"
     },
     {
         "id": 1,
         "url": "curtain.gif",
-		"audio": "curtain.mp3"
+		"audio": "curtain.mp3",
+		"name" : "Curtain"
     },
     {
         "id": 2,
         "url": "sofa.gif",
-		"audio": "sofa.mp3"
+		"audio": "sofa.mp3",
+		"name" : "Sofa"
     },
     {
         "id": 3,
         "url": "chair.gif",
-		"audio": "chair.mp3"
+		"audio": "chair.mp3",
+		"name" : "Chair"
     },
     {
         "id": 4,
         "url": "bed.gif",
-		"audio": "bed.mp3"
+		"audio": "bed.mp3",
+		"name" : "Bed"
     },
     {
         "id": 5,
         "url": "table.gif",
-		"audio": "table.mp3"
+		"audio": "table.mp3",
+		"name" : "Table"
     },
     {
         "id": 6,
         "url": "cupboard.gif",
-		"audio": "cupboard.mp3"
+		"audio": "cupboard.mp3",
+		"name" : "Cupboard"
     },
     {
         "id": 7,
         "url": "shoes.gif",
-		"audio": "shoes.mp3"
+		"audio": "shoes.mp3",
+		"name" : "Shoes"
     },
     {
         "id": 8,
         "url": "socks.gif",
-		"audio": "socks.mp3"
+		"audio": "socks.mp3",
+		"name" : "Socks"
     },
     {
         "id": 9,
         "url": "shirt.gif",
-		"audio": "shirt.mp3"
+		"audio": "shirt.mp3",
+		"name" : "Shirt"
     },
     {
         "id": 10,
         "url": "ice_cream.gif",
-		"audio": "ice_cream.mp3"
+		"audio": "ice_cream.mp3",
+		"name" : "Ice cream"
     },
     {
         "id": 11,
         "url": "cup.gif",
-		"audio": "cup.mp3"
+		"audio": "cup.mp3",
+		"name" : "Cup"
     },
     {
         "id": 12,
         "url": "glass.gif",
-		"audio": "glass.mp3"
+		"audio": "glass.mp3",
+		"name" : "Glass"
     },
     {
         "id": 13,
         "url": "bottle.gif",
-		"audio": "bottle.mp3"
+		"audio": "bottle.mp3",
+		"name" : "Bottle"
     },
     {
         "id": 14,
         "url": "refrigerator.gif",
-		"audio": "refrigerator.mp3"
+		"audio": "refrigerator.mp3",
+		"name" : "Refrigerator"
     },
     {
         "id": 15,
         "url": "knife.gif",
-		"audio": "knife.mp3"
+		"audio": "knife.mp3",
+		"name" : "Knife"
     },
     {
         "id": 16,
         "url": "pot.gif",
-		"audio": "pot.mp3"
+		"audio": "pot.mp3",
+		"name" : "Pot"
     },
     {
         "id": 17,
         "url": "spoon.gif",
-		"audio": "spoon.mp3"
+		"audio": "spoon.mp3",
+		"name" : "Spoon"
     },
     {
         "id": 18,
         "url": "stove.gif",
-		"audio": "stove.mp3"
+		"audio": "stove.mp3",
+		"name" : "Stove"
     },
     {
         "id": 19,
         "url": "scissor.gif",
-		"audio": "scissor.mp3"
+		"audio": "scissor.mp3",
+		"name" : "Scissor"
     },
     {
         "id": 20,
         "url": "watch.gif",
-		"audio": "watch.mp3"
+		"audio": "watch.mp3",
+		"name" : "Watch"
     },
     {
         "id": 21,
         "url": "book.gif",
-		"audio": "book.mp3"
+		"audio": "book.mp3",
+		"name" : "Book"
     },
     {
         "id": 22,
         "url": "pen.gif",
-		"audio": "pen.mp3"
+		"audio": "pen.mp3",
+		"name" : "Pen"
     },
     {
         "id": 23,
         "url": "box.gif",
-		"audio": "box.mp3"
+		"audio": "box.mp3",
+		"name" : "Box"
     },
     {
         "id": 24,
         "url": "bag.gif",
-		"audio": "bag.mp3"
+		"audio": "bag.mp3",
+		"name" : "Bag"
     }
 ]
