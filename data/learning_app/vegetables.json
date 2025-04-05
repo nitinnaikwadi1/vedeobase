@@ -1,4 +1,3 @@
-[
     {
         "id": 0,
         "url": "carrot.gif",
@@ -39,7 +38,7 @@
         "id": 6,
         "url": "peas.gif",
 		"audio": "peas.mp3",
-		"name" : "Umbrella"
+		"name" : "Peas"
     },
 	{
         "id": 7,
