@@ -2,157 +2,157 @@
     {
         "id": 0,
         "url": "apple.gif",
-		"audio": "apple.mp3",
+		"audio": "fruit/apple.mp3",
 		"name" : "Apple"
     },
     {
         "id": 1,
         "url": "banana.gif",
-		"audio": "banana.mp3",
+		"audio": "fruit/banana.mp3",
 		"name" : "Banana"
     },
     {
         "id": 2,
         "url": "coconut.gif",
-		"audio": "coconut.mp3",
+		"audio": "fruit/coconut.mp3",
 		"name" : "Coconut"
     },
     {
         "id": 3,
         "url": "grapes.gif",
-		"audio": "grapes.mp3",
+		"audio": "fruit/grapes.mp3",
 		"name" : "Grapes"
     },
 	 {
         "id": 4,
         "url": "lemon.gif",
-		"audio": "lemon.mp3",
+		"audio": "fruit/lemon.mp3",
 		"name" : "Lemon"
     },
     {
         "id": 5,
         "url": "mango.gif",
-		"audio": "mango.mp3",
+		"audio": "fruit/mango.mp3",
 		"name" : "Mango"
     },
     {
         "id": 6,
         "url": "orange.gif",
-		"audio": "orange.mp3",
+		"audio": "fruit/orange.mp3",
 		"name" : "Orange"
     },
     {
         "id": 7,
         "url": "watermelon.gif",
-		"audio": "watermelon.mp3",
+		"audio": "fruit/watermelon.mp3",
 		"name" : "Watermelon"
     },
     {
         "id": 8,
         "url": "strawberry.gif",
-		"audio": "strawberry.mp3",
+		"audio": "fruit/strawberry.mp3",
 		"name" : "Strawberry"
     },
     {
         "id": 9,
         "url": "pomegranate.gif",
-		"audio": "pomegranate.mp3",
+		"audio": "fruit/pomegranate.mp3",
 		"name" : "Pomegranate"
     },
     {
         "id": 10,
         "url": "pineapple.gif",
-		"audio": "pineapple.mp3",
+		"audio": "fruit/pineapple.mp3",
 		"name" : "Pineapple"
     },
     {
         "id": 11,
         "url": "papaya.gif",
-		"audio": "papaya.mp3",
+		"audio": "fruit/papaya.mp3",
 		"name" : "Papaya"
     },
     {
         "id": 12,
         "url": "pear.gif",
-		"audio": "pear.mp3",
+		"audio": "fruit/pear.mp3",
 		"name" : "Pear"
     },
     {
         "id": 13,
         "url": "tamarind.gif",
-		"audio": "tamarind.mp3",
+		"audio": "fruit/tamarind.mp3",
 		"name" : "Tamarind"
     },
     {
         "id": 14,
         "url": "cherry.gif",
-		"audio": "cherry.mp3",
+		"audio": "fruit/cherry.mp3",
 		"name" : "Cherry"
     },
     {
         "id": 15,
         "url": "apricot.gif",
-		"audio": "apricot.mp3",
+		"audio": "fruit/apricot.mp3",
 		"name" : "Apricot"
     },
     {
         "id": 16,
         "url": "jackfruit.gif",
-		"audio": "jackfruit.mp3",
+		"audio": "fruit/jackfruit.mp3",
 		"name" : "Jackfruit"
     },
     {
         "id": 17,
         "url": "lychee.gif",
-		"audio": "lychee.mp3",
+		"audio": "fruit/lychee.mp3",
 		"name" : "Lychee"
     },
     {
         "id": 18,
         "url": "raspberry.gif",
-		"audio": "raspberry.mp3",
+		"audio": "fruit/raspberry.mp3",
 		"name" : "Raspberry"
     },
     {
         "id": 19,
         "url": "avocado.gif",
-		"audio": "avocado.mp3",
+		"audio": "fruit/avocado.mp3",
 		"name" : "Avocado"
     },
     {
         "id": 20,
         "url": "kiwi.gif",
-		"audio": "kiwi.mp3",
+		"audio": "fruit/kiwi.mp3",
 		"name" : "Kiwi"
     },
     {
         "id": 21,
         "url": "cashew.gif",
-		"audio": "cashew.mp3",
+		"audio": "fruit/cashew.mp3",
 		"name" : "Cashew"
     },
     {
         "id": 22,
         "url": "fig.gif",
-		"audio": "fig.mp3",
+		"audio": "fruit/fig.mp3",
 		"name" : "Fig"
     },
     {
         "id": 23,
         "url": "guava.gif",
-		"audio": "guava.mp3",
+		"audio": "fruit/guava.mp3",
 		"name" : "Guava"
     },
     {
         "id": 24,
         "url": "melon.gif",
-		"audio": "melon.mp3",
+		"audio": "fruit/melon.mp3",
 		"name" : "Melon"
     },
     {
         "id": 25,
         "url": "plum.gif",
-		"audio": "plum.mp3",
+		"audio": "fruit/plum.mp3",
 		"name" : "Plum"
     }
 ]
