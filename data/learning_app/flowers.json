@@ -2,79 +2,79 @@
     {
         "id": 0,
         "url": "zendu.gif",
-		"audio": "zendu.mp3",
-		"name" : "Marigold"
+        "audio": "zendu.mp3",
+        "name": "Marigold"
     },
     {
         "id": 1,
         "url": "mogra.gif",
-		"audio": "mogra.mp3",
-		"name" : "Jasmin"
+        "audio": "mogra.mp3",
+        "name": "Jasmin"
     },
     {
         "id": 2,
         "url": "kamal.gif",
-		"audio": "kamal.mp3",
-		"name" : "Lotus"
+        "audio": "kamal.mp3",
+        "name": "Lotus"
     },
     {
         "id": 3,
         "url": "parijat.gif",
-		"audio": "parijat.mp3",
-		"name" : "Night Jasmin"
+        "audio": "parijat.mp3",
+        "name": "Night Jasmin"
     },
     {
-        "id": 4, 
+        "id": 4,
         "url": "shevanti.gif",
-		"audio": "shevanti.mp3",
-		"name" : "Chrysthemum"
+        "audio": "shevanti.mp3",
+        "name": "Chrysthemum"
     },
     {
         "id": 5,
         "url": "chameli.gif",
-		"audio": "chameli.mp3",
-		"name" : "Common Jasmin"
+        "audio": "chameli.mp3",
+        "name": "Common Jasmin"
     },
     {
         "id": 6,
         "url": "jaswand.gif",
-		"audio": "jaswand.mp3",
-		"name" : "Hibiscus"
+        "audio": "jaswand.mp3",
+        "name": "Hibiscus"
     },
     {
         "id": 7,
         "url": "ratrani.gif",
-		"audio": "ratrani.mp3",
-		"name" : "Night Cestrum"
+        "audio": "ratrani.mp3",
+        "name": "Night Cestrum"
     },
     {
         "id": 8,
         "url": "palas.gif",
-		"audio": "palas.mp3",
-		"name" : "Flame tree"
+        "audio": "palas.mp3",
+        "name": "Flame tree"
     },
     {
         "id": 9,
         "url": "gulmohar.gif",
-		"audio": "gulmohar.mp3",
-		"name" : "Peacock flower"
+        "audio": "gulmohar.mp3",
+        "name": "Peacock flower"
     },
     {
         "id": 10,
         "url": "sadafuli.gif",
-		"audio": "sadafuli.mp3",
-		"name" : "Periwinkle"
+        "audio": "sadafuli.mp3",
+        "name": "Periwinkle"
     },
     {
         "id": 11,
         "url": "suryful.gif",
-		"audio": "suryful.mp3",
-		"name" : "Sunflower"
+        "audio": "suryful.mp3",
+        "name": "Sunflower"
     },
     {
         "id": 12,
         "url": "gulab.gif",
-		"audio": "gulab.mp3",
-		"name" : "Rose"
+        "audio": "gulab.mp3",
+        "name": "Rose"
     }
 ]

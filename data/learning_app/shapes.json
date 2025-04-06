@@ -2,73 +2,73 @@
     {
         "id": 0,
         "url": "circle.gif",
-		"audio": "shape/circle.mp3",
-		"name" : "Circle"
+        "audio": "shape/circle.mp3",
+        "name": "Circle"
     },
     {
         "id": 1,
         "url": "line.gif",
-		"audio": "shape/straight_line.mp3",
-		"name" : "Line"
+        "audio": "shape/straight_line.mp3",
+        "name": "Line"
     },
     {
         "id": 2,
         "url": "triangle.gif",
-		"audio": "shape/triangle.mp3",
-		"name" : "Triangle"
+        "audio": "shape/triangle.mp3",
+        "name": "Triangle"
     },
     {
         "id": 3,
         "url": "square.gif",
-		"audio": "shape/square.mp3",
-		"name" : "Square"
+        "audio": "shape/square.mp3",
+        "name": "Square"
     },
     {
         "id": 4,
         "url": "rectangle.gif",
-		"audio": "shape/rectangle.mp3",
-		"name" : "Rectangle"
+        "audio": "shape/rectangle.mp3",
+        "name": "Rectangle"
     },
     {
         "id": 5,
         "url": "star.gif",
-		"audio": "shape/star.mp3",
-		"name" : "Star"
+        "audio": "shape/star.mp3",
+        "name": "Star"
     },
     {
         "id": 6,
         "url": "oval.gif",
-		"audio": "shape/oval.mp3",
-		"name" : "Oval"
+        "audio": "shape/oval.mp3",
+        "name": "Oval"
     },
     {
         "id": 7,
         "url": "diamond.gif",
-		"audio": "shape/diamond.mp3",
-		"name" : "Diamond"
+        "audio": "shape/diamond.mp3",
+        "name": "Diamond"
     },
     {
         "id": 8,
         "url": "heart.gif",
-		"audio": "shape/heart.mp3",
-		"name" : "Heart"
+        "audio": "shape/heart.mp3",
+        "name": "Heart"
     },
     {
         "id": 9,
         "url": "pentagon.gif",
-		"audio": "shape/pentagon.mp3",
-		"name" : "Pentagon"
+        "audio": "shape/pentagon.mp3",
+        "name": "Pentagon"
     },
     {
         "id": 10,
         "url": "cube.gif",
-		"audio": "shape/cube.mp3",
-		"name" : "Cube"
+        "audio": "shape/cube.mp3",
+        "name": "Cube"
     },
     {
         "id": 11,
         "url": "cylinder.gif",
-		"audio": "shape/cylinder.mp3",
-		"name" : "Cylinder"
+        "audio": "shape/cylinder.mp3",
+        "name": "Cylinder"
     }
 ]

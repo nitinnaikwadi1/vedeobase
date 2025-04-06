@@ -2,133 +2,133 @@
     {
         "id": 0,
         "url": "giraff.gif",
-		"audio": "animal/giraff.mp3",
-		"name" : "Giraff"
+        "audio": "animal/giraff.mp3",
+        "name": "Giraff"
     },
     {
         "id": 2,
         "url": "elephant.gif",
-		"audio": "animal/elephant.mp3",
-		"name" : "Elephant"
+        "audio": "animal/elephant.mp3",
+        "name": "Elephant"
     },
     {
         "id": 3,
         "url": "panda.gif",
-		"audio": "animal/panda.mp3",
-		"name" : "Panda"
+        "audio": "animal/panda.mp3",
+        "name": "Panda"
     },
     {
         "id": 4,
         "url": "bear.gif",
-		"audio": "animal/bear.mp3",
-		"name" : "Bear"
+        "audio": "animal/bear.mp3",
+        "name": "Bear"
     },
     {
         "id": 5,
         "url": "camel.gif",
-		"audio": "animal/camel.mp3",
-		"name" : "Camel"
+        "audio": "animal/camel.mp3",
+        "name": "Camel"
     },
     {
         "id": 6,
         "url": "goat.gif",
-		"audio": "animal/goat.mp3",
-		"name" : "Goat"
+        "audio": "animal/goat.mp3",
+        "name": "Goat"
     },
     {
         "id": 7,
         "url": "tiger.gif",
-		"audio": "animal/tiger.mp3",
-		"name" : "Tiger"
+        "audio": "animal/tiger.mp3",
+        "name": "Tiger"
     },
     {
         "id": 8,
         "url": "cheetah.gif",
-		"audio": "animal/cheetah.mp3",
-		"name" : "Cheetah"
+        "audio": "animal/cheetah.mp3",
+        "name": "Cheetah"
     },
     {
         "id": 9,
         "url": "sheep.gif",
-		"audio": "animal/sheep.mp3",
-		"name" : "Sheep"
+        "audio": "animal/sheep.mp3",
+        "name": "Sheep"
     },
     {
         "id": 10,
         "url": "buffalow.gif",
-		"audio": "animal/buffalow.mp3",
-		"name" : "Buffalow"
+        "audio": "animal/buffalow.mp3",
+        "name": "Buffalow"
     },
     {
         "id": 11,
         "url": "lion.gif",
-		"audio": "animal/lion.mp3",
-		"name" : "Lion"
+        "audio": "animal/lion.mp3",
+        "name": "Lion"
     },
     {
         "id": 12,
         "url": "cow.gif",
-		"audio": "animal/cow.mp3",
-		"name" : "Cow"
+        "audio": "animal/cow.mp3",
+        "name": "Cow"
     },
     {
         "id": 13,
         "url": "rhino.gif",
-		"audio": "animal/rhino.mp3",
-		"name" : "Rhino"
+        "audio": "animal/rhino.mp3",
+        "name": "Rhino"
     },
     {
         "id": 14,
         "url": "zebra.gif",
-		"audio": "animal/zebra.mp3",
-		"name" : "Zebra"
+        "audio": "animal/zebra.mp3",
+        "name": "Zebra"
     },
     {
         "id": 15,
         "url": "deer.gif",
-		"audio": "animal/deer.mp3",
-		"name" : "Deer"
+        "audio": "animal/deer.mp3",
+        "name": "Deer"
     },
     {
         "id": 16,
         "url": "fox.gif",
-		"audio": "animal/fox.mp3",
-		"name" : "Fox"
+        "audio": "animal/fox.mp3",
+        "name": "Fox"
     },
     {
         "id": 17,
         "url": "monkey.gif",
-		"audio": "animal/monkey.mp3",
-		"name" : "Monkey"
+        "audio": "animal/monkey.mp3",
+        "name": "Monkey"
     },
     {
         "id": 18,
         "url": "pig.gif",
-		"audio": "animal/pig.mp3",
-		"name" : "Pig"
+        "audio": "animal/pig.mp3",
+        "name": "Pig"
     },
     {
         "id": 19,
         "url": "hyena.gif",
-		"audio": "animal/hyena.mp3",
-		"name" : "Hyena"
+        "audio": "animal/hyena.mp3",
+        "name": "Hyena"
     },
     {
         "id": 20,
         "url": "racoon.gif",
-		"audio": "animal/racoon.mp3",
-		"name" : "Racoon"
+        "audio": "animal/racoon.mp3",
+        "name": "Racoon"
     },
     {
         "id": 21,
         "url": "rabbit.gif",
-		"audio": "animal/rabbit.mp3",
-		"name" : "Rabbit"
+        "audio": "animal/rabbit.mp3",
+        "name": "Rabbit"
     },
     {
         "id": 22,
         "url": "koala.gif",
-		"audio": "animal/koala.mp3",
-		"name" : "Koala"
+        "audio": "animal/koala.mp3",
+        "name": "Koala"
     }
 ]
