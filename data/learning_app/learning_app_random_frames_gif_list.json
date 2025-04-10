@@ -13,34 +13,30 @@
     },
     {
         "id": 3,
-        "url": "giraff.gif"
-    },
-    {
-        "id": 4,
         "url": "girl-colors.gif"
     },
     {
-        "id": 5,
+        "id": 4,
         "url": "panda.gif"
     },
     {
-        "id": 6,
+        "id": 5,
         "url": "sparrow.gif"
     },
     {
-        "id": 7,
+        "id": 6,
         "url": "trees-sun.gif"
     },
     {
-        "id": 8,
+        "id": 7,
         "url": "umbrella.gif"
     },
     {
-        "id": 9,
+        "id": 8,
         "url": "weight-balance.gif"
     },
     {
-        "id": 10,
+        "id": 9,
         "url": "windmill.gif"
     }
 ]
