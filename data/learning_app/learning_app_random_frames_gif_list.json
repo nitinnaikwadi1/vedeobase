@@ -25,18 +25,10 @@
     },
     {
         "id": 6,
-        "url": "trees-sun.gif"
-    },
+        "url": "umbrella.gif"
+    }
     {
         "id": 7,
-        "url": "umbrella.gif"
-    },
-    {
-        "id": 8,
-        "url": "weight-balance.gif"
-    },
-    {
-        "id": 9,
         "url": "windmill.gif"
     }
 ]
