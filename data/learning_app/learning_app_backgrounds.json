@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "url": "submarine.gif"
+    },
+    {
+        "id": 1,
+        "url": "back1.gif"
+    },
+    {
+        "id": 2,
+        "url": "back2.gif"
+    },
+    {
+        "id": 3,
+        "url": "dandelion.gif"
+    },
+    {
+        "id": 4,
+        "url": "fluid.gif"
+    },
+    {
+        "id": 5,
+        "url": "road.gif"
+    },
+    {
+        "id": 6
+        "url": "rocks.gif"
+    },
+    {
+        "id": 7,
+        "url": "flowers.gif"
+    },
+    {
+        "id": 8,
+        "url": "sunrise.gif"
+    },
+    {
+        "id": 9,
+        "url": "elephants.gif"
+    }
+]
