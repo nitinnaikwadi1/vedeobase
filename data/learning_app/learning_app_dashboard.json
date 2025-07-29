@@ -1,15 +1,9 @@
 [
     {
         "id": 0,
-        "url": "alphabets.gif",
-        "link": "alphabets.json",
-        "title": "Alphabets"
-    },
-    {
-        "id": 1,
-        "url": "numbers.gif",
-        "link": "numbers.json",
-        "title": "Numbers"
+        "url": "occupation.gif",
+        "link": "occupation.json",
+        "title": "Occupation"
     },
     {
         "id": 2,

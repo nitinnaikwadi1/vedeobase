@@ -1,0 +1,110 @@
+[
+    {
+        "id": 0,
+        "url": "architect.gif",
+        "audio": "occupation/architect.mp3",
+        "name": "Architect"
+    },
+    {
+        "id": 0,
+        "url": "cleaner.gif",
+        "audio": "occupation/cleaner.mp3",
+        "name": "Cleaner"
+    },
+    {
+        "id": 1,
+        "url": "cook.gif",
+        "audio": "occupation/cook.mp3",
+        "name": "Cook"
+    },
+    {
+        "id": 3,
+        "url": "dancer.gif",
+        "audio": "occupation/dancer.mp3",
+        "name": "Dancer"
+    },
+    {
+        "id": 6,
+        "url": "doctor.gif",
+        "audio": "occupation/doctor.mp3",
+        "name": "Doctor"
+    },
+    {
+        "id": 7,
+        "url": "driver.gif",
+        "audio": "occupation/driver.mp3",
+        "name": "Driver"
+    },
+    {
+        "id": 4,
+        "url": "farmer.gif",
+        "audio": "occupation/farmer.mp3",
+        "name": "farmer"
+    },
+    {
+        "id": 10,
+        "url": "painter.gif",
+        "audio": "occupation/painter.mp3",
+        "name": "Painter"
+    },
+    {
+        "id": 10,
+        "url": "plumber.gif",
+        "audio": "occupation/plumber.mp3",
+        "name": "Plumber"
+    },
+    {
+        "id": 10,
+        "url": "pottery.gif",
+        "audio": "occupation/pottery.mp3",
+        "name": "Pottery"
+    },
+    {
+        "id": 10,
+        "url": "postman.gif",
+        "audio": "occupation/postman.mp3",
+        "name": "Postman"
+    },
+    {
+        "id": 10,
+        "url": "electrician.gif",
+        "audio": "occupation/electrician.mp3",
+        "name": "Electrician"
+    },
+    {
+        "id": 10,
+        "url": "sculptorist.gif",
+        "audio": "occupation/sculptorist.mp3",
+        "name": "Sculptorist"
+    },
+    {
+        "id": 10,
+        "url": "sweeper.gif",
+        "audio": "occupation/sweeper.mp3",
+        "name": "Sweeper"
+    },
+    {
+        "id": 10,
+        "url": "tailor.gif",
+        "audio": "occupation/tailor.mp3",
+        "name": "Tailor"
+    },
+    {
+        "id": 5,
+        "url": "teacher.gif",
+        "audio": "occupation/teacher.mp3",
+        "name": "teacher"
+    },
+    {
+        "id": 10,
+        "url": "waiter.gif",
+        "audio": "occupation/waiter.mp3",
+        "name": "Waiter"
+    },
+    {
+        "id": 10,
+        "url": "weldor.gif",
+        "audio": "occupation/weldor.mp3",
+        "name": "Weldor"
+    }
+]
