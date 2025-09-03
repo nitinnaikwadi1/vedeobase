@@ -7,9 +7,9 @@
     },
     {
         "id": 4,
-        "name": "carter_family_fun_games",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/carter_family_fun_games.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/carter_family_fun_games.jpg"
+        "name": "hiku_penguine_story",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/hiku_penguine_story.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/hiku_penguine_story.jpg"
     },
     {
         "id": 5,
@@ -19,9 +19,9 @@
     },
     {
         "id": 6,
-        "name": "carter_family_mud",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/carter_family_mud.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/carter_family_mud.jpg"
+        "name": "home_improvements",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/home_improvements.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/home_improvements.jpg"
     },
     {
         "id": 7,
@@ -103,9 +103,9 @@
     },
     {
         "id": 28,
-        "name": "shopping_with_daddy_story",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/shopping_with_daddy_story.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/shopping_with_daddy_story.jpg"
+        "name": "fun_school_jump_rope_day",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/fun_school_jump_rope_day.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/fun_school_jump_rope_day.jpg"
     },
     {
         "id": 32,
@@ -127,8 +127,26 @@
     },
     {
         "id": 36,
-        "name": "ek_hota_bi",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/ek_hota_bi.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/ek_hota_bi.jpg"
+        "name": "lets_learn_fingers",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/lets_learn_fingers.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/lets_learn_fingers.jpg"
+    },
+    {
+        "id": 36,
+        "name": "learn_abc",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/learn_abc.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/learn_abc.jpg"
+    },
+    {
+        "id": 36,
+        "name": "south_street_school_first_day",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/south_street_school_first_day.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/south_street_school_first_day.jpg"
+    },
+    {
+        "id": 36,
+        "name": "firefly_night",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/firefly_night.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/firefly_night.jpg"
     }
 ]
