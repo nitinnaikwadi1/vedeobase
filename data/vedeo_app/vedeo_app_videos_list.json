@@ -148,5 +148,11 @@
         "name": "firefly_night",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/firefly_night.mp4",
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/firefly_night.jpg"
+    },
+    {
+        "id": 36,
+        "name": "masha_jam_day",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_jam_day.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_jam_day.jpg"
     }
 ]
