@@ -61,9 +61,9 @@
     },
     {
         "id": 2,
-        "name": "carter_family_chores",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/carter_family_chores.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/carter_family_chores.jpg"
+        "name": "cat_numbers",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/cat_numbers.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/cat_numbers.jpg"
     },
     {
         "id": 9,
@@ -127,9 +127,9 @@
     },
     {
         "id": 36,
-        "name": "lets_learn_fingers",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/lets_learn_fingers.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/lets_learn_fingers.jpg"
+        "name": "animanimals_polar_bear",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/animanimals_polar_bear.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/animanimals_polar_bear.jpg"
     },
     {
         "id": 36,
@@ -154,5 +154,17 @@
         "name": "masha_jam_day",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_jam_day.mp4",
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_jam_day.jpg"
+    },
+    {
+        "id": 36,
+        "name": "peter_benjamin_rabbit",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/peter_benjamin_rabbit.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/peter_benjamin_rabbit.jpg"
+    },
+    {
+        "id": 36,
+        "name": "jamima_peter_fishing",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/jamima_peter_fishing.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/jamima_peter_fishing.jpg"
     }
 ]
