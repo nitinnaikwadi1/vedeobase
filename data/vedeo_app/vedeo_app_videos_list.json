@@ -148,5 +148,11 @@
         "name": "what_i_like",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/what_i_like.mp4",
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/what_i_like.jpg"
+    },
+    {
+        "id": 36,
+        "name": "little_cousin",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/little_cousin.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/little_cousin.jpg"
     }
 ]
