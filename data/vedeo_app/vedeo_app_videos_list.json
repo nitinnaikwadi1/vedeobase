@@ -1,33 +1,9 @@
 [
     {
-        "id": 1,
-        "name": "carter_family_camping",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/carter_family_camping.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/carter_family_camping.jpg"
-    },
-    {
         "id": 4,
         "name": "hiku_penguine_story",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/hiku_penguine_story.mp4",
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/hiku_penguine_story.jpg"
-    },
-    {
-        "id": 5,
-        "name": "carter_family_game_night",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/carter_family_game_night.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/carter_family_game_night.jpg"
-    },
-    {
-        "id": 6,
-        "name": "home_improvements",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/home_improvements.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/home_improvements.jpg"
-    },
-    {
-        "id": 13,
-        "name": "carter_family_tree_house",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/carter_family_tree_house.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/carter_family_tree_house.jpg"
     },
     {
         "id": 1,
@@ -60,18 +36,6 @@
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/minions.jpg"
     },
     {
-        "id": 18,
-        "name": "masha_shapes",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_shapes.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_shapes.jpg"
-    },
-    {
-        "id": 24,
-        "name": "sanu_ik_pal_dada",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/sanu_ik_pal_dada.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/sanu_ik_pal_dada.jpg"
-    },
-    {
         "id": 28,
         "name": "fun_school_jump_rope_day",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/fun_school_jump_rope_day.mp4",
@@ -82,12 +46,6 @@
         "name": "south_street_school_first_day",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/south_street_school_first_day.mp4",
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/south_street_school_first_day.jpg"
-    },
-    {
-        "id": 36,
-        "name": "firefly_night",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/firefly_night.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/firefly_night.jpg"
     },
     {
         "id": 36,
@@ -145,14 +103,14 @@
     },
     {
         "id": 36,
-        "name": "what_i_like",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/what_i_like.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/what_i_like.jpg"
-    },
-    {
-        "id": 36,
         "name": "little_cousin",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/little_cousin.mp4",
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/little_cousin.jpg"
+    },
+    {
+        "id": 36,
+        "name": "alice_wonderland_garden",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/alice_wonderland_garden.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/alice_wonderland_garden.jpg"
     }
 ]
