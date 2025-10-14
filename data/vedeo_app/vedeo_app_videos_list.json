@@ -6,18 +6,6 @@
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/hiku_penguine_story.jpg"
     },
     {
-        "id": 1,
-        "name": "kitten_how_where",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/kitten_how_where.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/kitten_how_where.jpg"
-    },
-    {
-        "id": 2,
-        "name": "kitten_what_is_your_name",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/kitten_what_is_your_name.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/kitten_what_is_your_name.jpg"
-    },
-    {
         "id": 2,
         "name": "cat_numbers",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/cat_numbers.mp4",
@@ -36,72 +24,6 @@
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/minions.jpg"
     },
     {
-        "id": 28,
-        "name": "fun_school_jump_rope_day",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/fun_school_jump_rope_day.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/fun_school_jump_rope_day.jpg"
-    },
-    {
-        "id": 36,
-        "name": "south_street_school_first_day",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/south_street_school_first_day.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/south_street_school_first_day.jpg"
-    },
-    {
-        "id": 36,
-        "name": "masha_jam_day",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_jam_day.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_jam_day.jpg"
-    },
-    {
-        "id": 36,
-        "name": "peter_benjamin_rabbit",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/peter_benjamin_rabbit.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/peter_benjamin_rabbit.jpg"
-    },
-    {
-        "id": 36,
-        "name": "jamima_peter_fishing",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/jamima_peter_fishing.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/jamima_peter_fishing.jpg"
-    },
-    {
-        "id": 36,
-        "name": "masha_school",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_school.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_school.jpg"
-    },
-    {
-        "id": 36,
-        "name": "bat_friends_lost",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/bat_friends_lost.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/bat_friends_lost.jpg"
-    },
-    {
-        "id": 36,
-        "name": "bat_friends_well",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/bat_friends_well.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/bat_friends_well.jpg"
-    },
-    {
-        "id": 36,
-        "name": "bat_friends_camping",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/bat_friends_camping.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/bat_friends_camping.jpg"
-    },
-    {
-        "id": 36,
-        "name": "bat_friends_monstor",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/bat_friends_monstor.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/bat_friends_monstor.jpg"
-    },
-    {
-        "id": 36,
-        "name": "masha_bon_apetit",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_bon_apetit.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_bon_apetit.jpg"
-    },
-    {
         "id": 36,
         "name": "little_cousin",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/little_cousin.mp4",
@@ -112,5 +34,71 @@
         "name": "tom_jerry_baby",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/tom_jerry_baby.mp4",
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/tom_jerry_baby.jpeg"
+    },
+    {
+        "id": 36,
+        "name": "tom_jerry_duck",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/tom_jerry_duck.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/tom_jerry_duck.jpeg"
+    },
+    {
+        "id": 36,
+        "name": "tom_jerry_lion",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/tom_jerry_lion.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/tom_jerry_lion.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "bat_friends_camping",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/bat_friends_camping.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/bat_friends_camping.jpg"
+    },
+    {
+        "id": 2,
+        "name": "carter_family_fun_games",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/carter_family_fun_games.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/carter_family_fun_games.jpg"
+    },
+    {
+        "id": 2,
+        "name": "giant_turnip",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/giant_turnip.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/giant_turnip.jpg"
+    },
+    {
+        "id": 2,
+        "name": "goldilock_three_bear",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/goldilock_three_bear.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/goldilock_three_bear.jpg"
+    },
+    {
+        "id": 2,
+        "name": "i_see_sea_animal",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/i_see_sea_animal.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/i_see_sea_animal.jpg"
+    },
+    {
+        "id": 2,
+        "name": "kitten_bath",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/kitten_bath.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/kitten_bath.jpg"
+    },
+    {
+        "id": 2,
+        "name": "kittens_story",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/kittens_story.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/kittens_story.jpg"
+    },
+    {
+        "id": 2,
+        "name": "margo_caterpillar",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/margo_caterpillar.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/margo_caterpillar.jpg"
+    },
+    {
+        "id": 2,
+        "name": "what_helen_have",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/what_helen_have.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/what_helen_have.jpg"
     }
 ]
