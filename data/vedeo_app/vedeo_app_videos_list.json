@@ -19,9 +19,9 @@
     },
     {
         "id": 15,
-        "name": "minions",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/minions.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/minions.jpg"
+        "name": "minions_2",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/minions_2.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/minions_2.jpg"
     },
     {
         "id": 36,
@@ -39,13 +39,13 @@
         "id": 36,
         "name": "tom_jerry_duck",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/tom_jerry_duck.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/tom_jerry_duck.jpeg"
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/tom_jerry_duck.jpg"
     },
     {
         "id": 36,
         "name": "tom_jerry_lion",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/tom_jerry_lion.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/tom_jerry_lion.jpeg"
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/tom_jerry_lion.jpg"
     },
     {
         "id": 2,
@@ -69,7 +69,7 @@
         "id": 2,
         "name": "goldilock_three_bear",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/goldilock_three_bear.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/goldilock_three_bear.jpg"
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/goldilock_three_bear.png"
     },
     {
         "id": 2,
