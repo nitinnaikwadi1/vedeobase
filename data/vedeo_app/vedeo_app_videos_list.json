@@ -1,104 +1,62 @@
 [
     {
         "id": 2,
-        "name": "animanimals_cat",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/animanimals_cat.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/animanimals_cat.jpg"
+        "name": "animanimals_all",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/animanimals_all.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/animanimals_all.jpg"
     },
     {
         "id": 11,
-        "name": "numbers_vehicle",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/numbers_vehicle.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/numbers_vehicle.jpg"
+        "name": "animanimals_bear",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/animanimals_bear.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/animanimals_bear.jpg"
     },
     {
         "id": 15,
-        "name": "animanimals_polar_bear",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/animanimals_polar_bear.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/animanimals_polar_bear.jpg"
+        "name": "fable_bear_honey",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/fable_bear_honey.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/fable_bear_honey.jpg"
     },
     {
         "id": 36,
-        "name": "animanimals_sheep",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/animanimals_sheep.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/animanimals_sheep.jpg"
+        "name": "masha_findings",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_findings.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_findings.jpg"
     },
     {
         "id": 36,
-        "name": "tom_jerry_duck",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/tom_jerry_duck.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/tom_jerry_duck.jpg"
+        "name": "masha_lala_lamb",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_lala_lamb.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_lala_lamb.jpg"
     },
     {
         "id": 36,
-        "name": "ek_hota_bi",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/ek_hota_bi.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/ek_hota_bi.jpg"
+        "name": "masha_fluffy_desert",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_fluffy_desert.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_fluffy_desert.jpg"
     },
     {
         "id": 2,
-        "name": "elephant_paradise",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/elephant_paradise.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/elephant_paradise.jpg"
+        "name": "masha_knows_best",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_knows_best.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_knows_best.jpg"
     },
     {
         "id": 2,
-        "name": "felings_emotions",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/felings_emotions.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/felings_emotions.jpg"
+        "name": "masha_fireworks_sky",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_fireworks_sky.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_fireworks_sky.jpg"
     },
     {
         "id": 2,
-        "name": "tom_jerry_baloon",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/tom_jerry_baloon.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/tom_jerry_baloon.jpeg"
-    },
-    {
-        "id": 2,
-        "name": "i_like_to_draw",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/i_like_to_draw.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/i_like_to_draw.jpg"
-    },
-    {
-        "id": 2,
-        "name": "learn_abc",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/learn_abc.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/learn_abc.jpg"
-    },
-    {
-        "id": 2,
-        "name": "home_improvements",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/home_improvements.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/home_improvements.jpg"
+        "name": "margo_frog_2",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/margo_frog_2.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/margo_frog_2.jpeg"
     },
     {
         "id": 2,
         "name": "little_blue_truck",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/little_blue_truck.mp4",
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/little_blue_truck.jpg"
-    },
-    {
-        "id": 2,
-        "name": "masha_shapes",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_shapes.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_shapes.jpg"
-    },
-    {
-        "id": 2,
-        "name": "myau_myau_manimau",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/myau_myau_manimau.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/myau_myau_manimau.jpg"
-    },
-    {
-        "id": 2,
-        "name": "paus_ala",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/paus_ala.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/paus_ala.jpg"
-    },
-    {
-        "id": 2,
-        "name": "masha_jam_day",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_jam_day.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/masha_jam_day.jpg"
     }
 ]
