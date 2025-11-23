@@ -78,12 +78,6 @@
         "name": "Stingray"
     },
     {
-        "id": 13,
-        "url": "shell.gif",
-        "audio": "sea_animal/shell.mp3",
-        "name": "Shell"
-    },
-    {
         "id": 14,
         "url": "clown_fish.gif",
         "audio": "sea_animal/clown_fish.mp3",
