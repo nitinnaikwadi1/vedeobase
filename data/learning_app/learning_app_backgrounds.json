@@ -38,5 +38,25 @@
     {
         "id": 9,
         "url": "elephants.gif"
+    },
+    {
+        "id": 10,
+        "url": "moon.gif"
+    },
+    {
+        "id": 11,
+        "url": "monkey.gif"
+    },
+    {
+        "id": 12,
+        "url": "field.gif"
+    },
+    {
+        "id": 13,
+        "url": "cyclist.gif"
+    },
+    {
+        "id": 14,
+        "url": "boat.gif"
     }
 ]
