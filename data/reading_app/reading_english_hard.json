@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "url": "park.gif",
+        "readingArr": [
+            {
+                "text": "this park is green and big.",
+                "audio": "test.mp3"
+            }
+        ]
+    },
+	{
+        "id": 0,
+        "url": "rain.gif",
+        "readingArr": [
+            {
+                "text": "I like rain.",
+                "audio": "test.mp3"
+            }
+        ]
+    },
+	{
+        "id": 0,
+        "url": "animal.gif",
+        "readingArr": [
+            {
+                "text": "Wild animals are big and strong.",
+                "audio": "test.mp3"
+            }
+        ]
+    },
+	{
+        "id": 0,
+        "url": "mountain.gif",
+        "readingArr": [
+            {
+                "text": "I like to climb mountain.",
+                "audio": "test.mp3"
+            }
+        ]
+    }
+]
