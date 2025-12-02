@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "url": "christmas.gif",
+        "audio": "festivals/christmas.mp3",
+        "name": "Christmas"
+    },
+    {
+        "id": 1,
+        "url": "eid.gif",
+        "audio": "festivals/eid.mp3",
+        "name": "Eid"
+    },
+    {
+        "id": 2,
+        "url": "diwali.gif",
+        "audio": "festivals/diwali.mp3",
+        "name": "Diwali"
+    },
+    {
+        "id": 3,
+        "url": "holi.gif",
+        "audio": "festivals/holi.mp3",
+        "name": "Holi"
+    }
+]

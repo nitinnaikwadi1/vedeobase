@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "url": "monday.gif",
+        "audio": "week/monday.mp3",
+        "name": "Monday"
+    },
+    {
+        "id": 1,
+        "url": "tuesday.gif",
+        "audio": "week/tuesday.mp3",
+        "name": "Tuesday"
+    },
+    {
+        "id": 2,
+        "url": "wednesday.gif",
+        "audio": "week/wednesday.mp3",
+        "name": "Wednesday"
+    },
+    {
+        "id": 3,
+        "url": "thursday.gif",
+        "audio": "week/thursday.mp3",
+        "name": "Thursday"
+    },
+    {
+        "id": 4,
+        "url": "friday.gif",
+        "audio": "week/friday.mp3",
+        "name": "Friday"
+    },
+    {
+        "id": 5,
+        "url": "saturday.gif",
+        "audio": "week/saturday.mp3",
+        "name": "Saturday"
+    },
+    {
+        "id": 6,
+        "url": "sunday.gif",
+        "audio": "week/sunday.mp3",
+        "name": "Sunday"
+    }
+]

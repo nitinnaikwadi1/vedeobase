@@ -1,0 +1,278 @@
+[
+    {
+        "id": 0,
+        "url": "pencil.gif",
+        "audio": "stationary/pencil.mp3",
+        "name": "Pencil"
+    },
+    {
+        "id": 1,
+        "url": "pen.gif",
+        "audio": "stationary/pen.mp3",
+        "name": "Pen"
+    },
+    {
+        "id": 2,
+        "url": "marker.gif",
+        "audio": "stationary/marker.mp3",
+        "name": "Marker"
+    },
+    {
+        "id": 3,
+        "url": "palette.gif",
+        "audio": "stationary/palette.mp3",
+        "name": "Palette"
+    },
+    {
+        "id": 4,
+        "url": "crayons.gif",
+        "audio": "stationary/crayons.mp3",
+        "name": "Crayons"
+    },
+    {
+        "id": 5,
+        "url": "water_colour.gif",
+        "audio": "stationary/water_colour.mp3",
+        "name": "Water Colour"
+    },
+    {
+        "id": 6,
+        "url": "sketch_pens.gif",
+        "audio": "stationary/sketch_pens.mp3",
+        "name": "Sketch Pens"
+    },
+    {
+        "id": 7,
+        "url": "colour_tubes.gif",
+        "audio": "stationary/colour_tubes.mp3",
+        "name": "Colour Tubes"
+    },
+    {
+        "id": 8,
+        "url": "chalk.gif",
+        "audio": "stationary/chalk.mp3",
+        "name": "Chalk"
+    },
+    {
+        "id": 9,
+        "url": "brushes.gif",
+        "audio": "stationary/brushes.mp3",
+        "name": "Brushes"
+    },
+    {
+        "id": 10,
+        "url": "sharpener.gif",
+        "audio": "stationary/sharpener.mp3",
+        "name": "Sharpener"
+    },
+    {
+        "id": 11,
+        "url": "eraser.gif",
+        "audio": "stationary/eraser.mp3",
+        "name": "Eraser"
+    },
+    {
+        "id": 12,
+        "url": "ink.gif",
+        "audio": "stationary/ink.mp3",
+        "name": "Ink"
+    },
+    {
+        "id": 13,
+        "url": "ruler.gif",
+        "audio": "stationary/ruler.mp3",
+        "name": "Ruler"
+    },
+    {
+        "id": 14,
+        "url": "clip.gif",
+        "audio": "stationary/clip.mp3",
+        "name": "Clip"
+    },
+    {
+        "id": 15,
+        "url": "clasp.gif",
+        "audio": "stationary/clasp.mp3",
+        "name": "Clasp"
+    },
+    {
+        "id": 16,
+        "url": "blackboard.gif",
+        "audio": "stationary/blackboard.mp3",
+        "name": "Blackboard"
+    },
+    {
+        "id": 17,
+        "url": "whiteboard.gif",
+        "audio": "stationary/whiteboard.mp3",
+        "name": "Whiteboard"
+    },
+    {
+        "id": 18,
+        "url": "clipboard.gif",
+        "audio": "stationary/clipboard.mp3",
+        "name": "Clipboard"
+    },
+    {
+        "id": 19,
+        "url": "calculator.gif",
+        "audio": "stationary/calculator.mp3",
+        "name": "Calculator"
+    },
+    {
+        "id": 20,
+        "url": "globe.gif",
+        "audio": "stationary/globe.mp3",
+        "name": "Globe"
+    },
+    {
+        "id": 21,
+        "url": "envelope.gif",
+        "audio": "stationary/envelope.mp3",
+        "name": "Envelope"
+    },
+    {
+        "id": 22,
+        "url": "folder.gif",
+        "audio": "stationary/folder.mp3",
+        "name": "Folder"
+    },
+    {
+        "id": 23,
+        "url": "rediary_bin.gif",
+        "audio": "stationary/rediary_bin.mp3",
+        "name": "Rediary Bin"
+    },
+    {
+        "id": 24,
+        "url": "stapler.gif",
+        "audio": "stationary/stapler.mp3",
+        "name": "Stapler"
+    },
+    {
+        "id": 25,
+        "url": "puncher.gif",
+        "audio": "stationary/puncher.mp3",
+        "name": "Puncher"
+    },
+    {
+        "id": 26,
+        "url": "cutter.gif",
+        "audio": "stationary/cutter.mp3",
+        "name": "Cutter"
+    },
+    {
+        "id": 27,
+        "url": "stamp.gif",
+        "audio": "stationary/stamp.mp3",
+        "name": "Stamp"
+    },
+    {
+        "id": 28,
+        "url": "sticky_note.gif",
+        "audio": "stationary/sticky_note.mp3",
+        "name": "Sticky Note"
+    },
+    {
+        "id": 29,
+        "url": "holder.gif",
+        "audio": "stationary/holder.mp3",
+        "name": "Holder"
+    },
+    {
+        "id": 30,
+        "url": "rubber_band.gif",
+        "audio": "stationary/rubber_band.mp3",
+        "name": "Rubber Band"
+    },
+    {
+        "id": 31,
+        "url": "diary.gif",
+        "audio": "stationary/diary.mp3",
+        "name": "Diary"
+    },
+    {
+        "id": 32,
+        "url": "tape.gif",
+        "audio": "stationary/tape.mp3",
+        "name": "Tape"
+    },
+    {
+        "id": 33,
+        "url": "glue.gif",
+        "audio": "stationary/glue.mp3",
+        "name": "Glue"
+    },
+    {
+        "id": 34,
+        "url": "notebook.gif",
+        "audio": "stationary/notebook.mp3",
+        "name": "Notebook"
+    },
+    {
+        "id": 35,
+        "url": "paper.gif",
+        "audio": "stationary/paper.mp3",
+        "name": "Paper"
+    },
+    {
+        "id": 36,
+        "url": "binder.gif",
+        "audio": "stationary/binder.mp3",
+        "name": "Binder"
+    },
+    {
+        "id": 37,
+        "url": "printer.gif",
+        "audio": "stationary/printer.mp3",
+        "name": "Printer"
+    },
+    {
+        "id": 38,
+        "url": "easel.gif",
+        "audio": "stationary/easel.mp3",
+        "name": "Easel"
+    },
+    {
+        "id": 39,
+        "url": "school_bag.gif",
+        "audio": "stationary/school_bag.mp3",
+        "name": "School Bag"
+    },
+    {
+        "id": 40,
+        "url": "scissor.gif",
+        "audio": "stationary/scissor.mp3",
+        "name": "Scissor"
+    },
+    {
+        "id": 41,
+        "url": "pushpin.gif",
+        "audio": "stationary/pushpin.mp3",
+        "name": "Pushpin"
+    },
+    {
+        "id": 42,
+        "url": "notepad.gif",
+        "audio": "stationary/notepad.mp3",
+        "name": "Notepad"
+    },
+    {
+        "id": 43,
+        "url": "files.gif",
+        "audio": "stationary/files.mp3",
+        "name": "Files"
+    },
+    {
+        "id": 44,
+        "url": "compass.gif",
+        "audio": "stationary/compass.mp3",
+        "name": "Compass"
+    },
+    {
+        "id": 45,
+        "url": "map.gif",
+        "audio": "stationary/map.mp3",
+        "name": "Map"
+    }
+]

@@ -130,5 +130,11 @@
         "url": "koala.gif",
         "audio": "animal/koala.mp3",
         "name": "Koala"
+    },
+    {
+        "id": 23,
+        "url": "kangaroo.gif",
+        "audio": "animal/kangaroo.mp3",
+        "name": "Kangaroo"
     }
 ]

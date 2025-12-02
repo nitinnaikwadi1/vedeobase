@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "url": "up.gif",
+        "audio": "direction/up.mp3",
+        "name": "Up"
+    },
+    {
+        "id": 1,
+        "url": "down.gif",
+        "audio": "direction/down.mp3",
+        "name": "Down"
+    },
+    {
+        "id": 2,
+        "url": "right.gif",
+        "audio": "direction/right.mp3",
+        "name": "Right"
+    },
+    {
+        "id": 3,
+        "url": "left.gif",
+        "audio": "direction/left.mp3",
+        "name": "Left"
+    },
+    {
+        "id": 4,
+        "url": "straight.gif",
+        "audio": "direction/straight.mp3",
+        "name": "Straight"
+    },
+    {
+        "id": 5,
+        "url": "back.gif",
+        "audio": "direction/back.mp3",
+        "name": "Back"
+    }
+]

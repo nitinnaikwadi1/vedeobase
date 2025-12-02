@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "url": "happy.gif",
+        "audio": "feeling_emotions/happy.mp3",
+        "name": "Happy"
+    },
+    {
+        "id": 1,
+        "url": "sad.gif",
+        "audio": "feeling_emotions/sad.mp3",
+        "name": "Sad"
+    },
+    {
+        "id": 2,
+        "url": "angry.gif",
+        "audio": "feeling_emotions/angry.mp3",
+        "name": "Angry"
+    },
+    {
+        "id": 3,
+        "url": "scared.gif",
+        "audio": "feeling_emotions/scared.mp3",
+        "name": "Scared"
+    },
+    {
+        "id": 4,
+        "url": "surprised.gif",
+        "audio": "feeling_emotions/surprised.mp3",
+        "name": "Surprised"
+    },
+    {
+        "id": 5,
+        "url": "gasped.gif",
+        "audio": "feeling_emotions/gasped.mp3",
+        "name": "Gasped"
+    },
+    {
+        "id": 6,
+        "url": "tired.gif",
+        "audio": "feeling_emotions/tired.mp3",
+        "name": "Tired"
+    },
+    {
+        "id": 7,
+        "url": "bored.gif",
+        "audio": "feeling_emotions/bored.mp3",
+        "name": "Bored"
+    },
+    {
+        "id": 8,
+        "url": "shy.gif",
+        "audio": "feeling_emotions/shy.mp3",
+        "name": "shy"
+    },
+    {
+        "id": 9,
+        "url": "hungry.gif",
+        "audio": "feeling_emotions/hungry.mp3",
+        "name": "Hungry"
+    }
+]

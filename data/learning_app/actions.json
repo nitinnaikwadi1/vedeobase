@@ -1,0 +1,266 @@
+[
+    {
+        "id": 0,
+        "url": "sitting.gif",
+        "audio": "actions/sitting.mp3",
+        "name": "Sitting"
+    },
+    {
+        "id": 1,
+        "url": "standing.gif",
+        "audio": "actions/standing.mp3",
+        "name": "Standing"
+    },
+    {
+        "id": 2,
+        "url": "walking.gif",
+        "audio": "actions/walking.mp3",
+        "name": "Walking"
+    },
+    {
+        "id": 3,
+        "url": "running.gif",
+        "audio": "actions/running.mp3",
+        "name": "Running"
+    },
+    {
+        "id": 4,
+        "url": "lying_down.gif",
+        "audio": "actions/lying_down.mp3",
+        "name": "Lying Down"
+    },
+    {
+        "id": 5,
+        "url": "kneeling.gif",
+        "audio": "actions/kneeling.mp3",
+        "name": "Kneeling"
+    },
+    {
+        "id": 6,
+        "url": "bending.gif",
+        "audio": "actions/bending.mp3",
+        "name": "Bending"
+    },
+    {
+        "id": 7,
+        "url": "jumping.gif",
+        "audio": "actions/jumping.mp3",
+        "name": "Jumping"
+    },
+    {
+        "id": 8,
+        "url": "crawling.gif",
+        "audio": "actions/crawling.mp3",
+        "name": "Crawling"
+    },
+    {
+        "id": 9,
+        "url": "swimming.gif",
+        "audio": "actions/swimming.mp3",
+        "name": "Swimming"
+    },
+    {
+        "id": 10,
+        "url": "climbing.gif",
+        "audio": "actions/climbing.mp3",
+        "name": "Climbing"
+    },
+    {
+        "id": 11,
+        "url": "lifting.gif",
+        "audio": "actions/lifting.mp3",
+        "name": "Lifting"
+    },
+    {
+        "id": 12,
+        "url": "pushing.gif",
+        "audio": "actions/pushing.mp3",
+        "name": "Pushing"
+    },
+    {
+        "id": 13,
+        "url": "speaking.gif",
+        "audio": "actions/speaking.mp3",
+        "name": "Speaking"
+    },
+    {
+        "id": 14,
+        "url": "pulling.gif",
+        "audio": "actions/pulling.mp3",
+        "name": "Pulling"
+    },
+    {
+        "id": 15,
+        "url": "throwing.gif",
+        "audio": "actions/throwing.mp3",
+        "name": "Throwing"
+    },
+    {
+        "id": 16,
+        "url": "catching.gif",
+        "audio": "actions/catching.mp3",
+        "name": "Catching"
+    },
+    {
+        "id": 17,
+        "url": "rotating.gif",
+        "audio": "actions/rotating.mp3",
+        "name": "Rotating"
+    },
+    {
+        "id": 18,
+        "url": "singing.gif",
+        "audio": "actions/singing.mp3",
+        "name": "Singing"
+    },
+    {
+        "id": 19,
+        "url": "laughing.gif",
+        "audio": "actions/laughing.mp3",
+        "name": "Laughing"
+    },
+    {
+        "id": 20,
+        "url": "crying.gif",
+        "audio": "actions/crying.mp3",
+        "name": "Crying"
+    },
+    {
+        "id": 21,
+        "url": "breathing.gif",
+        "audio": "actions/breathing.mp3",
+        "name": "Breathing"
+    },
+    {
+        "id": 22,
+        "url": "chewing.gif",
+        "audio": "actions/chewing.mp3",
+        "name": "Chewing"
+    },
+    {
+        "id": 23,
+        "url": "swallowing.gif",
+        "audio": "actions/swallowing.mp3",
+        "name": "Swallowing"
+    },
+    {
+        "id": 24,
+        "url": "blinking.gif",
+        "audio": "actions/blinking.mp3",
+        "name": "Blinking"
+    },
+    {
+        "id": 25,
+        "url": "brushing.gif",
+        "audio": "actions/brushing.mp3",
+        "name": "Brushing"
+    },
+    {
+        "id": 26,
+        "url": "washing.gif",
+        "audio": "actions/washing.mp3",
+        "name": "Washing"
+    },
+    {
+        "id": 27,
+        "url": "reading.gif",
+        "audio": "actions/reading.mp3",
+        "name": "Reading"
+    },
+    {
+        "id": 28,
+        "url": "hammering.gif",
+        "audio": "actions/hammering.mp3",
+        "name": "Hammering"
+    },
+    {
+        "id": 29,
+        "url": "bathing.gif",
+        "audio": "actions/bathing.mp3",
+        "name": "Bathing"
+    },
+    {
+        "id": 30,
+        "url": "blowing.gif",
+        "audio": "actions/blowing.mp3",
+        "name": "blowing"
+    },
+    {
+        "id": 31,
+        "url": "bouncing.gif",
+        "audio": "actions/bouncing.mp3",
+        "name": "Bouncing"
+    },
+    {
+        "id": 32,
+        "url": "opening.gif",
+        "audio": "actions/opening.mp3",
+        "name": "Opening"
+    },
+    {
+        "id": 33,
+        "url": "closing.gif",
+        "audio": "actions/closing.mp3",
+        "name": "Closing"
+    },
+    {
+        "id": 34,
+        "url": "painting.gif",
+        "audio": "actions/painting.mp3",
+        "name": "Painting"
+    },
+    {
+        "id": 35,
+        "url": "dancing.gif",
+        "audio": "actions/dancing.mp3",
+        "name": "Dancing"
+    },
+    {
+        "id": 36,
+        "url": "sleeping.gif",
+        "audio": "actions/sleeping.mp3",
+        "name": "Sleeping"
+    },
+    {
+        "id": 37,
+        "url": "hopping.gif",
+        "audio": "actions/hopping.mp3",
+        "name": "Hopping"
+    },
+    {
+        "id": 38,
+        "url": "typing.gif",
+        "audio": "actions/typing.mp3",
+        "name": "Typing"
+    },
+    {
+        "id": 39,
+        "url": "riding.gif",
+        "audio": "actions/riding.mp3",
+        "name": "Riding"
+    },
+    {
+        "id": 40,
+        "url": "driving.gif",
+        "audio": "actions/driving.mp3",
+        "name": "Driving"
+    },
+    {
+        "id": 41,
+        "url": "collecting.gif",
+        "audio": "actions/collecting.mp3",
+        "name": "Collecting"
+    },
+    {
+        "id": 42,
+        "url": "scrubbing.gif",
+        "audio": "actions/scrubbing.mp3",
+        "name": "Scrubbing"
+    },
+    {
+        "id": 43,
+        "url": "drawing.gif",
+        "audio": "actions/drawing.mp3",
+        "name": "Drawing"
+    }
+]
