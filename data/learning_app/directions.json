@@ -25,14 +25,14 @@
     },
     {
         "id": 4,
-        "url": "straight.gif",
-        "audio": "direction/straight.mp3",
-        "name": "Straight"
+        "url": "forward.gif",
+        "audio": "direction/forward.mp3",
+        "name": "Forward"
     },
     {
         "id": 5,
-        "url": "back.gif",
-        "audio": "direction/back.mp3",
-        "name": "Back"
+        "url": "backward.gif",
+        "audio": "direction/backward.mp3",
+        "name": "Backward"
     }
 ]

@@ -58,5 +58,35 @@
         "url": "hungry.gif",
         "audio": "feeling_emotions/hungry.mp3",
         "name": "Hungry"
+    },
+    {
+        "id": 10,
+        "url": "frowned.gif",
+        "audio": "feeling_emotions/frowned.mp3",
+        "name": "Frowned"
+    },
+    {
+        "id": 11,
+        "url": "hot.gif",
+        "audio": "feeling_emotions/hot.mp3",
+        "name": "Hot"
+    },
+    {
+        "id": 12,
+        "url": "cold.gif",
+        "audio": "feeling_emotions/cold.mp3",
+        "name": "Cold"
+    },
+    {
+        "id": 13,
+        "url": "sick.gif",
+        "audio": "feeling_emotions/sick.mp3",
+        "name": "Sick"
+    },
+    {
+        "id": 14,
+        "url": "thinking.gif",
+        "audio": "feeling_emotions/thinking.mp3",
+        "name": "Thinking"
     }
 ]

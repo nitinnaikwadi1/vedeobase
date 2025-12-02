@@ -70,5 +70,71 @@
         "url": "cylinder.gif",
         "audio": "shape/cylinder.mp3",
         "name": "Cylinder"
+    },
+    {
+        "id": 12,
+        "url": "cone.gif",
+        "audio": "shape/cone.mp3",
+        "name": "Cone"
+    },
+    {
+        "id": 13,
+        "url": "semicircle.gif",
+        "audio": "shape/semicircle.mp3",
+        "name": "Semicircle"
+    },
+    {
+        "id": 13,
+        "url": "trapezium.gif",
+        "audio": "shape/trapezium.mp3",
+        "name": "Trapezium"
+    },
+    {
+        "id": 13,
+        "url": "kite.gif",
+        "audio": "shape/kite.mp3",
+        "name": "Kite"
+    },
+    {
+        "id": 14,
+        "url": "spiral.gif",
+        "audio": "shape/spiral.mp3",
+        "name": "Spiral"
+    },
+    {
+        "id": 15,
+        "url": "arch.gif",
+        "audio": "shape/arch.mp3",
+        "name": "Arch"
+    },
+    {
+        "id": 16,
+        "url": "arrow.gif",
+        "audio": "shape/arrow.mp3",
+        "name": "Arrow"
+    },
+    {
+        "id": 17,
+        "url": "pyramid.gif",
+        "audio": "shape/pyramid.mp3",
+        "name": "Pyramid"
+    },
+    {
+        "id": 18,
+        "url": "sphere.gif",
+        "audio": "shape/sphere.mp3",
+        "name": "Sphere"
+    },
+    {
+        "id": 19,
+        "url": "pie.gif",
+        "audio": "shape/pie.mp3",
+        "name": "Pie"
+    },
+    {
+        "id": 20,
+        "url": "ring.gif",
+        "audio": "shape/ring.mp3",
+        "name": "Ring"
     }
 ]
