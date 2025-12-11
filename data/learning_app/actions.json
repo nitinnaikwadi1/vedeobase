@@ -262,5 +262,95 @@
         "url": "drawing.gif",
         "audio": "actions/drawing.mp3",
         "name": "Drawing"
+    },
+    {
+        "id": 44,
+        "url": "fighting.gif",
+        "audio": "actions/fighting.mp3",
+        "name": "Fighting"
+    },
+    {
+        "id": 45,
+        "url": "playing.gif",
+        "audio": "actions/playing.mp3",
+        "name": "Playing"
+    },
+    {
+        "id": 46,
+        "url": "listening.gif",
+        "audio": "actions/listening.mp3",
+        "name": "Listening"
+    },
+    {
+        "id": 47,
+        "url": "thinking.gif",
+        "audio": "actions/thinking.mp3",
+        "name": "Thinking"
+    },
+    {
+        "id": 48,
+        "url": "watching.gif",
+        "audio": "actions/watching.mp3",
+        "name": "Watching"
+    },
+    {
+        "id": 49,
+        "url": "writing.gif",
+        "audio": "actions/writing.mp3",
+        "name": "Writing"
+    },
+    {
+        "id": 50,
+        "url": "cutting.gif",
+        "audio": "actions/cutting.mp3",
+        "name": "Cutting"
+    },
+    {
+        "id": 51,
+        "url": "taking.gif",
+        "audio": "actions/taking.mp3",
+        "name": "Taking"
+    },
+    {
+        "id": 52,
+        "url": "giving.gif",
+        "audio": "actions/giving.mp3",
+        "name": "Giving"
+    },
+    {
+        "id": 53,
+        "url": "eating.gif",
+        "audio": "actions/eating.mp3",
+        "name": "Eating"
+    },
+    {
+        "id": 54,
+        "url": "drinking.gif",
+        "audio": "actions/drinking.mp3",
+        "name": "Drinking"
+    },
+    {
+        "id": 55,
+        "url": "cooking.gif",
+        "audio": "actions/cooking.mp3",
+        "name": "Cooking"
+    },
+    {
+        "id": 56,
+        "url": "talking.gif",
+        "audio": "actions/talking.mp3",
+        "name": "Talking"
+    },
+    {
+        "id": 57,
+        "url": "waiting.gif",
+        "audio": "actions/waiting.mp3",
+        "name": "Waiting"
+    },
+    {
+        "id": 58,
+        "url": "digging.gif",
+        "audio": "actions/digging.mp3",
+        "name": "Digging"
     }
 ]
