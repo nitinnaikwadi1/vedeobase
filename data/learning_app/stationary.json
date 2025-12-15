@@ -30,22 +30,10 @@
         "name": "Crayons"
     },
     {
-        "id": 5,
-        "url": "water_colour.gif",
-        "audio": "stationary/water_colour.mp3",
-        "name": "Water Colour"
-    },
-    {
         "id": 6,
         "url": "sketch_pens.gif",
         "audio": "stationary/sketch_pens.mp3",
         "name": "Sketch Pens"
-    },
-    {
-        "id": 7,
-        "url": "colour_tubes.gif",
-        "audio": "stationary/colour_tubes.mp3",
-        "name": "Colour Tubes"
     },
     {
         "id": 8,
@@ -57,7 +45,7 @@
         "id": 9,
         "url": "brushes.gif",
         "audio": "stationary/brushes.mp3",
-        "name": "Brushes"
+        "name": "Brush"
     },
     {
         "id": 10,
@@ -139,9 +127,9 @@
     },
     {
         "id": 23,
-        "url": "rediary_bin.gif",
-        "audio": "stationary/rediary_bin.mp3",
-        "name": "Rediary Bin"
+        "url": "recycle_bin.gif",
+        "audio": "stationary/recycle_bin.mp3",
+        "name": "Recycle Bin"
     },
     {
         "id": 24,
@@ -256,12 +244,6 @@
         "url": "notepad.gif",
         "audio": "stationary/notepad.mp3",
         "name": "Notepad"
-    },
-    {
-        "id": 43,
-        "url": "files.gif",
-        "audio": "stationary/files.mp3",
-        "name": "Files"
     },
     {
         "id": 44,

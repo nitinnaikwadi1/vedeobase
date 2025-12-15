@@ -88,5 +88,23 @@
         "url": "thinking.gif",
         "audio": "feeling_emotions/thinking.mp3",
         "name": "Thinking"
+    },
+    {
+        "id": 15,
+        "url": "lonly.gif",
+        "audio": "feeling_emotions/lonly.mp3",
+        "name": "Lonly"
+    },
+    {
+        "id": 16,
+        "url": "crying.gif",
+        "audio": "feeling_emotions/crying.mp3",
+        "name": "Crying"
+    },
+    {
+        "id": 17,
+        "url": "laughing.gif",
+        "audio": "feeling_emotions/laughing.mp3",
+        "name": "Laughing"
     }
 ]

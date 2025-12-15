@@ -58,5 +58,11 @@
         "url": "yellow_color.gif",
         "audio": "color/yellow_color.mp3",
         "name": "Yellow"
+    },
+    {
+        "id": 11,
+        "url": "black_color.gif",
+        "audio": "color/black_color.mp3",
+        "name": "Black"
     }
 ]

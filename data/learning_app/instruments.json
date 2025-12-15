@@ -7,9 +7,9 @@
     },
     {
         "id": 1,
-        "url": "satar.gif",
-        "audio": "instruments/satar.mp3",
-        "name": "Satar"
+        "url": "sitar.gif",
+        "audio": "instruments/sitar.mp3",
+        "name": "Sitar"
     },
     {
         "id": 2,
@@ -31,9 +31,9 @@
     },
     {
         "id": 5,
-        "url": "sexophone.gif",
-        "audio": "instruments/sexophone.mp3",
-        "name": "Sexophone"
+        "url": "saxophone.gif",
+        "audio": "instruments/saxophone.mp3",
+        "name": "Saxophone"
     },
     {
         "id": 6,
@@ -43,9 +43,9 @@
     },
     {
         "id": 7,
-        "url": "basari.gif",
-        "audio": "instruments/basari.mp3",
-        "name": "Basari"
+        "url": "maracas.gif",
+        "audio": "instruments/maracas.mp3",
+        "name": "maracas"
     },
     {
         "id": 8,
@@ -55,9 +55,9 @@
     },
     {
         "id": 9,
-        "url": "trumphet.gif",
-        "audio": "instruments/trumphet.mp3",
-        "name": "Trumphet"
+        "url": "trumpet.gif",
+        "audio": "instruments/trumpet.mp3",
+        "name": "Trumpet"
     },
     {
         "id": 10,
@@ -67,15 +67,15 @@
     },
     {
         "id": 11,
-        "url": "dhol.gif",
-        "audio": "instruments/dhol.mp3",
-        "name": "Dhol"
+        "url": "xylophone.gif",
+        "audio": "instruments/xylophone.mp3",
+        "name": "Xylophone"
     },
     {
         "id": 12,
-        "url": "sanai.gif",
-        "audio": "instruments/sanai.mp3",
-        "name": "Sanai"
+        "url": "flute.gif",
+        "audio": "instruments/flute.mp3",
+        "name": "Flute"
     },
     {
         "id": 13,
@@ -91,15 +91,15 @@
     },
     {
         "id": 15,
-        "url": "mridingam.gif",
-        "audio": "instruments/mridingam.mp3",
-        "name": "Mridingam"
+        "url": "mridinga.gif",
+        "audio": "instruments/mridinga.mp3",
+        "name": "Mridinga"
     },
     {
         "id": 16,
-        "url": "bongo.gif",
-        "audio": "instruments/bongo.mp3",
-        "name": "Bongo"
+        "url": "bango.gif",
+        "audio": "instruments/bango.mp3",
+        "name": "Bango"
     },
     {
         "id": 17,
@@ -108,27 +108,39 @@
         "name": "Bells"
     },
     {
-        "id": 18,
-        "url": "manjeera.gif",
-        "audio": "instruments/manjeera.mp3",
-        "name": "Manjeera"
-    },
-    {
         "id": 19,
         "url": "mouthorgan.gif",
         "audio": "instruments/mouthorgan.mp3",
         "name": "Mouthorgan"
     },
     {
-        "id": 20,
-        "url": "synthesizer.gif",
-        "audio": "instruments/synthesizer.mp3",
-        "name": "Synthesizer"
-    },
-    {
         "id": 21,
         "url": "guitar.gif",
         "audio": "instruments/guitar.mp3",
         "name": "Guitar"
+    },
+    {
+        "id": 22,
+        "url": "accordion.gif",
+        "audio": "instruments/accordion.mp3",
+        "name": "accordion"
+    },
+    {
+        "id": 23,
+        "url": "ukulele.gif",
+        "audio": "instruments/ukulele.mp3",
+        "name": "Ukulele"
+    },
+    {
+        "id": 24,
+        "url": "mandolin.gif",
+        "audio": "instruments/mandolin.mp3",
+        "name": "Mandolin"
+    },
+    {
+        "id": 25,
+        "url": "gramophone.gif",
+        "audio": "instruments/gramophone.mp3",
+        "name": "Gramophone"
     }
 ]
