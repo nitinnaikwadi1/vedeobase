@@ -6,28 +6,10 @@
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/firefly_night.jpg"
     },
     {
-        "id": 11,
-        "name": "gossie_gertie",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/gossie_gertie.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/gossie_gertie.jpg"
-    },
-    {
         "id": 36,
         "name": "hiku_penguine_story",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/hiku_penguine_story.mp4",
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/hiku_penguine_story.jpg"
-    },
-    {
-        "id": 36,
-        "name": "kitty_rain_story",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/kitty_rain_story.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/kitty_rain_story.jpg"
-    },
-    {
-        "id": 36,
-        "name": "little_blue_truck",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/little_blue_truck.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/little_blue_truck.jpg"
     },
     {
         "id": 2,
@@ -70,5 +52,101 @@
         "name": "ten_in_bed",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/ten_in_bed.mp4",
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/ten_in_bed.jpg"
+    },
+    {
+        "id": 11,
+        "name": "nigh_space_planets",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/nigh_space_planets.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/nigh_space_planets.jpg"
+    },
+    {
+        "id": 36,
+        "name": "night_allegro_dream",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/night_allegro_dream.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/night_allegro_dream.jpg"
+    },
+    {
+        "id": 2,
+        "name": "night_bear_trip_stars",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/night_bear_trip_stars.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/night_bear_trip_stars.jpg"
+    },
+    {
+        "id": 2,
+        "name": "night_bear_wish",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/night_bear_wish.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/night_bear_wish.jpg"
+    },
+    {
+        "id": 2,
+        "name": "night_beaver_sleep_bed",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/night_beaver_sleep_bed.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/night_beaver_sleep_bed.jpg"
+    },
+    {
+        "id": 2,
+        "name": "night_bed_time",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/night_bed_time.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/night_bed_time.jpg"
+    },
+    {
+        "id": 2,
+        "name": "night_before_we_sleep",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/night_before_we_sleep.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/night_before_we_sleep.jpg"
+    },
+    {
+        "id": 2,
+        "name": "night_goodnight",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/night_goodnight.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/night_goodnight.jpg"
+    },
+    {
+        "id": 2,
+        "name": "night_hat_not_for_cats",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/night_hat_not_for_cats.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/night_hat_not_for_cats.jpg"
+    },
+    {
+        "id": 2,
+        "name": "night_its_not_perfect",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/night_its_not_perfect.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/night_its_not_perfect.jpg"
+    },
+    {
+        "id": 2,
+        "name": "night_night_star",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/night_night_star.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/night_night_star.jpg"
+    },
+    {
+        "id": 2,
+        "name": "night_nobody_duck",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/night_nobody_duck.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/night_nobody_duck.jpg"
+    },
+    {
+        "id": 2,
+        "name": "night_over_under",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/night_over_under.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/night_over_under.jpg"
+    },
+    {
+        "id": 2,
+        "name": "night_papa_get_moon",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/night_papa_get_moon.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/night_papa_get_moon.jpg"
+    },
+    {
+        "id": 2,
+        "name": "night_social_emotional",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/night_social_emotional.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/night_social_emotional.jpg"
+    },
+    {
+        "id": 2,
+        "name": "night_stargazing_owl",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/night_stargazing_owl.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/night_stargazing_owl.jpg"
     }
 ]
