@@ -1,0 +1,230 @@
+[
+    {
+        "id": 0,
+        "url": "air_purifier.gif",
+        "audio": "electronics/air_purifier.mp3",
+        "name": "Air Purifier"
+    },
+    {
+        "id": 1,
+        "url": "air_condition.gif",
+        "audio": "electronics/air_condition.mp3",
+        "name": "Air Condition"
+    },
+    {
+        "id": 2,
+        "url": "alarm_clock.gif",
+        "audio": "electronics/alarm_clock.mp3",
+        "name": "Alarm Clock"
+    },
+    {
+        "id": 3,
+        "url": "blender.gif",
+        "audio": "electronics/blender.mp3",
+        "name": "Blender"
+    },
+    {
+        "id": 4,
+        "url": "bulb.gif",
+        "audio": "electronics/bulb.mp3",
+        "name": "Bulb"
+    },
+    {
+        "id": 5,
+        "url": "calculator.gif",
+        "audio": "electronics/calculator.mp3",
+        "name": "Calculator"
+    },
+    {
+        "id": 6,
+        "url": "fan.gif",
+        "audio": "electronics/fan.mp3",
+        "name": "Fan"
+    },
+    {
+        "id": 6,
+        "url": "washing_machine.gif",
+        "audio": "electronics/washing_machine.mp3",
+        "name": "Washing Machine"
+    },
+    {
+        "id": 6,
+        "url": "computer.gif",
+        "audio": "electronics/computer.mp3",
+        "name": "Computer"
+    },
+    {
+        "id": 6,
+        "url": "copier.gif",
+        "audio": "electronics/copier.mp3",
+        "name": "Copier"
+    },
+    {
+        "id": 6,
+        "url": "camera.gif",
+        "audio": "electronics/camera.mp3",
+        "name": "Camera"
+    },
+    {
+        "id": 6,
+        "url": "earphone.gif",
+        "audio": "electronics/earphone.mp3",
+        "name": "Earphone"
+    },
+    {
+        "id": 6,
+        "url": "sandwitch_maker.gif",
+        "audio": "electronics/sandwitch_maker.mp3",
+        "name": "Sandwitch Maker"
+    },
+    {
+        "id": 6,
+        "url": "telephone.gif",
+        "audio": "electronics/telephone.mp3",
+        "name": "Telephone"
+    },
+    {
+        "id": 6,
+        "url": "printer.gif",
+        "audio": "electronics/printer.mp3",
+        "name": "Printer"
+    },
+    {
+        "id": 6,
+        "url": "hair_dryer.gif",
+        "audio": "electronics/hair_dryer.mp3",
+        "name": "Hair Dryer"
+    },
+    {
+        "id": 6,
+        "url": "tube_light.gif",
+        "audio": "electronics/tube_light.mp3",
+        "name": "Tube Light"
+    },
+    {
+        "id": 6,
+        "url": "iron.gif",
+        "audio": "electronics/iron.mp3",
+        "name": "Iron"
+    },
+    {
+        "id": 6,
+        "url": "mobile.gif",
+        "audio": "electronics/mobile.mp3",
+        "name": "Mobile"
+    },
+    {
+        "id": 6,
+        "url": "laptop.gif",
+        "audio": "electronics/laptop.mp3",
+        "name": "Laptop"
+    },
+    {
+        "id": 6,
+        "url": "fridge.gif",
+        "audio": "electronics/fridge.mp3",
+        "name": "fridge"
+    },
+    {
+        "id": 6,
+        "url": "oven.gif",
+        "audio": "electronics/oven.mp3",
+        "name": "Oven"
+    },
+    {
+        "id": 6,
+        "url": "monitor.gif",
+        "audio": "electronics/monitor.mp3",
+        "name": "Monitor"
+    },
+    {
+        "id": 6,
+        "url": "projector.gif",
+        "audio": "electronics/projector.mp3",
+        "name": "Projector"
+    },
+    {
+        "id": 6,
+        "url": "radio.gif",
+        "audio": "electronics/radio.mp3",
+        "name": "Radio"
+    },
+    {
+        "id": 6,
+        "url": "tablet.gif",
+        "audio": "electronics/tablet.mp3",
+        "name": "Tablet"
+    },
+    {
+        "id": 6,
+        "url": "speaker.gif",
+        "audio": "electronics/speaker.mp3",
+        "name": "speaker"
+    },
+    {
+        "id": 6,
+        "url": "torch.gif",
+        "audio": "electronics/torch.mp3",
+        "name": "Torch"
+    },
+    {
+        "id": 6,
+        "url": "remote.gif",
+        "audio": "electronics/remote.mp3",
+        "name": "Remote"
+    },
+    {
+        "id": 6,
+        "url": "microphone.gif",
+        "audio": "electronics/microphone.mp3",
+        "name": "Microphone"
+    },
+    {
+        "id": 6,
+        "url": "keyboard.gif",
+        "audio": "electronics/keyboard.mp3",
+        "name": "Keyboard"
+    },
+    {
+        "id": 6,
+        "url": "internet.gif",
+        "audio": "electronics/internet.mp3",
+        "name": "Internet"
+    },
+    {
+        "id": 6,
+        "url": "mouse.gif",
+        "audio": "electronics/mouse.mp3",
+        "name": "Mouse"
+    },
+    {
+        "id": 6,
+        "url": "charger.gif",
+        "audio": "electronics/charger.mp3",
+        "name": "Charger"
+    },
+    {
+        "id": 6,
+        "url": "battery.gif",
+        "audio": "electronics/battery.mp3",
+        "name": "Battery"
+    },
+    {
+        "id": 6,
+        "url": "walkie_talkie.gif",
+        "audio": "electronics/walkie_talkie.mp3",
+        "name": "Walkie Talkie"
+    },
+    {
+        "id": 6,
+        "url": "humidifier.gif",
+        "audio": "electronics/humidifier.mp3",
+        "name": "Humidifier"
+    },
+    {
+        "id": 6,
+        "url": "drone.gif",
+        "audio": "electronics/drone.mp3",
+        "name": "Drone"
+    }
+]
