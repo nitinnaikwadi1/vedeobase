@@ -123,7 +123,7 @@
         "id": 6,
         "url": "electronics_fridge.gif",
         "audio": "electronics/fridge.mp3",
-        "name": "fridge"
+        "name": "Fridge"
     },
     {
         "id": 6,
@@ -159,7 +159,7 @@
         "id": 6,
         "url": "electronics_speaker.gif",
         "audio": "electronics/speaker.mp3",
-        "name": "speaker"
+        "name": "Speaker"
     },
     {
         "id": 6,
