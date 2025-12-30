@@ -3,156 +3,156 @@
         "id": 0,
         "url": "apple.gif",
         "audio": "fruit/apple.mp3",
-        "name": "Apple"
+        "name": "Apple - सफरचंद"
     },
     {
         "id": 1,
         "url": "banana.gif",
         "audio": "fruit/banana.mp3",
-        "name": "Banana"
+        "name": "Banana - केळी"
     },
     {
         "id": 2,
         "url": "coconut.gif",
         "audio": "fruit/coconut.mp3",
-        "name": "Coconut"
+        "name": "Coconut - नारळ"
     },
     {
         "id": 3,
         "url": "grapes.gif",
         "audio": "fruit/grapes.mp3",
-        "name": "Grapes"
+        "name": "Grapes - द्राक्षे"
     },
     {
         "id": 4,
         "url": "lemon.gif",
         "audio": "fruit/lemon.mp3",
-        "name": "Lemon"
+        "name": "Lemon - लिंबू"
     },
     {
         "id": 5,
         "url": "mango.gif",
         "audio": "fruit/mango.mp3",
-        "name": "Mango"
+        "name": "Mango - आंबा"
     },
     {
         "id": 6,
         "url": "orange.gif",
         "audio": "fruit/orange.mp3",
-        "name": "Orange"
+        "name": "Orange - संत्रे"
     },
     {
         "id": 7,
         "url": "watermelon.gif",
         "audio": "fruit/watermelon.mp3",
-        "name": "Watermelon"
+        "name": "Watermelon - कलिंगड"
     },
     {
         "id": 8,
         "url": "strawberry.gif",
         "audio": "fruit/strawberry.mp3",
-        "name": "Strawberry"
+        "name": "Strawberry - स्ट्रॉबेरी"
     },
     {
         "id": 9,
         "url": "pomegranate.gif",
         "audio": "fruit/pomegranate.mp3",
-        "name": "Pomegranate"
+        "name": "Pomegranate - डाळिंब"
     },
     {
         "id": 10,
         "url": "pineapple.gif",
         "audio": "fruit/pineapple.mp3",
-        "name": "Pineapple"
+        "name": "Pineapple - अननस"
     },
     {
         "id": 11,
         "url": "papaya.gif",
         "audio": "fruit/papaya.mp3",
-        "name": "Papaya"
+        "name": "Papaya - पपई"
     },
     {
         "id": 12,
         "url": "pear.gif",
         "audio": "fruit/pear.mp3",
-        "name": "Pear"
+        "name": "Pear - नाशपाती"
     },
     {
         "id": 13,
         "url": "tamarind.gif",
         "audio": "fruit/tamarind.mp3",
-        "name": "Tamarind"
+        "name": "Tamarind - चिंच"
     },
     {
         "id": 14,
         "url": "cherry.gif",
         "audio": "fruit/cherry.mp3",
-        "name": "Cherry"
+        "name": "Cherry - चेरी"
     },
     {
         "id": 15,
         "url": "apricot.gif",
         "audio": "fruit/apricot.mp3",
-        "name": "Apricot"
+        "name": "Apricot - जर्दाळू"
     },
     {
         "id": 16,
         "url": "jackfruit.gif",
         "audio": "fruit/jackfruit.mp3",
-        "name": "Jackfruit"
+        "name": "Jackfruit - फणस"
     },
     {
         "id": 17,
         "url": "lychee.gif",
         "audio": "fruit/lychee.mp3",
-        "name": "Lychee"
+        "name": "Lychee - लिची"
     },
     {
         "id": 18,
         "url": "raspberry.gif",
         "audio": "fruit/raspberry.mp3",
-        "name": "Raspberry"
+        "name": "Raspberry - रास्पबेरी"
     },
     {
         "id": 19,
         "url": "avocado.gif",
         "audio": "fruit/avocado.mp3",
-        "name": "Avocado"
+        "name": "Avocado - एवोकॅडो"
     },
     {
         "id": 20,
         "url": "kiwi.gif",
         "audio": "fruit/kiwi.mp3",
-        "name": "Kiwi"
+        "name": "Kiwi - कीवी"
     },
     {
         "id": 21,
         "url": "cashew.gif",
         "audio": "fruit/cashew.mp3",
-        "name": "Cashew"
+        "name": "Cashew - काजू"
     },
     {
         "id": 22,
         "url": "fig.gif",
         "audio": "fruit/fig.mp3",
-        "name": "Fig"
+        "name": "Fig - अंजीर"
     },
     {
         "id": 23,
         "url": "guava.gif",
         "audio": "fruit/guava.mp3",
-        "name": "Guava"
+        "name": "Guava - पेरू"
     },
     {
         "id": 24,
         "url": "melon.gif",
         "audio": "fruit/melon.mp3",
-        "name": "Melon"
+        "name": "Melon - खरबूज"
     },
     {
         "id": 25,
         "url": "plum.gif",
         "audio": "fruit/plum.mp3",
-        "name": "Plum"
+        "name": "Plum - आलबुखार"
     }
 ]

@@ -3,102 +3,102 @@
         "id": 0,
         "url": "starfish.gif",
         "audio": "sea_animal/starfish.mp3",
-        "name": "Starfish"
+        "name": "Starfish - तारामासा"
     },
     {
         "id": 1,
         "url": "penguin.gif",
         "audio": "sea_animal/penguin.mp3",
-        "name": "Penguin"
+        "name": "Penguin - पेंग्विन"
     },
     {
         "id": 2,
         "url": "shark.gif",
         "audio": "sea_animal/shark.mp3",
-        "name": "Shark"
+        "name": "Shark - शार्क"
     },
     {
         "id": 3,
         "url": "jellyfish.gif",
         "audio": "sea_animal/jellyfish.mp3",
-        "name": "Jellyfish"
+        "name": "Jellyfish - जेलीफिश"
     },
     {
         "id": 4,
         "url": "seashell.gif",
         "audio": "sea_animal/seashell.mp3",
-        "name": "Seashell"
+        "name": "Seashell - समुद्री कवच"
     },
     {
         "id": 5,
         "url": "whale.gif",
         "audio": "sea_animal/whale.mp3",
-        "name": "Whale"
+        "name": "Whale - देवमासा"
     },
     {
         "id": 6,
         "url": "lobster.gif",
         "audio": "sea_animal/lobster.mp3",
-        "name": "Lobster"
+        "name": "Lobster - लॉबस्टर"
     },
     {
         "id": 7,
         "url": "seal.gif",
         "audio": "sea_animal/seal.mp3",
-        "name": "Seal"
+        "name": "Seal - सील"
     },
     {
         "id": 8,
         "url": "turtle.gif",
         "audio": "sea_animal/turtle.mp3",
-        "name": "Turtle"
+        "name": "Turtle - कासव"
     },
     {
         "id": 9,
         "url": "crab.gif",
         "audio": "sea_animal/crab.mp3",
-        "name": "Crab"
+        "name": "Crab - खेकडा"
     },
     {
         "id": 10,
         "url": "fish.gif",
         "audio": "sea_animal/fish.mp3",
-        "name": "Fish"
+        "name": "Fish - मासे"
     },
     {
         "id": 11,
         "url": "shrimp.gif",
         "audio": "sea_animal/shrimp.mp3",
-        "name": "Shrimp"
+        "name": "Shrimp - कोळंबी"
     },
     {
         "id": 12,
         "url": "stingray.gif",
         "audio": "sea_animal/stingray.mp3",
-        "name": "Stingray"
+        "name": "Stingray - पाकट"
     },
     {
         "id": 14,
         "url": "clown_fish.gif",
         "audio": "sea_animal/clown_fish.mp3",
-        "name": "Clown fish"
+        "name": "Clown fish - जोकर मासा"
     },
     {
         "id": 15,
         "url": "seahorse.gif",
         "audio": "sea_animal/seahorse.mp3",
-        "name": "Seahorse"
+        "name": "Seahorse - समुद्रीघोडा"
     },
     {
         "id": 16,
         "url": "octopus.gif",
         "audio": "sea_animal/octopus.mp3",
-        "name": "Octopus"
+        "name": "Octopus - ऑक्टोपस"
     },
     {
         "id": 17,
         "url": "dolphin.gif",
         "audio": "sea_animal/dolphin.mp3",
-        "name": "Dolphin"
+        "name": "Dolphin - डॉल्फिन"
     }
 ]

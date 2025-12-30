@@ -3,114 +3,114 @@
         "id": 0,
         "url": "carrot.gif",
         "audio": "vegetable/carrot.mp3",
-        "name": "Carrot"
+        "name": "Carrot - गाजर"
     },
     {
         "id": 1,
         "url": "tomato.gif",
         "audio": "vegetable/tomato.mp3",
-        "name": "Tomato"
+        "name": "Tomato - टोमॅटो"
     },
     {
         "id": 2,
         "url": "eggplant.gif",
         "audio": "vegetable/eggplant.mp3",
-        "name": "Eggplant"
+        "name": "Eggplant - वांगी"
     },
     {
         "id": 3,
         "url": "spinach.gif",
         "audio": "vegetable/spinach.mp3",
-        "name": "Spinach"
+        "name": "Spinach - पालक"
     },
     {
         "id": 4,
         "url": "cabbage.gif",
         "audio": "vegetable/cabbage.mp3",
-        "name": "Cabbage"
+        "name": "Cabbage - कोबी"
     },
     {
         "id": 5,
         "url": "chili.gif",
         "audio": "vegetable/chili.mp3",
-        "name": "Chili"
+        "name": "Chili - मिरची"
     },
     {
         "id": 6,
         "url": "peas.gif",
         "audio": "vegetable/peas.mp3",
-        "name": "Peas"
+        "name": "Peas - वाटाणे"
     },
     {
         "id": 7,
         "url": "cucumber.gif",
         "audio": "vegetable/cucumber.mp3",
-        "name": "Cucumber"
+        "name": "Cucumber - काकडी"
     },
     {
         "id": 8,
         "url": "potato.gif",
         "audio": "vegetable/potato.mp3",
-        "name": "Potato"
+        "name": "Potato - बटाटा"
     },
     {
         "id": 9,
         "url": "sweet_potato.gif",
         "audio": "vegetable/sweet_potato.mp3",
-        "name": "Sweet potato"
+        "name": "Sweet potato - रताळे"
     },
     {
         "id": 10,
         "url": "cauliflower.gif",
         "audio": "vegetable/cauliflower.mp3",
-        "name": "Cauliflower"
+        "name": "Cauliflower - फुलकोबी"
     },
     {
         "id": 11,
         "url": "okra.gif",
         "audio": "vegetable/okra.mp3",
-        "name": "Okra"
+        "name": "Okra - भेंडी"
     },
     {
         "id": 12,
         "url": "beetroot.gif",
         "audio": "vegetable/beetroot.mp3",
-        "name": "Beetroot"
+        "name": "Beetroot - बीट"
     },
     {
         "id": 13,
         "url": "corn.gif",
         "audio": "vegetable/corn.mp3",
-        "name": "Corn"
+        "name": "Corn - मका"
     },
     {
         "id": 14,
         "url": "radish.gif",
         "audio": "vegetable/radish.mp3",
-        "name": "Radish"
+        "name": "Radish - मुळा"
     },
     {
         "id": 15,
         "url": "bell_pepper.gif",
         "audio": "vegetable/bell_pepper.mp3",
-        "name": "Bell pepper"
+        "name": "Bell pepper - बेल मिरची"
     },
     {
         "id": 16,
         "url": "pumpkin.gif",
         "audio": "vegetable/pumpkin.mp3",
-        "name": "Pumpkin"
+        "name": "Pumpkin - भोपळा"
     },
     {
         "id": 17,
         "url": "ginger.gif",
         "audio": "vegetable/ginger.mp3",
-        "name": "Ginger"
+        "name": "Ginger - आले"
     },
     {
         "id": 18,
         "url": "garlic.gif",
         "audio": "vegetable/garlic.mp3",
-        "name": "Garlic"
+        "name": "Garlic - लसूण"
     }
 ]

@@ -3,156 +3,156 @@
         "id": 0,
         "url": "a.gif",
         "audio": "alphabets-eng/a.mp3",
-        "name": "A"
+        "name": "A - ए"
     },
     {
         "id": 1,
         "url": "b.gif",
         "audio": "alphabets-eng/b.mp3",
-        "name": "B"
+        "name": "B - बी"
     },
     {
         "id": 2,
         "url": "c.gif",
         "audio": "alphabets-eng/c.mp3",
-        "name": "C"
+        "name": "C - सी"
     },
     {
         "id": 3,
         "url": "d.gif",
         "audio": "alphabets-eng/d.mp3",
-        "name": "D"
+        "name": "D - डी"
     },
     {
         "id": 4,
         "url": "e.gif",
         "audio": "alphabets-eng/e.mp3",
-        "name": "E"
+        "name": "E - इ"
     },
     {
         "id": 5,
         "url": "f.gif",
         "audio": "alphabets-eng/f.mp3",
-        "name": "F"
+        "name": "F - एफ"
     },
     {
         "id": 6,
         "url": "g.gif",
         "audio": "alphabets-eng/g.mp3",
-        "name": "G"
+        "name": "G - जी"
     },
     {
         "id": 7,
         "url": "h.gif",
         "audio": "alphabets-eng/h.mp3",
-        "name": "H"
+        "name": "H - एच"
     },
     {
         "id": 8,
         "url": "i.gif",
         "audio": "alphabets-eng/i.mp3",
-        "name": "I"
+        "name": "I - आय"
     },
     {
         "id": 9,
         "url": "j.gif",
         "audio": "alphabets-eng/j.mp3",
-        "name": "J"
+        "name": "J - जे"
     },
     {
         "id": 10,
         "url": "k.gif",
         "audio": "alphabets-eng/k.mp3",
-        "name": "K"
+        "name": "K - के"
     },
     {
         "id": 11,
         "url": "l.gif",
         "audio": "alphabets-eng/l.mp3",
-        "name": "L"
+        "name": "L - एल"
     },
     {
         "id": 12,
         "url": "m.gif",
         "audio": "alphabets-eng/m.mp3",
-        "name": "M"
+        "name": "M - एम"
     },
     {
         "id": 13,
         "url": "n.gif",
         "audio": "alphabets-eng/n.mp3",
-        "name": "N"
+        "name": "N - एन"
     },
     {
         "id": 14,
         "url": "o.gif",
         "audio": "alphabets-eng/o.mp3",
-        "name": "O"
+        "name": "O - ओ"
     },
     {
         "id": 15,
         "url": "p.gif",
         "audio": "alphabets-eng/p.mp3",
-        "name": "P"
+        "name": "P - पी"
     },
     {
         "id": 16,
         "url": "q.gif",
         "audio": "alphabets-eng/q.mp3",
-        "name": "Q"
+        "name": "Q - क्यू"
     },
     {
         "id": 17,
         "url": "r.gif",
         "audio": "alphabets-eng/r.mp3",
-        "name": "R"
+        "name": "R - आर"
     },
     {
         "id": 18,
         "url": "s.gif",
         "audio": "alphabets-eng/s.mp3",
-        "name": "S"
+        "name": "S - एस"
     },
     {
         "id": 19,
         "url": "t.gif",
         "audio": "alphabets-eng/t.mp3",
-        "name": "T"
+        "name": "T - टी"
     },
     {
         "id": 20,
         "url": "u.gif",
         "audio": "alphabets-eng/u.mp3",
-        "name": "U"
+        "name": "U - यु"
     },
     {
         "id": 21,
         "url": "v.gif",
         "audio": "alphabets-eng/v.mp3",
-        "name": "V"
+        "name": "V - व्ही"
     },
     {
         "id": 22,
         "url": "w.gif",
         "audio": "alphabets-eng/w.mp3",
-        "name": "W"
+        "name": "W - डब्लू"
     },
     {
         "id": 23,
         "url": "x.gif",
         "audio": "alphabets-eng/x.mp3",
-        "name": "X"
+        "name": "X - एक्स"
     },
     {
         "id": 24,
         "url": "y.gif",
         "audio": "alphabets-eng/y.mp3",
-        "name": "Y"
+        "name": "Y - वाय"
     },
     {
         "id": 25,
         "url": "z.gif",
         "audio": "alphabets-eng/z.mp3",
-        "name": "Z"
+        "name": "Z - झेड"
     }
 ]

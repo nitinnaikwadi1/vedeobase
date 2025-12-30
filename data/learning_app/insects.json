@@ -3,78 +3,78 @@
         "id": 0,
         "url": "beetle.gif",
         "audio": "insect/beetle.mp3",
-        "name": "Beetle"
+        "name": "Beetle - भुंगा"
     },
     {
         "id": 1,
         "url": "dragonfly.gif",
         "audio": "insect/dragonfly.mp3",
-        "name": "Dragonfly"
+        "name": "Dragonfly - ड्रॅगनफ्लाय"
     },
     {
         "id": 2,
         "url": "butterfly.gif",
         "audio": "insect/butterfly.mp3",
-        "name": "Butterfly"
+        "name": "Butterfly - फुलपाखरू"
     },
     {
         "id": 3,
         "url": "bumblebee.gif",
         "audio": "insect/bumblebee.mp3",
-        "name": "Bumblebee"
+        "name": "Bumblebee - मोठी मधमाशी"
     },
     {
         "id": 4,
         "url": "caterpillar.gif",
         "audio": "insect/caterpillar.mp3",
-        "name": "Caterpillar"
+        "name": "Caterpillar - सुरवंट"
     },
     {
         "id": 5,
         "url": "earthworm.gif",
         "audio": "insect/earthworm.mp3",
-        "name": "Earthworm"
+        "name": "Earthworm - गांडूळ"
     },
     {
         "id": 6,
         "url": "grasshopper.gif",
         "audio": "insect/grasshopper.mp3",
-        "name": "Grasshopper"
+        "name": "Grasshopper - नाकतोडा"
     },
     {
         "id": 7,
         "url": "ant.gif",
         "audio": "insect/ant.mp3",
-        "name": "Ant"
+        "name": "Ant - मुंगी"
     },
     {
         "id": 9,
         "url": "snail.gif",
         "audio": "insect/snail.mp3",
-        "name": "Snail"
+        "name": "Snail - गोगलगाय"
     },
     {
         "id": 10,
         "url": "spider.gif",
         "audio": "insect/spider.mp3",
-        "name": "Spider"
+        "name": "Spider - कोळी"
     },
     {
         "id": 11,
         "url": "bee.gif",
         "audio": "insect/bee.mp3",
-        "name": "Bee"
+        "name": "Bee - मधमाशी"
     },
     {
         "id": 12,
         "url": "mosquito.gif",
         "audio": "insect/mosquito.mp3",
-        "name": "Mosquito"
+        "name": "Mosquito - डास"
     },
     {
         "id": 13,
         "url": "scorpio.gif",
         "audio": "insect/scorpio.mp3",
-        "name": "Scorpio"
+        "name": "Scorpio - विंचू"
     }
 ]

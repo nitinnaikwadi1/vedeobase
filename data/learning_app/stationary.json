@@ -3,258 +3,258 @@
         "id": 0,
         "url": "pencil.gif",
         "audio": "stationary/pencil.mp3",
-        "name": "Pencil"
+        "name": "Pencil - पेन्सिल"
     },
     {
         "id": 1,
         "url": "pen.gif",
         "audio": "stationary/pen.mp3",
-        "name": "Pen"
+        "name": "Pen - पेन"
     },
     {
         "id": 2,
         "url": "marker.gif",
         "audio": "stationary/marker.mp3",
-        "name": "Marker"
+        "name": "Marker - मार्कर"
     },
     {
         "id": 3,
         "url": "palette.gif",
         "audio": "stationary/palette.mp3",
-        "name": "Palette"
+        "name": "Palette - रंगफळी"
     },
     {
         "id": 4,
         "url": "crayons.gif",
         "audio": "stationary/crayons.mp3",
-        "name": "Crayons"
+        "name": "Crayons - क्रेयॉन्स"
     },
     {
         "id": 6,
         "url": "sketch_pens.gif",
         "audio": "stationary/sketch_pens.mp3",
-        "name": "Sketch Pens"
+        "name": "Sketch Pens - स्केच पेन"
     },
     {
         "id": 8,
         "url": "chalk.gif",
         "audio": "stationary/chalk.mp3",
-        "name": "Chalk"
+        "name": "Chalk - खडू"
     },
     {
         "id": 9,
         "url": "brushes.gif",
         "audio": "stationary/brushes.mp3",
-        "name": "Brush"
+        "name": "Brush - ब्रश"
     },
     {
         "id": 10,
         "url": "sharpener.gif",
         "audio": "stationary/sharpener.mp3",
-        "name": "Sharpener"
+        "name": "Sharpener - शार्पनर"
     },
     {
         "id": 11,
         "url": "eraser.gif",
         "audio": "stationary/eraser.mp3",
-        "name": "Eraser"
+        "name": "Eraser - खोडरबर"
     },
     {
         "id": 12,
         "url": "ink.gif",
         "audio": "stationary/ink.mp3",
-        "name": "Ink"
+        "name": "Ink - शाई"
     },
     {
         "id": 13,
         "url": "ruler.gif",
         "audio": "stationary/ruler.mp3",
-        "name": "Ruler"
+        "name": "Ruler - फूटपट्टी"
     },
     {
         "id": 14,
         "url": "clip.gif",
         "audio": "stationary/clip.mp3",
-        "name": "Clip"
+        "name": "Clip - चिमटा"
     },
     {
         "id": 15,
         "url": "clasp.gif",
         "audio": "stationary/clasp.mp3",
-        "name": "Clasp"
+        "name": "Clasp - फासा"
     },
     {
         "id": 16,
         "url": "blackboard.gif",
         "audio": "stationary/blackboard.mp3",
-        "name": "Blackboard"
+        "name": "Blackboard - काळा फळा"
     },
     {
         "id": 17,
         "url": "whiteboard.gif",
         "audio": "stationary/whiteboard.mp3",
-        "name": "Whiteboard"
+        "name": "Whiteboard - पांढरा फळा"
     },
     {
         "id": 18,
         "url": "clipboard.gif",
         "audio": "stationary/clipboard.mp3",
-        "name": "Clipboard"
+        "name": "Clipboard - पीनफळा"
     },
     {
         "id": 19,
         "url": "calculator.gif",
         "audio": "stationary/calculator.mp3",
-        "name": "Calculator"
+        "name": "Calculator - कॅल्क्युलेटर"
     },
     {
         "id": 20,
         "url": "globe.gif",
         "audio": "stationary/globe.mp3",
-        "name": "Globe"
+        "name": "Globe - पृथ्वीचा गोल"
     },
     {
         "id": 21,
         "url": "envelope.gif",
         "audio": "stationary/envelope.mp3",
-        "name": "Envelope"
+        "name": "Envelope - लिफाफा"
     },
     {
         "id": 22,
         "url": "folder.gif",
         "audio": "stationary/folder.mp3",
-        "name": "Folder"
+        "name": "Folder - फाईल"
     },
     {
         "id": 23,
         "url": "recycle_bin.gif",
         "audio": "stationary/recycle_bin.mp3",
-        "name": "Recycle Bin"
+        "name": "Recycle Bin - पुनर्वापर डबा"
     },
     {
         "id": 24,
         "url": "stapler.gif",
         "audio": "stationary/stapler.mp3",
-        "name": "Stapler"
+        "name": "Stapler - स्टेपलर"
     },
     {
         "id": 25,
         "url": "puncher.gif",
         "audio": "stationary/puncher.mp3",
-        "name": "Puncher"
+        "name": "Puncher - पंचर"
     },
     {
         "id": 26,
         "url": "cutter.gif",
         "audio": "stationary/cutter.mp3",
-        "name": "Cutter"
+        "name": "Cutter - कटर"
     },
     {
         "id": 27,
         "url": "stamp.gif",
         "audio": "stationary/stamp.mp3",
-        "name": "Stamp"
+        "name": "Stamp - छाप"
     },
     {
         "id": 28,
         "url": "sticky_note.gif",
         "audio": "stationary/sticky_note.mp3",
-        "name": "Sticky Note"
+        "name": "Sticky Note - चिकट टीप"
     },
     {
         "id": 29,
         "url": "holder.gif",
         "audio": "stationary/holder.mp3",
-        "name": "Holder"
+        "name": "Holder - धारक"
     },
     {
         "id": 30,
         "url": "rubber_band.gif",
         "audio": "stationary/rubber_band.mp3",
-        "name": "Rubber Band"
+        "name": "Rubber Band - रबर बँड"
     },
     {
         "id": 31,
         "url": "diary.gif",
         "audio": "stationary/diary.mp3",
-        "name": "Diary"
+        "name": "Diary - डायरी"
     },
     {
         "id": 32,
         "url": "tape.gif",
         "audio": "stationary/tape.mp3",
-        "name": "Tape"
+        "name": "Tape - चिकटटेप"
     },
     {
         "id": 33,
         "url": "glue.gif",
         "audio": "stationary/glue.mp3",
-        "name": "Glue"
+        "name": "Glue - डिंक"
     },
     {
         "id": 34,
         "url": "notebook.gif",
         "audio": "stationary/notebook.mp3",
-        "name": "Notebook"
+        "name": "Notebook - नोंदवही"
     },
     {
         "id": 35,
         "url": "paper.gif",
         "audio": "stationary/paper.mp3",
-        "name": "Paper"
+        "name": "Paper - कागद"
     },
     {
         "id": 36,
         "url": "binder.gif",
         "audio": "stationary/binder.mp3",
-        "name": "Binder"
+        "name": "Binder - बाइंडर"
     },
     {
         "id": 37,
         "url": "printer.gif",
         "audio": "stationary/printer.mp3",
-        "name": "Printer"
+        "name": "Printer - मुद्रक"
     },
     {
         "id": 38,
         "url": "easel.gif",
         "audio": "stationary/easel.mp3",
-        "name": "Easel"
+        "name": "Easel - चौकट"
     },
     {
         "id": 39,
         "url": "school_bag.gif",
         "audio": "stationary/school_bag.mp3",
-        "name": "School Bag"
+        "name": "School Bag - दप्तर"
     },
     {
         "id": 40,
         "url": "scissor.gif",
         "audio": "stationary/scissor.mp3",
-        "name": "Scissor"
+        "name": "Scissor - कात्री"
     },
     {
         "id": 41,
         "url": "pushpin.gif",
         "audio": "stationary/pushpin.mp3",
-        "name": "Pushpin"
+        "name": "Pushpin - टाचणी"
     },
     {
         "id": 42,
         "url": "notepad.gif",
         "audio": "stationary/notepad.mp3",
-        "name": "Notepad"
+        "name": "Notepad - नोटपॅड"
     },
     {
         "id": 44,
         "url": "compass.gif",
         "audio": "stationary/compass.mp3",
-        "name": "Compass"
+        "name": "Compass - होकायंत्र"
     },
     {
         "id": 45,
         "url": "map.gif",
         "audio": "stationary/map.mp3",
-        "name": "Map"
+        "name": "Map - नकाशा"
     }
 ]

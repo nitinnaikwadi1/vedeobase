@@ -3,66 +3,66 @@
         "id": 0,
         "url": "red_color.gif",
         "audio": "color/red_color.mp3",
-        "name": "Red"
+        "name": "Red - लाल"
     },
     {
         "id": 1,
         "url": "green_color.gif",
         "audio": "color/green_color.mp3",
-        "name": "Green"
+        "name": "Green - हिरवा"
     },
     {
         "id": 2,
         "url": "blue_color.gif",
         "audio": "color/blue_color.mp3",
-        "name": "Blue"
+        "name": "Blue - निळा"
     },
     {
         "id": 3,
         "url": "white_color.gif",
         "audio": "color/white_color.mp3",
-        "name": "White"
+        "name": "White - पांढरा"
     },
     {
         "id": 5,
         "url": "orange_color.gif",
         "audio": "color/orange_color.mp3",
-        "name": "Orange"
+        "name": "Orange - तांबडा"
     },
     {
         "id": 6,
         "url": "purple_color.gif",
         "audio": "color/purple_color.mp3",
-        "name": "Purple"
+        "name": "Purple - जांभळा"
     },
     {
         "id": 7,
         "url": "brown_color.gif",
         "audio": "color/brown_color.mp3",
-        "name": "Brown"
+        "name": "Brown - तपकिरी"
     },
     {
         "id": 8,
         "url": "pink_color.gif",
         "audio": "color/pink_color.mp3",
-        "name": "Pink"
+        "name": "Pink - गुलाबी"
     },
     {
         "id": 9,
         "url": "grey_color.gif",
         "audio": "color/grey_color.mp3",
-        "name": "Grey"
+        "name": "Grey - राखाडी"
     },
     {
         "id": 10,
         "url": "yellow_color.gif",
         "audio": "color/yellow_color.mp3",
-        "name": "Yellow"
+        "name": "Yellow - पिवळा"
     },
     {
         "id": 11,
         "url": "black_color.gif",
         "audio": "color/black_color.mp3",
-        "name": "Black"
+        "name": "Black - काळा"
     }
 ]

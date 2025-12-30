@@ -3,258 +3,258 @@
         "id": 0,
         "url": "body_head.gif",
         "audio": "human_body/head.mp3",
-        "name": "Head"
+        "name": "Head - डोके"
     },
     {
         "id": 1,
         "url": "body_face.gif",
         "audio": "human_body/face.mp3",
-        "name": "Face"
+        "name": "Face - चेहरा"
     },
     {
         "id": 2,
         "url": "body_legs.gif",
         "audio": "human_body/legs.mp3",
-        "name": "Legs"
+        "name": "Legs - पाय"
     },
     {
         "id": 3,
         "url": "body_brain.gif",
         "audio": "human_body/brain.mp3",
-        "name": "Brain"
+        "name": "Brain - मेंदू"
     },
     {
         "id": 4,
         "url": "body_spinal_cord.gif",
         "audio": "human_body/spinal_cord.mp3",
-        "name": "Spinal Cord"
+        "name": "Spinal Cord - पाठीचा कणा"
     },
     {
         "id": 5,
         "url": "body_lungs.gif",
         "audio": "human_body/lungs.mp3",
-        "name": "Lungs"
+        "name": "Lungs - फुफ्फुसे"
     },
     {
         "id": 6,
         "url": "body_heart.gif",
         "audio": "human_body/heart.mp3",
-        "name": "Heart"
+        "name": "Heart - हृदय"
     },
     {
         "id": 7,
         "url": "body_blood_vessel.gif",
         "audio": "human_body/blood_vessels.mp3",
-        "name": "Blood Vessels"
+        "name": "Blood Vessels - रक्तवाहिनी"
     },
     {
         "id": 8,
         "url": "body_stomach.gif",
         "audio": "human_body/stomach.mp3",
-        "name": "Stomach"
+        "name": "Stomach - पोट"
     },
     {
         "id": 9,
         "url": "body_liver.gif",
         "audio": "human_body/liver.mp3",
-        "name": "Liver"
+        "name": "Liver - यकृत"
     },
     {
         "id": 10,
         "url": "body_intestine.gif",
         "audio": "human_body/intestine.mp3",
-        "name": "Intestine"
+        "name": "Intestine - आतडे"
     },
     {
         "id": 11,
         "url": "body_kidney.gif",
         "audio": "human_body/kidneys.mp3",
-        "name": "Kidneys"
+        "name": "Kidneys - मूत्रपिंड"
     },
     {
         "id": 12,
         "url": "body_bladder.gif",
         "audio": "human_body/bladder.mp3",
-        "name": "Bladder"
+        "name": "Bladder - मूत्राशय"
     },
     {
         "id": 13,
         "url": "body_bones.gif",
         "audio": "human_body/bones.mp3",
-        "name": "Bones"
+        "name": "Bones - हाडे"
     },
     {
         "id": 14,
         "url": "body_muscle.gif",
         "audio": "human_body/muscles.mp3",
-        "name": "Muscles"
+        "name": "Muscles - स्नायू"
     },
     {
         "id": 15,
         "url": "body_skin.gif",
         "audio": "human_body/skin.mp3",
-        "name": "Skin"
+        "name": "Skin - त्वचा"
     },
     {
         "id": 16,
         "url": "body_pancreas.gif",
         "audio": "human_body/pancreas.mp3",
-        "name": "Pancreas"
+        "name": "Pancreas - स्वादुपिंड"
     },
     {
         "id": 17,
         "url": "body_eye.gif",
         "audio": "human_body/eyes.mp3",
-        "name": "Eyes"
+        "name": "Eyes - डोळे"
     },
     {
         "id": 18,
         "url": "body_nose.gif",
         "audio": "human_body/nose.mp3",
-        "name": "Nose"
+        "name": "Nose - नाक"
     },
     {
         "id": 19,
         "url": "body_mouth.gif",
         "audio": "human_body/mouth.mp3",
-        "name": "Mouth"
+        "name": "Mouth - तोंड"
     },
     {
         "id": 20,
         "url": "body_chin.gif",
         "audio": "human_body/chin.mp3",
-        "name": "Chin"
+        "name": "Chin - हनुवटी"
     },
     {
         "id": 21,
         "url": "body_chest.gif",
         "audio": "human_body/chest.mp3",
-        "name": "Chest"
+        "name": "Chest - छाती"
     },
     {
         "id": 22,
         "url": "body_arm.gif",
         "audio": "human_body/arm.mp3",
-        "name": "Arm"
+        "name": "Arm - हात"
     },
     {
         "id": 23,
         "url": "body_thumb.gif",
         "audio": "human_body/thumb.mp3",
-        "name": "Thumb"
+        "name": "Thumb - अंगठा"
     },
     {
         "id": 24,
         "url": "body_thigh.gif",
         "audio": "human_body/thigh.mp3",
-        "name": "Thigh"
+        "name": "Thigh - मांडी"
     },
     {
         "id": 25,
         "url": "body_knee.gif",
         "audio": "human_body/knee.mp3",
-        "name": "Knee"
+        "name": "Knee - गुडघा"
     },
     {
         "id": 26,
         "url": "body_toes.gif",
         "audio": "human_body/toes.mp3",
-        "name": "Toes"
+        "name": "Toes - बोटे"
     },
     {
         "id": 27,
         "url": "body_hair.gif",
         "audio": "human_body/hair.mp3",
-        "name": "Hair"
+        "name": "Hair - केस"
     },
     {
         "id": 28,
         "url": "body_ear.gif",
         "audio": "human_body/ear.mp3",
-        "name": "Ear"
+        "name": "Ear - कान"
     },
     {
         "id": 29,
         "url": "body_shoulder.gif",
         "audio": "human_body/shoulder.mp3",
-        "name": "Shoulder"
+        "name": "Shoulder - खांदा"
     },
     {
         "id": 30,
         "url": "body_elbow.gif",
         "audio": "human_body/elbow.mp3",
-        "name": "Elbow"
+        "name": "Elbow - कोपरा"
     },
     {
         "id": 31,
         "url": "body_back.gif",
         "audio": "human_body/back.mp3",
-        "name": "Back"
+        "name": "Back - पाठ"
     },
     {
         "id": 32,
         "url": "body_hip.gif",
         "audio": "human_body/hip.mp3",
-        "name": "Hip"
+        "name": "Hip - नितंब"
     },
     {
         "id": 33,
         "url": "body_wrist.gif",
         "audio": "human_body/wrist.mp3",
-        "name": "Wrist"
+        "name": "Wrist - मनगट"
     },
     {
         "id": 34,
         "url": "body_fingers.gif",
         "audio": "human_body/fingers.mp3",
-        "name": "Fingers"
+        "name": "Fingers - बोटे"
     },
     {
         "id": 35,
         "url": "body_ankle.gif",
         "audio": "human_body/ankle.mp3",
-        "name": "Ankle"
+        "name": "Ankle - घोटा"
     },
     {
         "id": 37,
         "url": "body_core.gif",
         "audio": "human_body/core.mp3",
-        "name": "Core"
+        "name": "Core - गाभारक्त"
     },
     {
         "id": 38,
         "url": "body_blood.gif",
         "audio": "human_body/blood.mp3",
-        "name": "Blood"
+        "name": "Blood - रक्त"
     },
     {
         "id": 39,
         "url": "body_nails.gif",
         "audio": "human_body/nails.mp3",
-        "name": "nails"
+        "name": "Nails - नखे"
     },
     {
         "id": 40,
         "url": "body_teeth.gif",
         "audio": "human_body/teeth.mp3",
-        "name": "Teeth"
+        "name": "Teeth - दात"
     },
     {
         "id": 41,
         "url": "body_lips.gif",
         "audio": "human_body/lips.mp3",
-        "name": "Lips"
+        "name": "Lips - ओठ"
     },
     {
         "id": 42,
         "url": "body_tongue.gif",
         "audio": "human_body/tongue.mp3",
-        "name": "Tongue"
+        "name": "Tongue - जीभ"
     },
     {
         "id": 43,
         "url": "body_neck.gif",
         "audio": "human_body/neck.mp3",
-        "name": "Neck"
+        "name": "Neck - मान"
     }
 ]

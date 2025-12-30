@@ -3,186 +3,186 @@
         "id": 0,
         "url": "space_sun.gif",
         "audio": "planets/sun.mp3",
-        "name": "Sun"
+        "name": "Sun - सूर्य"
     },
     {
         "id": 1,
         "url": "space_mercury.gif",
         "audio": "planets/mercury.mp3",
-        "name": "Mercury"
+        "name": "Mercury - बुध"
     },
     {
         "id": 2,
         "url": "space_venus.gif",
         "audio": "planets/venus.mp3",
-        "name": "Venus"
+        "name": "Venus - शुक्र"
     },
     {
         "id": 3,
         "url": "space_earth.gif",
         "audio": "planets/earth.mp3",
-        "name": "Earth"
+        "name": "Earth - पृथ्वी"
     },
     {
         "id": 4,
         "url": "space_mars.gif",
         "audio": "planets/mars.mp3",
-        "name": "Mars"
+        "name": "Mars - मंगळ"
     },
     {
         "id": 5,
         "url": "space_jupiter.gif",
         "audio": "planets/jupiter.mp3",
-        "name": "Jupiter"
+        "name": "Jupiter - गुरू"
     },
     {
         "id": 6,
         "url": "space_saturn.gif",
         "audio": "planets/saturn.mp3",
-        "name": "Saturn"
+        "name": "Saturn - शनि"
     },
     {
         "id": 7,
         "url": "space_uranus.gif",
         "audio": "planets/uranus.mp3",
-        "name": "Uranus"
+        "name": "Uranus - युरेनस"
     },
     {
         "id": 8,
         "url": "space_neptune.gif",
         "audio": "planets/neptune.mp3",
-        "name": "Neptune"
+        "name": "Neptune - नेपच्यून"
     },
     {
         "id": 9,
         "url": "space_pluto.gif",
         "audio": "planets/pluto.mp3",
-        "name": "Pluto"
+        "name": "Pluto - प्लूटो"
     },
     {
         "id": 10,
         "url": "space_station.gif",
         "audio": "planets/space_station.mp3",
-        "name": "Space Station"
+        "name": "Space Station - अंतराळ स्थानक"
     },
     {
         "id": 11,
         "url": "space_satellite.gif",
         "audio": "planets/satellite.mp3",
-        "name": "Satellite"
+        "name": "Satellite - उपग्रह"
     },
     {
         "id": 12,
         "url": "space_rocket.gif",
         "audio": "planets/rocket.mp3",
-        "name": "Rocket"
+        "name": "Rocket - क्षेपणास्त्र"
     },
     {
         "id": 13,
         "url": "space_meteor.gif",
         "audio": "planets/meteor.mp3",
-        "name": "Meteor"
+        "name": "Meteor - उल्का"
     },
     {
         "id": 15,
         "url": "space_moon.gif",
         "audio": "planets/moon.mp3",
-        "name": "Moon"
+        "name": "Moon - चंद्र"
     },
     {
         "id": 16,
         "url": "space_stars.gif",
         "audio": "planets/stars.mp3",
-        "name": "Stars"
+        "name": "Stars - तारे"
     },
     {
         "id": 17,
         "url": "space_astronaut.gif",
         "audio": "planets/astronaut.mp3",
-        "name": "Astronaut"
+        "name": "Astronaut - अंतराळवीर"
     },
     {
         "id": 18,
         "url": "space_galaxy.gif",
         "audio": "planets/galaxy.mp3",
-        "name": "Galaxy"
+        "name": "Galaxy - आकाशगंगा, तारकामंडळ"
     },
     {
         "id": 19,
         "url": "space_asteriod.gif",
         "audio": "planets/asteriod.mp3",
-        "name": "Asteriod"
+        "name": "Asteriod - लघुग्रह"
     },
     {
         "id": 20,
         "url": "space_planets.gif",
         "audio": "planets/planets.mp3",
-        "name": "Planets"
+        "name": "Planets - ग्रह"
     },
     {
         "id": 21,
         "url": "space_black_hole.gif",
         "audio": "planets/black_hole.mp3",
-        "name": "Black Hole"
+        "name": "Black Hole - ब्लॅक होल"
     },
     {
         "id": 22,
         "url": "space_nebula.gif",
         "audio": "planets/nebula.mp3",
-        "name": "Nebula"
+        "name": "Nebula - नीहारिका, नक्षत्रसमुह"
     },
     {
         "id": 23,
         "url": "space_telescope.gif",
         "audio": "planets/telescope.mp3",
-        "name": "Telescope"
+        "name": "Telescope - दुर्बिण"
     },
     {
         "id": 24,
         "url": "space_rover.gif",
         "audio": "planets/rover.mp3",
-        "name": "Rover"
+        "name": "Rover - रोव्हर"
     },
     {
         "id": 26,
         "url": "space_eclipse.gif",
         "audio": "planets/eclipse.mp3",
-        "name": "Eclipse"
+        "name": "Eclipse - ग्रहण"
     },
     {
         "id": 27,
         "url": "space_atmosphere.gif",
         "audio": "planets/atmosphere.mp3",
-        "name": "Atmosphere"
+        "name": "Atmosphere - वातावरण"
     },
     {
         "id": 28,
         "url": "space_observatory.gif",
         "audio": "planets/observatory.mp3",
-        "name": "Observatory"
+        "name": "Observatory - वेधशाळा"
     },
     {
         "id": 29,
         "url": "space_sky.gif",
         "audio": "planets/sky.mp3",
-        "name": "Sky"
+        "name": "Sky - आकाश"
     },
     {
         "id": 30,
         "url": "space_cloud.gif",
         "audio": "planets/cloud.mp3",
-        "name": "Cloud"
+        "name": "Cloud - ढग"
     },
     {
         "id": 31,
         "url": "space_shooting_stars.gif",
         "audio": "planets/shooting_stars.mp3",
-        "name": "Shooting Stars"
+        "name": "Shooting Stars - तुटणारे तारे"
     },
     {
         "id": 33,
         "url": "space_constellation.gif",
         "audio": "planets/constellation.mp3",
-        "name": "Constellation"
+        "name": "Constellation - नक्षत्र"
     }
 ]

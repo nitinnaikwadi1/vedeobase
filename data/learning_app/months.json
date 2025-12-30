@@ -3,72 +3,72 @@
         "id": 0,
         "url": "january.gif",
         "audio": "months/january.mp3",
-        "name": "January"
+        "name": "January - जानेवारी"
     },
     {
         "id": 1,
         "url": "february.gif",
         "audio": "months/february.mp3",
-        "name": "February"
+        "name": "February - फेब्रुवारी"
     },
     {
         "id": 2,
         "url": "march.gif",
         "audio": "months/march.mp3",
-        "name": "March"
+        "name": "March - मार्च"
     },
     {
         "id": 3,
         "url": "april.gif",
         "audio": "months/april.mp3",
-        "name": "April"
+        "name": "April - एप्रिल"
     },
     {
         "id": 4,
         "url": "may.gif",
         "audio": "months/may.mp3",
-        "name": "May"
+        "name": "May - मे"
     },
     {
         "id": 5,
         "url": "june.gif",
         "audio": "months/june.mp3",
-        "name": "June"
+        "name": "June - जून"
     },
     {
         "id": 6,
         "url": "july.gif",
         "audio": "months/july.mp3",
-        "name": "July"
+        "name": "July - जुलै"
     },
     {
         "id": 7,
         "url": "august.gif",
         "audio": "months/august.mp3",
-        "name": "August"
+        "name": "August - ऑगस्ट"
     },
     {
         "id": 8,
         "url": "september.gif",
         "audio": "months/september.mp3",
-        "name": "September"
+        "name": "September - सप्टेंबर"
     },
     {
         "id": 9,
         "url": "october.gif",
         "audio": "months/october.mp3",
-        "name": "October"
+        "name": "October - ऑक्टोबर"
     },
     {
         "id": 10,
         "url": "november.gif",
         "audio": "months/november.mp3",
-        "name": "November"
+        "name": "November - नोव्हेंबर"
     },
     {
         "id": 11,
         "url": "december.gif",
         "audio": "months/december.mp3",
-        "name": "December"
+        "name": "December - डिसेंबर"
     }
 ]

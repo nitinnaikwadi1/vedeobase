@@ -3,150 +3,150 @@
         "id": 0,
         "url": "sports_swimming.gif",
         "audio": "sports/swimming.mp3",
-        "name": "Swimming"
+        "name": "Swimming - पोहोणे"
     },
     {
         "id": 1,
         "url": "sports_running.gif",
         "audio": "sports/running.mp3",
-        "name": "Running"
+        "name": "Running - धावणे"
     },
     {
         "id": 2,
         "url": "sports_cycling.gif",
         "audio": "sports/cycling.mp3",
-        "name": "Cycling"
+        "name": "Cycling - सायकलिंग"
     },
     {
         "id": 3,
         "url": "sports_skating.gif",
         "audio": "sports/skating.mp3",
-        "name": "Skating"
+        "name": "Skating - स्केटिंग"
     },
     {
         "id": 4,
         "url": "sports_basketball.gif",
         "audio": "sports/basketball.mp3",
-        "name": "Basketball"
+        "name": "Basketball - बास्केटबॉल"
     },
     {
         "id": 6,
         "url": "sports_american_football.gif",
         "audio": "sports/american_football.mp3",
-        "name": "American Football"
+        "name": "American Football - अमेरिकन फुटबॉल"
     },
     {
         "id": 7,
         "url": "sports_tennis.gif",
         "audio": "sports/tennis.mp3",
-        "name": "Tennis"
+        "name": "Tennis - टेनिस"
     },
     {
         "id": 8,
         "url": "sports_badminton.gif",
         "audio": "sports/badminton.mp3",
-        "name": "Badminton"
+        "name": "Badminton - बॅडमिंटन"
     },
     {
         "id": 9,
         "url": "sports_boxing.gif",
         "audio": "sports/boxing.mp3",
-        "name": "Boxing"
+        "name": "Boxing - मुष्ठियुद्ध"
     },
     {
         "id": 10,
         "url": "sports_cricket.gif",
         "audio": "sports/cricket.mp3",
-        "name": "Cricket"
+        "name": "Cricket - क्रिकेट"
     },
     {
         "id": 11,
         "url": "sports_shooting.gif",
         "audio": "sports/shooting.mp3",
-        "name": "Shooting"
+        "name": "Shooting - निशानेबाजी"
     },
     {
         "id": 12,
         "url": "sports_baseball.gif",
         "audio": "sports/baseball.mp3",
-        "name": "Baseball"
+        "name": "Baseball - बेसबॉल"
     },
     {
         "id": 13,
         "url": "sports_gymnastics.gif",
         "audio": "sports/gymnastics.mp3",
-        "name": "Gymnastics"
+        "name": "Gymnastics - जिम्नॅस्टिक्स"
     },
     {
         "id": 14,
         "url": "sports_soccer.gif",
         "audio": "sports/soccer.mp3",
-        "name": "Soccer"
+        "name": "Soccer - सॉकर"
     },
     {
         "id": 15,
         "url": "sports_golf.gif",
         "audio": "sports/golf.mp3",
-        "name": "Golf"
+        "name": "Golf - गोल्फ"
     },
     {
         "id": 16,
         "url": "sports_hockey.gif",
         "audio": "sports/hockey.mp3",
-        "name": "Hockey"
+        "name": "Hockey - हॉकी"
     },
     {
         "id": 17,
         "url": "sports_weightlifting.gif",
         "audio": "sports/weightlifting.mp3",
-        "name": "Weightlifting"
+        "name": "Weightlifting - वेटलिफ्टिंग"
     },
     {
         "id": 18,
         "url": "sports_volleyball.gif",
         "audio": "sports/volleyball.mp3",
-        "name": "Volleyball"
+        "name": "Volleyball - व्हॉलीबॉल"
     },
     {
         "id": 19,
         "url": "sports_surfing.gif",
         "audio": "sports/surfing.mp3",
-        "name": "Surfing"
+        "name": "Surfing - सर्फिंग"
     },
     {
         "id": 20,
         "url": "sports_wrestling.gif",
         "audio": "sports/wrestling.mp3",
-        "name": "Wrestling"
+        "name": "Wrestling - कुस्ती"
     },
     {
         "id": 21,
         "url": "sports_archery.gif",
         "audio": "sports/archery.mp3",
-        "name": "Archery"
+        "name": "Archery - तिरंदाजी"
     },
     {
         "id": 22,
         "url": "sports_rafting.gif",
         "audio": "sports/rafting.mp3",
-        "name": "Rafting"
+        "name": "Rafting - राफ्टिंग"
     },
     {
         "id": 23,
         "url": "sports_fencing.gif",
         "audio": "sports/fencing.mp3",
-        "name": "Fencing"
+        "name": "Fencing - तलवार चालवण्याची कला"
     },
     {
         "id": 24,
         "url": "sports_martial_arts.gif",
         "audio": "sports/martial_arts.mp3",
-        "name": "Martial Arts"
+        "name": "Martial Arts - मार्शल आर्ट्स"
     },
     {
         "id": 25,
         "url": "sports_polo.gif",
         "audio": "sports/polo.mp3",
-        "name": "Polo"
+        "name": "Polo - पोलो"
     }
 ]

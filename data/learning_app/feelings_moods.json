@@ -3,108 +3,108 @@
         "id": 0,
         "url": "happy.gif",
         "audio": "feeling_moods/happy.mp3",
-        "name": "Happy"
+        "name": "Happy - खुश"
     },
     {
         "id": 1,
         "url": "sad.gif",
         "audio": "feeling_moods/sad.mp3",
-        "name": "Sad"
+        "name": "Sad - नाराज"
     },
     {
         "id": 2,
         "url": "angry.gif",
         "audio": "feeling_moods/angry.mp3",
-        "name": "Angry"
+        "name": "Angry - रागावलेला"
     },
     {
         "id": 3,
         "url": "scared.gif",
         "audio": "feeling_moods/scared.mp3",
-        "name": "Scared"
+        "name": "Scared - घाबरलेला"
     },
     {
         "id": 4,
         "url": "surprised.gif",
         "audio": "feeling_moods/surprised.mp3",
-        "name": "Surprised"
+        "name": "Surprised - आश्चर्यचकित"
     },
     {
         "id": 5,
         "url": "gasped.gif",
         "audio": "feeling_moods/gasped.mp3",
-        "name": "Gasped"
+        "name": "Gasped - दचकणे"
     },
     {
         "id": 6,
         "url": "tired.gif",
         "audio": "feeling_moods/tired.mp3",
-        "name": "Tired"
+        "name": "Tired - थकलेला"
     },
     {
         "id": 7,
         "url": "bored.gif",
         "audio": "feeling_moods/bored.mp3",
-        "name": "Bored"
+        "name": "Bored - कंटाळणे"
     },
     {
         "id": 8,
         "url": "shy.gif",
         "audio": "feeling_moods/shy.mp3",
-        "name": "shy"
+        "name": "Shy - लाजणे"
     },
     {
         "id": 9,
         "url": "hungry.gif",
         "audio": "feeling_moods/hungry.mp3",
-        "name": "Hungry"
+        "name": "Hungry - भुकेलेला"
     },
     {
         "id": 10,
         "url": "frowned.gif",
         "audio": "feeling_moods/frowned.mp3",
-        "name": "Frowned"
+        "name": "Frowned - भुवया वर करणे"
     },
     {
         "id": 11,
         "url": "hot.gif",
         "audio": "feeling_moods/hot.mp3",
-        "name": "Hot"
+        "name": "Hot - गरम"
     },
     {
         "id": 12,
         "url": "cold.gif",
         "audio": "feeling_moods/cold.mp3",
-        "name": "Cold"
+        "name": "Cold - थंड"
     },
     {
         "id": 13,
         "url": "sick.gif",
         "audio": "feeling_moods/sick.mp3",
-        "name": "Sick"
+        "name": "Sick - आजारी"
     },
     {
         "id": 14,
         "url": "thinking.gif",
         "audio": "feeling_moods/thinking.mp3",
-        "name": "Thinking"
+        "name": "Thinking - विचार"
     },
     {
         "id": 15,
         "url": "lonly.gif",
         "audio": "feeling_moods/lonly.mp3",
-        "name": "Lonly"
+        "name": "Lonly - एकाकी"
     },
     {
         "id": 16,
         "url": "crying.gif",
         "audio": "feeling_moods/crying.mp3",
-        "name": "Crying"
+        "name": "Crying - रडणे"
     },
     {
         "id": 17,
         "url": "laughing.gif",
         "audio": "feeling_moods/laughing.mp3",
-        "name": "Laughing"
+        "name": "Laughing - हसणे"
     }
 ]

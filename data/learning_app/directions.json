@@ -3,36 +3,36 @@
         "id": 0,
         "url": "up.gif",
         "audio": "direction/up.mp3",
-        "name": "Up"
+        "name": "Up - वर"
     },
     {
         "id": 1,
         "url": "down.gif",
         "audio": "direction/down.mp3",
-        "name": "Down"
+        "name": "Down - खाली"
     },
     {
         "id": 2,
         "url": "right.gif",
         "audio": "direction/right.mp3",
-        "name": "Right"
+        "name": "Right - उजवीकडे"
     },
     {
         "id": 3,
         "url": "left.gif",
         "audio": "direction/left.mp3",
-        "name": "Left"
+        "name": "Left - डावीकडे"
     },
     {
         "id": 4,
         "url": "forward.gif",
         "audio": "direction/forward.mp3",
-        "name": "Forward"
+        "name": "Forward - पुढे"
     },
     {
         "id": 5,
         "url": "backward.gif",
         "audio": "direction/backward.mp3",
-        "name": "Backward"
+        "name": "Backward - मागे"
     }
 ]

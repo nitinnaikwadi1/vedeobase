@@ -3,138 +3,138 @@
         "id": 0,
         "url": "circle.gif",
         "audio": "shape/circle.mp3",
-        "name": "Circle"
+        "name": "Circle - वर्तुळ, गोल"
     },
     {
         "id": 1,
         "url": "line.gif",
         "audio": "shape/straight_line.mp3",
-        "name": "Line"
+        "name": "Line - रेषा"
     },
     {
         "id": 2,
         "url": "triangle.gif",
         "audio": "shape/triangle.mp3",
-        "name": "Triangle"
+        "name": "Triangle - त्रिकोण"
     },
     {
         "id": 3,
         "url": "square.gif",
         "audio": "shape/square.mp3",
-        "name": "Square"
+        "name": "Square - चौरस"
     },
     {
         "id": 4,
         "url": "rectangle.gif",
         "audio": "shape/rectangle.mp3",
-        "name": "Rectangle"
+        "name": "Rectangle - आयत"
     },
     {
         "id": 5,
         "url": "star.gif",
         "audio": "shape/star.mp3",
-        "name": "Star"
+        "name": "Star - तारा"
     },
     {
         "id": 6,
         "url": "oval.gif",
         "audio": "shape/oval.mp3",
-        "name": "Oval"
+        "name": "Oval - लंबगोल"
     },
     {
         "id": 7,
         "url": "diamond.gif",
         "audio": "shape/diamond.mp3",
-        "name": "Diamond"
+        "name": "Diamond - समभुज चौकोन"
     },
     {
         "id": 8,
         "url": "heart.gif",
         "audio": "shape/heart.mp3",
-        "name": "Heart"
+        "name": "Heart - हृदयाचा आकार"
     },
     {
         "id": 9,
         "url": "pentagon.gif",
         "audio": "shape/pentagon.mp3",
-        "name": "Pentagon"
+        "name": "Pentagon - पंचकोन"
     },
     {
         "id": 10,
         "url": "cube.gif",
         "audio": "shape/cube.mp3",
-        "name": "Cube"
+        "name": "Cube - घन"
     },
     {
         "id": 11,
         "url": "cylinder.gif",
         "audio": "shape/cylinder.mp3",
-        "name": "Cylinder"
+        "name": "Cylinder - वृत्तचित्ती"
     },
     {
         "id": 12,
         "url": "cone.gif",
         "audio": "shape/cone.mp3",
-        "name": "Cone"
+        "name": "Cone - शंकू"
     },
     {
         "id": 13,
         "url": "semicircle.gif",
         "audio": "shape/semicircle.mp3",
-        "name": "Semicircle"
+        "name": "Semicircle - अर्धवर्तुळ"
     },
     {
         "id": 13,
         "url": "trapezium.gif",
         "audio": "shape/trapezium.mp3",
-        "name": "Trapezium"
+        "name": "Trapezium - समलंब चौकोन"
     },
     {
         "id": 13,
         "url": "kite.gif",
         "audio": "shape/kite.mp3",
-        "name": "Kite"
+        "name": "Kite - पतंग"
     },
     {
         "id": 14,
         "url": "spiral.gif",
         "audio": "shape/spiral.mp3",
-        "name": "Spiral"
+        "name": "Spiral - नागमोडी, चक्राकार"
     },
     {
         "id": 15,
         "url": "arch.gif",
         "audio": "shape/arch.mp3",
-        "name": "Arch"
+        "name": "Arch - कमान"
     },
     {
         "id": 16,
         "url": "arrow.gif",
         "audio": "shape/arrow.mp3",
-        "name": "Arrow"
+        "name": "Arrow - बाण, तीर"
     },
     {
         "id": 17,
         "url": "pyramid.gif",
         "audio": "shape/pyramid.mp3",
-        "name": "Pyramid"
+        "name": "Pyramid - पिरॅमिड"
     },
     {
         "id": 18,
         "url": "sphere.gif",
         "audio": "shape/sphere.mp3",
-        "name": "Sphere"
+        "name": "Sphere - गोलक"
     },
     {
         "id": 19,
         "url": "pie.gif",
         "audio": "shape/pie.mp3",
-        "name": "Pie"
+        "name": "Pie - पाई"
     },
     {
         "id": 20,
         "url": "ring.gif",
         "audio": "shape/ring.mp3",
-        "name": "Ring"
+        "name": "Ring - कडे"
     }
 ]

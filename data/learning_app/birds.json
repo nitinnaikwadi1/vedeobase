@@ -3,120 +3,120 @@
         "id": 0,
         "url": "sparrow.gif",
         "audio": "bird/sparrow.mp3",
-        "name": "Sparrow"
+        "name": "Sparrow - चिमणी"
     },
     {
         "id": 1,
         "url": "crow.gif",
         "audio": "bird/crow.mp3",
-        "name": "Crow"
+        "name": "Crow - कावळा"
     },
     {
         "id": 2,
         "url": "duck.gif",
         "audio": "bird/duck.mp3",
-        "name": "Duck"
+        "name": "Duck - बदक"
     },
     {
         "id": 3,
         "url": "owl.gif",
         "audio": "bird/owl.mp3",
-        "name": "Owl"
+        "name": "Owl - घुबड"
     },
     {
         "id": 4,
         "url": "peacock.gif",
         "audio": "bird/peacock.mp3",
-        "name": "Peacock"
+        "name": "Peacock - मोर"
     },
     {
         "id": 5,
         "url": "ostrich.gif",
         "audio": "bird/ostrich.mp3",
-        "name": "Ostrich"
+        "name": "Ostrich - शहामृग"
     },
     {
         "id": 6,
         "url": "goose.gif",
         "audio": "bird/goose.mp3",
-        "name": "Goose"
+        "name": "Goose - हंस"
     },
     {
         "id": 7,
         "url": "eagle.gif",
         "audio": "bird/eagle.mp3",
-        "name": "Eagle"
+        "name": "Eagle - गरुड"
     },
     {
         "id": 8,
         "url": "chicken.gif",
         "audio": "bird/chicken.mp3",
-        "name": "Chicken"
+        "name": "Chicken - कोंबडी"
     },
     {
         "id": 9,
         "url": "pigeon.gif",
         "audio": "bird/pigeon.mp3",
-        "name": "Pigeon"
+        "name": "Pigeon - कबुतर"
     },
     {
         "id": 10,
         "url": "pelican.gif",
         "audio": "bird/pelican.mp3",
-        "name": "Pelican"
+        "name": "Pelican - पेलिकन"
     },
     {
         "id": 11,
         "url": "seagull.gif",
         "audio": "bird/seagull.mp3",
-        "name": "Seagull"
+        "name": "Seagull - सीगल"
     },
     {
         "id": 12,
         "url": "kingfisher.gif",
         "audio": "bird/kingfisher.mp3",
-        "name": "Kingfisher"
+        "name": "Kingfisher - खंड्या"
     },
     {
         "id": 13,
         "url": "hummingbird.gif",
         "audio": "bird/hummingbird.mp3",
-        "name": "Hummingbird"
+        "name": "Hummingbird - हमिंगबर्ड"
     },
     {
         "id": 14,
         "url": "toucan.gif",
         "audio": "bird/toucan.mp3",
-        "name": "Toucan"
+        "name": "Toucan - टूकण"
     },
     {
         "id": 15,
         "url": "parrot.gif",
         "audio": "bird/parrot.mp3",
-        "name": "Parrot"
+        "name": "Parrot - पोपट"
     },
     {
         "id": 16,
         "url": "bat.gif",
         "audio": "bird/bat.mp3",
-        "name": "Bat"
+        "name": "Bat - वटवाघूळ"
     },
     {
         "id": 17,
         "url": "flamingo.gif",
         "audio": "bird/flamingo.mp3",
-        "name": "Flamingo"
+        "name": "Flamingo - फ्लेमिंगो"
     },
     {
         "id": 18,
         "url": "woodpeaker.gif",
         "audio": "bird/woodpeaker.mp3",
-        "name": "Woodpeaker"
+        "name": "Woodpeaker - सुतारपक्षी"
     },
     {
         "id": 19,
         "url": "rooster.gif",
         "audio": "bird/rooster.mp3",
-        "name": "Rooster"
+        "name": "Rooster - कोंबडा"
     }
 ]

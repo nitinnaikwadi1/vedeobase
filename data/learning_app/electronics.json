@@ -3,228 +3,228 @@
         "id": 0,
         "url": "electronics_air_purifier.gif",
         "audio": "electronics/air_purifier.mp3",
-        "name": "Air Purifier"
+        "name": "Air Purifier - एअर प्युरिफायर"
     },
     {
         "id": 1,
         "url": "electronics_air_condition.gif",
         "audio": "electronics/air_condition.mp3",
-        "name": "Air Condition"
+        "name": "Air Condition - एसी"
     },
     {
         "id": 2,
         "url": "electronics_alarm_clock.gif",
         "audio": "electronics/alarm_clock.mp3",
-        "name": "Alarm Clock"
+        "name": "Alarm Clock - गजराचे घड्याळ"
     },
     {
         "id": 3,
         "url": "electronics_blender.gif",
         "audio": "electronics/blender.mp3",
-        "name": "Blender"
+        "name": "Blender - ब्लेंडर"
     },
     {
         "id": 4,
         "url": "electronics_bulb.gif",
         "audio": "electronics/bulb.mp3",
-        "name": "Bulb"
+        "name": "Bulb - बल्ब"
     },
     {
         "id": 5,
         "url": "electronics_calculator.gif",
         "audio": "electronics/calculator.mp3",
-        "name": "Calculator"
+        "name": "Calculator - कॅल्क्युलेटर"
     },
     {
         "id": 6,
         "url": "electronics_fan.gif",
         "audio": "electronics/fan.mp3",
-        "name": "Fan"
+        "name": "Fan - पंखा"
     },
     {
         "id": 6,
         "url": "electronics_washing_machine.gif",
         "audio": "electronics/washing_machine.mp3",
-        "name": "Washing Machine"
+        "name": "Washing Machine - धुण्याची मशीन"
     },
     {
         "id": 6,
         "url": "electronics_computer.gif",
         "audio": "electronics/computer.mp3",
-        "name": "Computer"
+        "name": "Computer - संगणक"
     },
     {
         "id": 6,
         "url": "electronics_copier.gif",
         "audio": "electronics/copier.mp3",
-        "name": "Copier"
+        "name": "Copier - कॉपीअर"
     },
     {
         "id": 6,
         "url": "electronics_camera.gif",
         "audio": "electronics/camera.mp3",
-        "name": "Camera"
+        "name": "Camera - कॅमेरा"
     },
     {
         "id": 6,
         "url": "electronics_earphone.gif",
         "audio": "electronics/earphone.mp3",
-        "name": "Earphone"
+        "name": "Earphone - इअरफोन"
     },
     {
         "id": 6,
         "url": "electronics_sandwitch_maker.gif",
         "audio": "electronics/sandwitch_maker.mp3",
-        "name": "Sandwitch Maker"
+        "name": "Sandwitch Maker - सँडविच मशीन"
     },
     {
         "id": 6,
         "url": "electronics_telephone.gif",
         "audio": "electronics/telephone.mp3",
-        "name": "Telephone"
+        "name": "Telephone - दूरध्वनी"
     },
     {
         "id": 6,
         "url": "electronics_printer.gif",
         "audio": "electronics/printer.mp3",
-        "name": "Printer"
+        "name": "Printer - मुद्रक"
     },
     {
         "id": 6,
         "url": "electronics_hair_dryer.gif",
         "audio": "electronics/hair_dryer.mp3",
-        "name": "Hair Dryer"
+        "name": "Hair Dryer - केस सुकवण्याची मशीन"
     },
     {
         "id": 6,
         "url": "electronics_tube_light.gif",
         "audio": "electronics/tube_light.mp3",
-        "name": "Tube Light"
+        "name": "Tube Light - ट्यूब लाइट"
     },
     {
         "id": 6,
         "url": "electronics_iron.gif",
         "audio": "electronics/iron.mp3",
-        "name": "Iron"
+        "name": "Iron - इस्त्री"
     },
     {
         "id": 6,
         "url": "electronics_mobile.gif",
         "audio": "electronics/mobile.mp3",
-        "name": "Mobile"
+        "name": "Mobile - मोबाइल"
     },
     {
         "id": 6,
         "url": "electronics_laptop.gif",
         "audio": "electronics/laptop.mp3",
-        "name": "Laptop"
+        "name": "Laptop - लॅपटॉप"
     },
     {
         "id": 6,
         "url": "electronics_fridge.gif",
         "audio": "electronics/fridge.mp3",
-        "name": "Fridge"
+        "name": "Fridge - फ्रीज"
     },
     {
         "id": 6,
         "url": "electronics_oven.gif",
         "audio": "electronics/oven.mp3",
-        "name": "Oven"
+        "name": "Oven - भट्टी"
     },
     {
         "id": 6,
         "url": "electronics_monitor.gif",
         "audio": "electronics/monitor.mp3",
-        "name": "Monitor"
+        "name": "Monitor - मॉनिटर"
     },
     {
         "id": 6,
         "url": "electronics_projector.gif",
         "audio": "electronics/projector.mp3",
-        "name": "Projector"
+        "name": "Projector - प्रक्षेपण यंत्र"
     },
     {
         "id": 6,
         "url": "electronics_radio.gif",
         "audio": "electronics/radio.mp3",
-        "name": "Radio"
+        "name": "Radio - आकाशवाणी"
     },
     {
         "id": 6,
         "url": "electronics_tablet.gif",
         "audio": "electronics/tablet.mp3",
-        "name": "Tablet"
+        "name": "Tablet - टॅब्लेट"
     },
     {
         "id": 6,
         "url": "electronics_speaker.gif",
         "audio": "electronics/speaker.mp3",
-        "name": "Speaker"
+        "name": "Speaker - ध्वनिप्रक्षेपक"
     },
     {
         "id": 6,
         "url": "electronics_torch.gif",
         "audio": "electronics/torch.mp3",
-        "name": "Torch"
+        "name": "Torch - मशाल, विजेरी"
     },
     {
         "id": 6,
         "url": "electronics_remote.gif",
         "audio": "electronics/remote.mp3",
-        "name": "Remote"
+        "name": "Remote - रिमोट"
     },
     {
         "id": 6,
         "url": "electronics_microphone.gif",
         "audio": "electronics/microphone.mp3",
-        "name": "Microphone"
+        "name": "Microphone - ध्वनीविस्तारक"
     },
     {
         "id": 6,
         "url": "electronics_keyboard.gif",
         "audio": "electronics/keyboard.mp3",
-        "name": "Keyboard"
+        "name": "Keyboard - टंकलेखक"
     },
     {
         "id": 6,
         "url": "electronics_internet.gif",
         "audio": "electronics/internet.mp3",
-        "name": "Internet"
+        "name": "Internet - इंटरनेट"
     },
     {
         "id": 6,
         "url": "electronics_mouse.gif",
         "audio": "electronics/mouse.mp3",
-        "name": "Mouse"
+        "name": "Mouse - माउस"
     },
     {
         "id": 6,
         "url": "electronics_charger.gif",
         "audio": "electronics/charger.mp3",
-        "name": "Charger"
+        "name": "Charger - प्रभारक"
     },
     {
         "id": 6,
         "url": "electronics_battery.gif",
         "audio": "electronics/battery.mp3",
-        "name": "Battery"
+        "name": "Battery - बॅटरी"
     },
     {
         "id": 6,
         "url": "electronics_walkie_talkie.gif",
         "audio": "electronics/walkie_talkie.mp3",
-        "name": "Walkie Talkie"
+        "name": "Walkie Talkie - रेडिओ दूरध्वनी"
     },
     {
         "id": 6,
         "url": "electronics_humidifier.gif",
         "audio": "electronics/humidifier.mp3",
-        "name": "Humidifier"
+        "name": "Humidifier - दमटपणा नियंत्रण मशीन"
     },
     {
         "id": 6,
         "url": "electronics_drone.gif",
         "audio": "electronics/drone.mp3",
-        "name": "Drone"
+        "name": "Drone - ड्रोन"
     }
 ]

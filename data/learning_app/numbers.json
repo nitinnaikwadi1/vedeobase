@@ -3,66 +3,66 @@
         "id": 9,
         "url": "0.gif",
         "audio": "eng-numbers/0.mp3",
-        "name": "Zero"
+        "name": "Zero - झिरो"
     },
     {
         "id": 0,
         "url": "1.gif",
         "audio": "eng-numbers/1.mp3",
-        "name": "One"
+        "name": "One - वन"
     },
     {
         "id": 1,
         "url": "2.gif",
         "audio": "eng-numbers/2.mp3",
-        "name": "Two"
+        "name": "Two - टू"
     },
     {
         "id": 2,
         "url": "3.gif",
         "audio": "eng-numbers/3.mp3",
-        "name": "Three"
+        "name": "Three - थ्री"
     },
     {
         "id": 3,
         "url": "4.gif",
         "audio": "eng-numbers/4.mp3",
-        "name": "Four"
+        "name": "Four - फोर"
     },
     {
         "id": 4,
         "url": "5.gif",
         "audio": "eng-numbers/5.mp3",
-        "name": "Five"
+        "name": "Five - फाइव्ह"
     },
     {
         "id": 5,
         "url": "6.gif",
         "audio": "eng-numbers/6.mp3",
-        "name": "Six"
+        "name": "Six - सिक्स"
     },
     {
         "id": 6,
         "url": "7.gif",
         "audio": "eng-numbers/7.mp3",
-        "name": "Seven"
+        "name": "Seven - सेव्हन"
     },
     {
         "id": 7,
         "url": "8.gif",
         "audio": "eng-numbers/8.mp3",
-        "name": "Eight"
+        "name": "Eight - एट"
     },
     {
         "id": 8,
         "url": "9.gif",
         "audio": "eng-numbers/9.mp3",
-        "name": "Nine"
+        "name": "Nine - नाईन"
     },
     {
         "id": 10,
         "url": "10.gif",
         "audio": "eng-numbers/10.mp3",
-        "name": "Ten"
+        "name": "Ten - टेन"
     }
 ]

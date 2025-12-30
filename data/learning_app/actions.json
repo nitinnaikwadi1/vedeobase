@@ -3,354 +3,354 @@
         "id": 0,
         "url": "sitting.gif",
         "audio": "actions/sitting.mp3",
-        "name": "Sitting"
+        "name": "Sitting - बसने"
     },
     {
         "id": 1,
         "url": "standing.gif",
         "audio": "actions/standing.mp3",
-        "name": "Standing"
+        "name": "Standing - उभा"
     },
     {
         "id": 2,
         "url": "walking.gif",
         "audio": "actions/walking.mp3",
-        "name": "Walking"
+        "name": "Walking - चालने"
     },
     {
         "id": 3,
         "url": "running.gif",
         "audio": "actions/running.mp3",
-        "name": "Running"
+        "name": "Running - पळणे"
     },
     {
         "id": 4,
         "url": "lying_down.gif",
         "audio": "actions/lying_down.mp3",
-        "name": "Lying Down"
+        "name": "Lying Down - झोपने"
     },
     {
         "id": 5,
         "url": "kneeling.gif",
         "audio": "actions/kneeling.mp3",
-        "name": "Kneeling"
+        "name": "Kneeling - गुडघे टेकणे"
     },
     {
         "id": 6,
         "url": "bending.gif",
         "audio": "actions/bending.mp3",
-        "name": "Bending"
+        "name": "Bending - वाकणे"
     },
     {
         "id": 7,
         "url": "jumping.gif",
         "audio": "actions/jumping.mp3",
-        "name": "Jumping"
+        "name": "Jumping - उडी मारणे"
     },
     {
         "id": 8,
         "url": "crawling.gif",
         "audio": "actions/crawling.mp3",
-        "name": "Crawling"
+        "name": "Crawling - सरपटणे"
     },
     {
         "id": 9,
         "url": "swimming.gif",
         "audio": "actions/swimming.mp3",
-        "name": "Swimming"
+        "name": "Swimming - पोहणे"
     },
     {
         "id": 10,
         "url": "climbing.gif",
         "audio": "actions/climbing.mp3",
-        "name": "Climbing"
+        "name": "Climbing - चढणे"
     },
     {
         "id": 11,
         "url": "lifting.gif",
         "audio": "actions/lifting.mp3",
-        "name": "Lifting"
+        "name": "Lifting - उचलणे"
     },
     {
         "id": 12,
         "url": "pushing.gif",
         "audio": "actions/pushing.mp3",
-        "name": "Pushing"
+        "name": "Pushing - ढकलणे"
     },
     {
         "id": 13,
         "url": "speaking.gif",
         "audio": "actions/speaking.mp3",
-        "name": "Speaking"
+        "name": "Speaking - बोलणे"
     },
     {
         "id": 14,
         "url": "pulling.gif",
         "audio": "actions/pulling.mp3",
-        "name": "Pulling"
+        "name": "Pulling - ओढणे"
     },
     {
         "id": 15,
         "url": "throwing.gif",
         "audio": "actions/throwing.mp3",
-        "name": "Throwing"
+        "name": "Throwing - फेकणे"
     },
     {
         "id": 16,
         "url": "catching.gif",
         "audio": "actions/catching.mp3",
-        "name": "Catching"
+        "name": "Catching - पकडणे"
     },
     {
         "id": 17,
         "url": "rotating.gif",
         "audio": "actions/rotating.mp3",
-        "name": "Rotating"
+        "name": "Rotating - फिरवणे"
     },
     {
         "id": 18,
         "url": "singing.gif",
         "audio": "actions/singing.mp3",
-        "name": "Singing"
+        "name": "Singing - गाणे"
     },
     {
         "id": 19,
         "url": "laughing.gif",
         "audio": "actions/laughing.mp3",
-        "name": "Laughing"
+        "name": "Laughing - हसणे"
     },
     {
         "id": 20,
         "url": "crying.gif",
         "audio": "actions/crying.mp3",
-        "name": "Crying"
+        "name": "Crying - रडणे"
     },
     {
         "id": 21,
         "url": "breathing.gif",
         "audio": "actions/breathing.mp3",
-        "name": "Breathing"
+        "name": "Breathing - श्वास घेणे"
     },
     {
         "id": 22,
         "url": "chewing.gif",
         "audio": "actions/chewing.mp3",
-        "name": "Chewing"
+        "name": "Chewing - चावणे"
     },
     {
         "id": 23,
         "url": "swallowing.gif",
         "audio": "actions/swallowing.mp3",
-        "name": "Swallowing"
+        "name": "Swallowing - गिळणे"
     },
     {
         "id": 24,
         "url": "blinking.gif",
         "audio": "actions/blinking.mp3",
-        "name": "Blinking"
+        "name": "Blinking - डोळे मिचकावणे"
     },
     {
         "id": 25,
         "url": "brushing.gif",
         "audio": "actions/brushing.mp3",
-        "name": "Brushing"
+        "name": "Brushing - घासणे"
     },
     {
         "id": 26,
         "url": "washing.gif",
         "audio": "actions/washing.mp3",
-        "name": "Washing"
+        "name": "Washing - धुणे"
     },
     {
         "id": 27,
         "url": "reading.gif",
         "audio": "actions/reading.mp3",
-        "name": "Reading"
+        "name": "Reading - वाचने"
     },
     {
         "id": 28,
         "url": "hammering.gif",
         "audio": "actions/hammering.mp3",
-        "name": "Hammering"
+        "name": "Hammering - हातोडा मारणे"
     },
     {
         "id": 29,
         "url": "bathing.gif",
         "audio": "actions/bathing.mp3",
-        "name": "Bathing"
+        "name": "Bathing - अंघोळ"
     },
     {
         "id": 30,
         "url": "blowing.gif",
         "audio": "actions/blowing.mp3",
-        "name": "blowing"
+        "name": "blowing - फुंकणे"
     },
     {
         "id": 31,
         "url": "bouncing.gif",
         "audio": "actions/bouncing.mp3",
-        "name": "Bouncing"
+        "name": "Bouncing - उसळणे"
     },
     {
         "id": 32,
         "url": "opening.gif",
         "audio": "actions/opening.mp3",
-        "name": "Opening"
+        "name": "Opening - उघडणे"
     },
     {
         "id": 33,
         "url": "closing.gif",
         "audio": "actions/closing.mp3",
-        "name": "Closing"
+        "name": "Closing - बंद करणे"
     },
     {
         "id": 34,
         "url": "painting.gif",
         "audio": "actions/painting.mp3",
-        "name": "Painting"
+        "name": "Painting - रंगवणे"
     },
     {
         "id": 35,
         "url": "dancing.gif",
         "audio": "actions/dancing.mp3",
-        "name": "Dancing"
+        "name": "Dancing - नाचणे"
     },
     {
         "id": 36,
         "url": "sleeping.gif",
         "audio": "actions/sleeping.mp3",
-        "name": "Sleeping"
+        "name": "Sleeping - झोपणे"
     },
     {
         "id": 37,
         "url": "hopping.gif",
         "audio": "actions/hopping.mp3",
-        "name": "Hopping"
+        "name": "Hopping - उड्या मारणे"
     },
     {
         "id": 38,
         "url": "typing.gif",
         "audio": "actions/typing.mp3",
-        "name": "Typing"
+        "name": "Typing - टायपिंग"
     },
     {
         "id": 39,
         "url": "riding.gif",
         "audio": "actions/riding.mp3",
-        "name": "Riding"
+        "name": "Riding - स्वारी करणे"
     },
     {
         "id": 40,
         "url": "driving.gif",
         "audio": "actions/driving.mp3",
-        "name": "Driving"
+        "name": "Driving - गाडी चालवणे"
     },
     {
         "id": 41,
         "url": "collecting.gif",
         "audio": "actions/collecting.mp3",
-        "name": "Collecting"
+        "name": "Collecting - गोळा करणे"
     },
     {
         "id": 42,
         "url": "scrubbing.gif",
         "audio": "actions/scrubbing.mp3",
-        "name": "Scrubbing"
+        "name": "Scrubbing - घासणे"
     },
     {
         "id": 43,
         "url": "drawing.gif",
         "audio": "actions/drawing.mp3",
-        "name": "Drawing"
+        "name": "Drawing - चित्र काढणे"
     },
     {
         "id": 44,
         "url": "fighting.gif",
         "audio": "actions/fighting.mp3",
-        "name": "Fighting"
+        "name": "Fighting - लढाई"
     },
     {
         "id": 45,
         "url": "playing.gif",
         "audio": "actions/playing.mp3",
-        "name": "Playing"
+        "name": "Playing - खेळणे"
     },
     {
         "id": 46,
         "url": "listening.gif",
         "audio": "actions/listening.mp3",
-        "name": "Listening"
+        "name": "Listening - ऐकणे"
     },
     {
         "id": 47,
         "url": "thinking.gif",
         "audio": "actions/thinking.mp3",
-        "name": "Thinking"
+        "name": "Thinking - विचार करणे"
     },
     {
         "id": 48,
         "url": "watching.gif",
         "audio": "actions/watching.mp3",
-        "name": "Watching"
+        "name": "Watching - बघणे"
     },
     {
         "id": 49,
         "url": "writing.gif",
         "audio": "actions/writing.mp3",
-        "name": "Writing"
+        "name": "Writing - लिहिणे"
     },
     {
         "id": 50,
         "url": "cutting.gif",
         "audio": "actions/cutting.mp3",
-        "name": "Cutting"
+        "name": "Cutting - कापणे"
     },
     {
         "id": 51,
         "url": "taking.gif",
         "audio": "actions/taking.mp3",
-        "name": "Taking"
+        "name": "Taking - घेणे"
     },
     {
         "id": 52,
         "url": "giving.gif",
         "audio": "actions/giving.mp3",
-        "name": "Giving"
+        "name": "Giving - देणे"
     },
     {
         "id": 53,
         "url": "eating.gif",
         "audio": "actions/eating.mp3",
-        "name": "Eating"
+        "name": "Eating - खाणे"
     },
     {
         "id": 54,
         "url": "drinking.gif",
         "audio": "actions/drinking.mp3",
-        "name": "Drinking"
+        "name": "Drinking - पिणे"
     },
     {
         "id": 55,
         "url": "cooking.gif",
         "audio": "actions/cooking.mp3",
-        "name": "Cooking"
+        "name": "Cooking - स्वयंपाक"
     },
     {
         "id": 56,
         "url": "talking.gif",
         "audio": "actions/talking.mp3",
-        "name": "Talking"
+        "name": "Talking - बोलणे"
     },
     {
         "id": 57,
         "url": "waiting.gif",
         "audio": "actions/waiting.mp3",
-        "name": "Waiting"
+        "name": "Waiting - वाट बघणे"
     },
     {
         "id": 58,
         "url": "digging.gif",
         "audio": "actions/digging.mp3",
-        "name": "Digging"
+        "name": "Digging - खोदणे"
     }
 ]

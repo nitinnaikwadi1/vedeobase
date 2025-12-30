@@ -3,150 +3,150 @@
         "id": 1,
         "url": "sea_animals.gif",
         "link": "sea_animals.json",
-        "title": "Sea Animals"
+        "title": "Sea Animals - समुद्र प्राणी"
     },
     {
         "id": 2,
         "url": "shapes.gif",
         "link": "shapes.json",
-        "title": "Shapes"
+        "title": "Shapes - आकार"
     },
     {
         "id": 3,
         "url": "colors.gif",
         "link": "colors.json",
-        "title": "Colors"
+        "title": "Colors - रंग"
     },
     {
         "id": 4,
         "url": "fruits.gif",
         "link": "fruits.json",
-        "title": "Fruits"
+        "title": "Fruits - फळे"
     },
     {
         "id": 5,
         "url": "vegetables.gif",
         "link": "vegetables.json",
-        "title": "Vegetables"
+        "title": "Vegetables - भाज्या"
     },
     {
         "id": 6,
         "url": "vehicle.gif",
         "link": "vehicle.json",
-        "title": "Vehicle"
+        "title": "Vehicle - गाडी"
     },
     {
         "id": 7,
         "url": "objects.gif",
         "link": "objects.json",
-        "title": "Objects"
+        "title": "Objects - वस्तू"
     },
     {
         "id": 8,
         "url": "animals.gif",
         "link": "animals.json",
-        "title": "Animals"
+        "title": "Animals - प्राणी"
     },
     {
         "id": 9,
         "url": "birds.gif",
         "link": "birds.json",
-        "title": "Birds"
+        "title": "Birds - पक्षी"
     },
     {
         "id": 10,
         "url": "insects.gif",
         "link": "insects.json",
-        "title": "Insects"
+        "title": "Insects - कीटक"
     },
     {
         "id": 11,
         "url": "numbers.gif",
         "link": "numbers.json",
-        "title": "Numbers"
+        "title": "Numbers - अंक"
     },
     {
         "id": 12,
         "url": "electronics.gif",
         "link": "electronics.json",
-        "title": "Electronics"
+        "title": "Electronics - इलेक्ट्रॉनिक्स"
     },
     {
         "id": 13,
         "url": "alphabets.gif",
         "link": "alphabets.json",
-        "title": "Alphabets"
+        "title": "Alphabets - अक्षरमाला"
     },
     {
         "id": 14,
         "url": "planets.gif",
         "link": "planets.json",
-        "title": "Planets"
+        "title": "Planets - ग्रह"
     },
     {
         "id": 15,
         "url": "human_body.gif",
         "link": "human_body.json",
-        "title": "Human Body"
+        "title": "Human Body - शरीर"
     },
     {
         "id": 16,
         "url": "stationary.gif",
         "link": "stationary.json",
-        "title": "Stationary"
+        "title": "Stationary - स्टेशनरी"
     },
     {
         "id": 17,
         "url": "actions.gif",
         "link": "actions.json",
-        "title": "Actions"
+        "title": "Actions - कृती"
     },
     {
         "id": 18,
         "url": "directions.gif",
         "link": "directions.json",
-        "title": "Directions"
+        "title": "Directions - दिशा"
     },
     {
         "id": 19,
         "url": "feelings_moods.gif",
         "link": "feelings_moods.json",
-        "title": "Feelings and moods"
+        "title": "Feelings and moods - भावना, मनःस्थिती"
     },
     {
         "id": 20,
         "url": "instruments.gif",
         "link": "instruments.json",
-        "title": "Instruments"
+        "title": "Instruments - वाद्य"
     },
     {
         "id": 21,
         "url": "sports.gif",
         "link": "sports.json",
-        "title": "Sports"
+        "title": "Sports - खेळ"
     },
 	{
         "id": 22,
         "url": "occupation.gif",
         "link": "occupation.json",
-        "title": "Occupation"
+        "title": "Occupation - व्यवसाय"
     },
 	{
         "id": 23,
         "url": "festivals.gif",
         "link": "festivals.json",
-        "title": "Festivals"
+        "title": "Festivals - सण"
     },
 	{
         "id": 24,
         "url": "months.gif",
         "link": "months.json",
-        "title": "Months"
+        "title": "Months - महिने"
     },
 	{
         "id": 25,
         "url": "week.gif",
         "link": "week.json",
-        "title": "Week"
+        "title": "Week - आठवडा"
     }
 ]

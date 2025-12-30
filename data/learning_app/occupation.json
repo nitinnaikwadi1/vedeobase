@@ -3,108 +3,108 @@
         "id": 0,
         "url": "architect.gif",
         "audio": "occupation/architect.mp3",
-        "name": "Architect"
+        "name": "Architect - वास्तुविशारद"
     },
     {
         "id": 0,
         "url": "cleaner.gif",
         "audio": "occupation/cleaner.mp3",
-        "name": "Cleaner"
+        "name": "Cleaner - सफाई कामगार"
     },
     {
         "id": 1,
         "url": "cook.gif",
         "audio": "occupation/cook.mp3",
-        "name": "Cook"
+        "name": "Cook - स्वयंपाकी"
     },
     {
         "id": 3,
         "url": "dancer.gif",
         "audio": "occupation/dancer.mp3",
-        "name": "Dancer"
+        "name": "Dancer - नर्तक"
     },
     {
         "id": 6,
         "url": "doctor.gif",
         "audio": "occupation/doctor.mp3",
-        "name": "Doctor"
+        "name": "Doctor - वैदय"
     },
     {
         "id": 7,
         "url": "driver.gif",
         "audio": "occupation/driver.mp3",
-        "name": "Driver"
+        "name": "Driver - चालक"
     },
     {
         "id": 4,
         "url": "farmer.gif",
         "audio": "occupation/farmer.mp3",
-        "name": "Farmer"
+        "name": "Farmer - शेतकरी"
     },
     {
         "id": 10,
         "url": "painter.gif",
         "audio": "occupation/painter.mp3",
-        "name": "Painter"
+        "name": "Painter - चित्रकार"
     },
     {
         "id": 10,
         "url": "plumber.gif",
         "audio": "occupation/plumber.mp3",
-        "name": "Plumber"
+        "name": "Plumber - प्लंबर"
     },
     {
         "id": 10,
         "url": "pottery.gif",
         "audio": "occupation/pottery.mp3",
-        "name": "Pottery"
+        "name": "Pottery - कुंभारकाम"
     },
     {
         "id": 10,
         "url": "postman.gif",
         "audio": "occupation/postman.mp3",
-        "name": "Postman"
+        "name": "Postman - टपालवाहक"
     },
     {
         "id": 10,
         "url": "electrician.gif",
         "audio": "occupation/electrician.mp3",
-        "name": "Electrician"
+        "name": "Electrician - वीजतंत्री"
     },
     {
         "id": 10,
         "url": "sculptorist.gif",
         "audio": "occupation/sculptorist.mp3",
-        "name": "Sculptorist"
+        "name": "Sculptorist - शिल्पकार"
     },
     {
         "id": 10,
         "url": "sweeper.gif",
         "audio": "occupation/sweeper.mp3",
-        "name": "Sweeper"
+        "name": "Sweeper - झाडूवाला"
     },
     {
         "id": 10,
         "url": "tailor.gif",
         "audio": "occupation/tailor.mp3",
-        "name": "Tailor"
+        "name": "Tailor - शिंपी"
     },
     {
         "id": 5,
         "url": "teacher.gif",
         "audio": "occupation/teacher.mp3",
-        "name": "Teacher"
+        "name": "Teacher - शिक्षक"
     },
     {
         "id": 10,
         "url": "waiter.gif",
         "audio": "occupation/waiter.mp3",
-        "name": "Waiter"
+        "name": "Waiter - वाढपी"
     },
     {
         "id": 10,
         "url": "weldor.gif",
         "audio": "occupation/weldor.mp3",
-        "name": "Weldor"
+        "name": "Weldor - वेल्डर"
     }
 ]

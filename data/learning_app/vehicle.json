@@ -3,204 +3,204 @@
         "id": 0,
         "url": "dumper.gif",
         "audio": "vehicle/dumper.mp3",
-        "name": "Dumper"
+        "name": "Dumper - डंपर"
     },
     {
         "id": 1,
         "url": "bike.gif",
         "audio": "vehicle/bike.mp3",
-        "name": "Bike"
+        "name": "Bike - दुचाकी"
     },
     {
         "id": 2,
         "url": "bulldozer.gif",
         "audio": "vehicle/bulldozer.mp3",
-        "name": "Bull Dozer"
+        "name": "Bull Dozer - बुलडोझर"
     },
     {
         "id": 3,
         "url": "bus.gif",
         "audio": "vehicle/bus.mp3",
-        "name": "Bus"
+        "name": "Bus - बस"
     },
     {
         "id": 4,
         "url": "cable_car.gif",
         "audio": "vehicle/cable_car.mp3",
-        "name": "Cable Car"
+        "name": "Cable Car - केबल कार"
     },
     {
         "id": 5,
         "url": "drone.gif",
         "audio": "vehicle/drone.mp3",
-        "name": "Drone"
+        "name": "Drone - ड्रोन"
     },
     {
         "id": 6,
         "url": "firetruck.gif",
         "audio": "vehicle/firetruck.mp3",
-        "name": "Fire Truck"
+        "name": "Fire Truck - अग्निशमन ट्रक"
     },
     {
         "id": 7,
         "url": "hotbaloon.gif",
         "audio": "vehicle/hotbaloon.mp3",
-        "name": "Hot air baloon"
+        "name": "Hot air baloon - गरम हवेचा फुगा"
     },
     {
         "id": 8,
         "url": "rocket.gif",
         "audio": "vehicle/rocket.mp3",
-        "name": "Rocket"
+        "name": "Rocket - क्षेपणास्त्र"
     },
     {
         "id": 9,
         "url": "ship.gif",
         "audio": "vehicle/ship.mp3",
-        "name": "Ship"
+        "name": "Ship - जहाज"
     },
     {
         "id": 10,
         "url": "skating.gif",
         "audio": "vehicle/skating.mp3",
-        "name": "Skating"
+        "name": "Skating - स्केटिंग"
     },
     {
         "id": 11,
         "url": "submarine.gif",
         "audio": "vehicle/submarine.mp3",
-        "name": "Submarine"
+        "name": "Submarine - पाणबुडी"
     },
     {
         "id": 12,
         "url": "train.gif",
         "audio": "vehicle/train.mp3",
-        "name": "Train"
+        "name": "Train - ट्रेन"
     },
     {
         "id": 13,
         "url": "airplane.gif",
         "audio": "vehicle/airplane.mp3",
-        "name": "Airplane"
+        "name": "Airplane - विमान"
     },
     {
         "id": 14,
         "url": "ambulance.gif",
         "audio": "vehicle/ambulance.mp3",
-        "name": "Ambulance"
+        "name": "Ambulance - रुग्णवाहिका"
     },
     {
         "id": 15,
         "url": "car.gif",
         "audio": "vehicle/car.mp3",
-        "name": "Car"
+        "name": "Car - कार, गाडी"
     },
     {
         "id": 16,
         "url": "crane.gif",
         "audio": "vehicle/crane.mp3",
-        "name": "Crane"
+        "name": "Crane - क्रेन"
     },
     {
         "id": 17,
         "url": "excavator.gif",
         "audio": "vehicle/excavator.mp3",
-        "name": "Excavator"
+        "name": "Excavator - उत्खनन यंत्र"
     },
     {
         "id": 18,
         "url": "fighter_jet.gif",
         "audio": "vehicle/fighter_jet.mp3",
-        "name": "Fighter jet"
+        "name": "Fighter jet - लढाऊ विमान"
     },
     {
         "id": 19,
         "url": "helicopter.gif",
         "audio": "vehicle/helicopter.mp3",
-        "name": "Helicopter"
+        "name": "Helicopter - हेलिकॉप्टर"
     },
     {
         "id": 20,
         "url": "jeep.gif",
         "audio": "vehicle/jeep.mp3",
-        "name": "Jeep"
+        "name": "Jeep - जीप"
     },
     {
         "id": 21,
         "url": "kayak.gif",
         "audio": "vehicle/kayak.mp3",
-        "name": "Kayak"
+        "name": "Kayak - कयाक"
     },
     {
         "id": 22,
         "url": "rickshaw.gif",
         "audio": "vehicle/rickshaw.mp3",
-        "name": "Rickshaw"
+        "name": "Rickshaw - रिक्षा"
     },
     {
         "id": 23,
         "url": "satellite.gif",
         "audio": "vehicle/satellite.mp3",
-        "name": "Satellite"
+        "name": "Satellite - उपग्रह"
     },
     {
         "id": 24,
         "url": "scooter.gif",
         "audio": "vehicle/scooter.mp3",
-        "name": "Scooter"
+        "name": "Scooter - स्कूटर"
     },
     {
         "id": 25,
         "url": "skateboard.gif",
         "audio": "vehicle/skateboard.mp3",
-        "name": "Skateboard"
+        "name": "Skateboard - स्केटबोर्ड"
     },
     {
         "id": 26,
         "url": "tempo.gif",
         "audio": "vehicle/tempo.mp3",
-        "name": "Tempo"
+        "name": "Tempo - टेम्पो"
     },
     {
         "id": 27,
         "url": "tractor.gif",
         "audio": "vehicle/tractor.mp3",
-        "name": "Tractor"
+        "name": "Tractor - ट्रॅक्टर"
     },
     {
         "id": 28,
         "url": "truck.gif",
         "audio": "vehicle/truck.mp3",
-        "name": "Truck"
+        "name": "Truck - ट्रक"
     },
     {
         "id": 29,
         "url": "boat.gif",
         "audio": "vehicle/boat.mp3",
-        "name": "Boat"
+        "name": "Boat - होडी, जहाज"
     },
     {
         "id": 30,
         "url": "bullock_cart.gif",
         "audio": "vehicle/bullock_cart.mp3",
-        "name": "Bullock cart"
+        "name": "Bullock cart - बैलगाडी"
     },
     {
         "id": 31,
         "url": "cycle.gif",
         "audio": "vehicle/cycle.mp3",
-        "name": "Cycle"
+        "name": "Cycle - सायकल"
     },
     {
         "id": 32,
         "url": "tank.gif",
         "audio": "vehicle/tank.mp3",
-        "name": "Tank"
+        "name": "Tank - रणगाडा"
     },
     {
         "id": 33,
         "url": "tricycle.gif",
         "audio": "vehicle/tricycle.mp3",
-        "name": "Tricycle"
+        "name": "Tricycle - तीन चाकी सायकल"
     }
 ]

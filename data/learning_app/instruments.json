@@ -3,144 +3,144 @@
         "id": 0,
         "url": "harmonium.gif",
         "audio": "instruments/harmonium.mp3",
-        "name": "Harmonium"
+        "name": "Harmonium - पेटी"
     },
     {
         "id": 1,
         "url": "sitar.gif",
         "audio": "instruments/sitar.mp3",
-        "name": "Sitar"
+        "name": "Sitar - सितार"
     },
     {
         "id": 2,
         "url": "sarod.gif",
         "audio": "instruments/sarod.mp3",
-        "name": "Sarod"
+        "name": "Sarod - सरोद"
     },
     {
         "id": 3,
         "url": "tabla.gif",
         "audio": "instruments/tabla.mp3",
-        "name": "Tabla"
+        "name": "Tabla - तबला"
     },
     {
         "id": 4,
         "url": "piano.gif",
         "audio": "instruments/piano.mp3",
-        "name": "Piano"
+        "name": "Piano - पियानो"
     },
     {
         "id": 5,
         "url": "saxophone.gif",
         "audio": "instruments/saxophone.mp3",
-        "name": "Saxophone"
+        "name": "Saxophone - सॅक्सोफोन"
     },
     {
         "id": 6,
         "url": "violin.gif",
         "audio": "instruments/violin.mp3",
-        "name": "Violin"
+        "name": "Violin - व्हायोलिन"
     },
     {
         "id": 7,
         "url": "maracas.gif",
         "audio": "instruments/maracas.mp3",
-        "name": "maracas"
+        "name": "Maracas - माराकास"
     },
     {
         "id": 8,
         "url": "veena.gif",
         "audio": "instruments/veena.mp3",
-        "name": "Veena"
+        "name": "Veena - वीणा"
     },
     {
         "id": 9,
         "url": "trumpet.gif",
         "audio": "instruments/trumpet.mp3",
-        "name": "Trumpet"
+        "name": "Trumpet - ट्रम्पेट"
     },
     {
         "id": 10,
         "url": "drum.gif",
         "audio": "instruments/drum.mp3",
-        "name": "Drum"
+        "name": "Drum - ड्रम"
     },
     {
         "id": 11,
         "url": "xylophone.gif",
         "audio": "instruments/xylophone.mp3",
-        "name": "Xylophone"
+        "name": "Xylophone - झायलोफोन"
     },
     {
         "id": 12,
         "url": "flute.gif",
         "audio": "instruments/flute.mp3",
-        "name": "Flute"
+        "name": "Flute - बासरी"
     },
     {
         "id": 13,
         "url": "harp.gif",
         "audio": "instruments/harp.mp3",
-        "name": "Harp"
+        "name": "Harp - हार्प"
     },
     {
         "id": 14,
         "url": "santoor.gif",
         "audio": "instruments/santoor.mp3",
-        "name": "Santoor"
+        "name": "Santoor - संतूर"
     },
     {
         "id": 15,
         "url": "mridinga.gif",
         "audio": "instruments/mridinga.mp3",
-        "name": "Mridinga"
+        "name": "Mridinga - मृदंग"
     },
     {
         "id": 16,
         "url": "bango.gif",
         "audio": "instruments/bango.mp3",
-        "name": "Bango"
+        "name": "Bango - बँगो"
     },
     {
         "id": 17,
         "url": "bells.gif",
         "audio": "instruments/bells.mp3",
-        "name": "Bells"
+        "name": "Bells - घंटा"
     },
     {
         "id": 19,
         "url": "mouthorgan.gif",
         "audio": "instruments/mouthorgan.mp3",
-        "name": "Mouthorgan"
+        "name": "Mouthorgan - बाजा"
     },
     {
         "id": 21,
         "url": "guitar.gif",
         "audio": "instruments/guitar.mp3",
-        "name": "Guitar"
+        "name": "Guitar - गिटार"
     },
     {
         "id": 22,
         "url": "accordion.gif",
         "audio": "instruments/accordion.mp3",
-        "name": "accordion"
+        "name": "Accordion - अकॉर्डियन"
     },
     {
         "id": 23,
         "url": "ukulele.gif",
         "audio": "instruments/ukulele.mp3",
-        "name": "Ukulele"
+        "name": "Ukulele - युकुलेले"
     },
     {
         "id": 24,
         "url": "mandolin.gif",
         "audio": "instruments/mandolin.mp3",
-        "name": "Mandolin"
+        "name": "Mandolin - मँडोलिन"
     },
     {
         "id": 25,
         "url": "gramophone.gif",
         "audio": "instruments/gramophone.mp3",
-        "name": "Gramophone"
+        "name": "Gramophone - ग्रामोफोन"
     }
 ]

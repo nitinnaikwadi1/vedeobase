@@ -3,150 +3,150 @@
         "id": 0,
         "url": "umbrella.gif",
         "audio": "object/umbrella.mp3",
-        "name": "Umbrella"
+        "name": "Umbrella - छत्री"
     },
     {
         "id": 1,
         "url": "curtain.gif",
         "audio": "object/curtain.mp3",
-        "name": "Curtain"
+        "name": "Curtain - पडदा"
     },
     {
         "id": 2,
         "url": "sofa.gif",
         "audio": "object/sofa.mp3",
-        "name": "Sofa"
+        "name": "Sofa - सोफा"
     },
     {
         "id": 3,
         "url": "chair.gif",
         "audio": "object/chair.mp3",
-        "name": "Chair"
+        "name": "Chair - खुर्ची"
     },
     {
         "id": 4,
         "url": "bed.gif",
         "audio": "object/bed.mp3",
-        "name": "Bed"
+        "name": "Bed - पलंग"
     },
     {
         "id": 5,
         "url": "table.gif",
         "audio": "object/table.mp3",
-        "name": "Table"
+        "name": "Table - टेबल"
     },
     {
         "id": 6,
         "url": "cupboard.gif",
         "audio": "object/cupboard.mp3",
-        "name": "Cupboard"
+        "name": "Cupboard - कपाट"
     },
     {
         "id": 7,
         "url": "shoes.gif",
         "audio": "object/shoes.mp3",
-        "name": "Shoes"
+        "name": "Shoes - बूट"
     },
     {
         "id": 8,
         "url": "socks.gif",
         "audio": "object/socks.mp3",
-        "name": "Socks"
+        "name": "Socks - मोजे"
     },
     {
         "id": 9,
         "url": "shirt.gif",
         "audio": "object/shirt.mp3",
-        "name": "Shirt"
+        "name": "Shirt - सदरा"
     },
     {
         "id": 10,
         "url": "ice_cream.gif",
         "audio": "object/ice_cream.mp3",
-        "name": "Ice cream"
+        "name": "Ice cream - आईस्क्रीम"
     },
     {
         "id": 11,
         "url": "cup.gif",
         "audio": "object/cup.mp3",
-        "name": "Cup"
+        "name": "Cup - कप"
     },
     {
         "id": 12,
         "url": "glass.gif",
         "audio": "object/glass.mp3",
-        "name": "Glass"
+        "name": "Glass - पेला"
     },
     {
         "id": 13,
         "url": "bottle.gif",
         "audio": "object/bottle.mp3",
-        "name": "Bottle"
+        "name": "Bottle - बाटली"
     },
     {
         "id": 14,
         "url": "refrigerator.gif",
         "audio": "object/refrigerator.mp3",
-        "name": "Refrigerator"
+        "name": "Refrigerator - फ्रीज"
     },
     {
         "id": 15,
         "url": "knife.gif",
         "audio": "object/knife.mp3",
-        "name": "Knife"
+        "name": "Knife - चाकू"
     },
     {
         "id": 16,
         "url": "pot.gif",
         "audio": "object/pot.mp3",
-        "name": "Pot"
+        "name": "Pot - भांडे"
     },
     {
         "id": 17,
         "url": "spoon.gif",
         "audio": "object/spoon.mp3",
-        "name": "Spoon"
+        "name": "Spoon - चमचा"
     },
     {
         "id": 18,
         "url": "stove.gif",
         "audio": "object/stove.mp3",
-        "name": "Stove"
+        "name": "Stove - चूल"
     },
     {
         "id": 19,
         "url": "scissor.gif",
         "audio": "object/scissor.mp3",
-        "name": "Scissor"
+        "name": "Scissor - कात्री"
     },
     {
         "id": 20,
         "url": "watch.gif",
         "audio": "object/watch.mp3",
-        "name": "Watch"
+        "name": "Watch - घड्याळ"
     },
     {
         "id": 21,
         "url": "book.gif",
         "audio": "object/book.mp3",
-        "name": "Book"
+        "name": "Book - पुस्तक"
     },
     {
         "id": 22,
         "url": "pen.gif",
         "audio": "object/pen.mp3",
-        "name": "Pen"
+        "name": "Pen - पेन"
     },
     {
         "id": 23,
         "url": "box.gif",
         "audio": "object/box.mp3",
-        "name": "Box"
+        "name": "Box - पेटी"
     },
     {
         "id": 24,
         "url": "bag.gif",
         "audio": "object/bag.mp3",
-        "name": "Bag"
+        "name": "Bag - पिशवी"
     }
 ]
