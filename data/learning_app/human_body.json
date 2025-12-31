@@ -193,9 +193,9 @@
     },
     {
         "id": 32,
-        "url": "body_hip.gif",
-        "audio": "human_body/hip.mp3",
-        "name": "Hip - नितंब"
+        "url": "body_waist.gif",
+        "audio": "human_body/waist.mp3",
+        "name": "Waist - कंबर"
     },
     {
         "id": 33,
@@ -207,7 +207,7 @@
         "id": 34,
         "url": "body_fingers.gif",
         "audio": "human_body/fingers.mp3",
-        "name": "Fingers - बोटे"
+        "name": "Fingers - बोटं"
     },
     {
         "id": 35,
@@ -219,7 +219,7 @@
         "id": 37,
         "url": "body_core.gif",
         "audio": "human_body/core.mp3",
-        "name": "Core - गाभारक्त"
+        "name": "Core - शरीराचा गाभा"
     },
     {
         "id": 38,
@@ -231,7 +231,7 @@
         "id": 39,
         "url": "body_nails.gif",
         "audio": "human_body/nails.mp3",
-        "name": "Nails - नखे"
+        "name": "Nails - नखं"
     },
     {
         "id": 40,

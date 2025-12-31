@@ -51,7 +51,7 @@
         "id": 8,
         "url": "crawling.gif",
         "audio": "actions/crawling.mp3",
-        "name": "Crawling - सरपटणे"
+        "name": "Crawling - रांगणे, सरपटणे"
     },
     {
         "id": 9,
@@ -183,7 +183,7 @@
         "id": 30,
         "url": "blowing.gif",
         "audio": "actions/blowing.mp3",
-        "name": "blowing - फुंकणे"
+        "name": "Blowing - फुंकणे"
     },
     {
         "id": 31,
@@ -237,7 +237,7 @@
         "id": 39,
         "url": "riding.gif",
         "audio": "actions/riding.mp3",
-        "name": "Riding - स्वारी करणे"
+        "name": "Riding - चालवणे, स्वारी करणे"
     },
     {
         "id": 40,

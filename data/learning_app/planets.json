@@ -109,9 +109,9 @@
     },
     {
         "id": 19,
-        "url": "space_asteriod.gif",
-        "audio": "planets/asteriod.mp3",
-        "name": "Asteriod - लघुग्रह"
+        "url": "space_asteroid.gif",
+        "audio": "planets/asteroid.mp3",
+        "name": "Asteroid - लघुग्रह"
     },
     {
         "id": 20,
