@@ -136,17 +136,5 @@
         "url": "festivals.gif",
         "link": "festivals.json",
         "title": "Festivals - सण"
-    },
-	{
-        "id": 24,
-        "url": "months.gif",
-        "link": "months.json",
-        "title": "Months - महिने"
-    },
-	{
-        "id": 25,
-        "url": "week.gif",
-        "link": "week.json",
-        "title": "Week - आठवडा"
     }
 ]

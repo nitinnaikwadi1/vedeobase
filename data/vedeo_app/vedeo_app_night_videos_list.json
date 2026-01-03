@@ -148,5 +148,11 @@
         "name": "night_stargazing_owl",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/night_stargazing_owl.mp4",
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/night_stargazing_owl.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_dainel_babysit",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_dainel_babysit.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_dainel_babysit.jpg"
     }
 ]
