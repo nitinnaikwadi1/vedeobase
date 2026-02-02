@@ -1,225 +1,9 @@
 [
     {
         "id": 2,
-        "name": "cat_numbers",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/cat_numbers.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/cat_numbers.jpg"
-    },
-    {
-        "id": 36,
-        "name": "i_want_fruit",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/i_want_fruit.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/i_want_fruit.jpg"
-    },
-    {
-        "id": 2,
-        "name": "jingle_bell_rock",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/jingle_bell_rock.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/jingle_bell_rock.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_a",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_a.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_a.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_b",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_b.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_b.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_c",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_c.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_c.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_d",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_d.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_d.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_e",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_e.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_e.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_f",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_f.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_f.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_g",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_g.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_g.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_h",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_h.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_h.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_i",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_i.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_i.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_j",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_j.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_j.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_k",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_k.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_k.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_l",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_l.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_l.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_m",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_m.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_m.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_n",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_n.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_n.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_o",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_o.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_o.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_p",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_p.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_p.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_q",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_q.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_q.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_r",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_r.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_r.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_s",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_s.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_s.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_t",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_t.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_t.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_u",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_u.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_u.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_v",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_v.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_v.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_w",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_w.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_w.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_aplphabet_x",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_x.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_aplphabet_x.jpg"
-    },
-    {
-        "id": 2,
         "name": "day_are_you_happy",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_are_you_happy.mp4",
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_are_you_happy.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_bear_birthday_soup",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_bear_birthday_soup.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_bear_birthday_soup.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_bear_grandmother_house",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_bear_grandmother_house.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_bear_grandmother_house.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_bear_wear",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_bear_wear.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_bear_wear.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_bluey_outdoors_watching",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_bluey_outdoors_watching.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_bluey_outdoors_watching.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_carter_family_winter_fun",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_carter_family_winter_fun.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_carter_family_winter_fun.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_chipmunk_christmas",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_chipmunk_christmas.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_chipmunk_christmas.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_christmas_night",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_christmas_night.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_christmas_night.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_dainel_babysit",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_dainel_babysit.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_dainel_babysit.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_dino_new_friends",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_dino_new_friends.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_dino_new_friends.jpg"
     },
     {
         "id": 2,
@@ -229,92 +13,134 @@
     },
     {
         "id": 2,
-        "name": "day_gingerbread_man",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_gingerbread_man.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_gingerbread_man.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_morning_noon_night",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_morning_noon_night.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_morning_noon_night.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_new_abc_song",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_new_abc_song.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_new_abc_song.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_sarah_all_transport",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_sarah_all_transport.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_sarah_all_transport.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_sarah_all_weather",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_sarah_all_weather.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_sarah_all_weather.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_sarah_being_green",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_sarah_being_green.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_sarah_being_green.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_sarah_bugs",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_sarah_bugs.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_sarah_bugs.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_sarah_crafty",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_sarah_crafty.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_sarah_crafty.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_sarah_creative",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_sarah_creative.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_sarah_creative.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_sarah_exploring",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_sarah_exploring.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_sarah_exploring.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_sarah_looking_after_others",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_sarah_looking_after_others.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_sarah_looking_after_others.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_sarah_origami",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_sarah_origami.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_sarah_origami.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_sarah_spring_time",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_sarah_spring_time.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_sarah_spring_time.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_we_bear_slide",
-        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_we_bear_slide.mp4",
-        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_we_bear_slide.jpg"
-    },
-    {
-        "id": 2,
         "name": "day_what_this_that",
         "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_what_this_that.mp4",
         "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_what_this_that.jpg"
-    }	
+    },
+    {
+        "id": 2,
+        "name": "day_bluey_outdoor_best_bits",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_bluey_outdoor_best_bits.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_bluey_outdoor_best_bits.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_bluey_road_trip_moments",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_bluey_road_trip_moments.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_bluey_road_trip_moments.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_come_play_with_me",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_come_play_with_me.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_come_play_with_me.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_daniel_tiger_make_believe",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_daniel_tiger_make_believe.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_daniel_tiger_make_believe.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_daniel_tiger_spend_day_together",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_daniel_tiger_spend_day_together.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_daniel_tiger_spend_day_together.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_daniel_tiger_what_friends_like",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_daniel_tiger_what_friends_like.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_daniel_tiger_what_friends_like.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_ek_hoti_ali",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_ek_hoti_ali.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_ek_hoti_ali.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_ek_hoti_sui",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_ek_hoti_sui.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_ek_hoti_sui.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_gogalgai",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_gogalgai.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_gogalgai.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_hokey_pokey_more_dance",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_hokey_pokey_more_dance.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_hokey_pokey_more_dance.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_little_bear_rain_dance_play",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_little_bear_rain_dance_play.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_little_bear_rain_dance_play.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_maitri_ashi",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_maitri_ashi.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_maitri_ashi.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_marathi_mulakshare",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_marathi_mulakshare.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_marathi_mulakshare.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_masha_bear_need_goal",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_masha_bear_need_goal.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_masha_bear_need_goal.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_masha_bear_sleeping_bear",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_masha_bear_sleeping_bear.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_masha_bear_sleeping_bear.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_masha_bear_unfriended",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_masha_bear_unfriended.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_masha_bear_unfriended.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_masha_bear_welcome_out_here",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_masha_bear_welcome_out_here.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_masha_bear_welcome_out_here.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_meet_bird_kip",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_meet_bird_kip.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_meet_bird_kip.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_share_with_friends",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_share_with_friends.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_share_with_friends.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_sight_words_read",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_sight_words_read.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_sight_words_read.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_what_are_you_wearing",
+        "url": "https://nitinnaikwadi1.github.io/vedeobase/video/day_what_are_you_wearing.mp4",
+        "thumb": "https://nitinnaikwadi1.github.io/vedeobase/video/day_what_are_you_wearing.jpg"
+    }
 ]
