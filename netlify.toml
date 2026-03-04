@@ -1,0 +1,3 @@
+[build]
+  command = "cp -r ./vedeobase ./build && npm run build"
+  publish = "build"
