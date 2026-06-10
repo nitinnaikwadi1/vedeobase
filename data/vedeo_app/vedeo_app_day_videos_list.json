@@ -1,158 +1,212 @@
 [
     {
         "id": 2,
-        "name": "day_bat_friends_lost",
-        "url": "https://vedeobase.netlify.app/video/day_bat_friends_lost.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_bat_friends_lost.jpg"
+        "name": "minion_christmas_celebration",
+        "url": "https://vedeobase.netlify.app/video/minion_christmas_celebration.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_christmas_celebration.jpg"
     },
     {
         "id": 2,
-        "name": "day_bat_friends_well",
-        "url": "https://vedeobase.netlify.app/video/day_bat_friends_well.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_bat_friends_well.jpg"
+        "name": "minion_dam_scene",
+        "url": "https://vedeobase.netlify.app/video/minion_dam_scene.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_dam_scene.jpg"
     },
     {
         "id": 2,
-        "name": "day_benjamin_squirrel_feast",
-        "url": "https://vedeobase.netlify.app/video/day_benjamin_squirrel_feast.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_benjamin_squirrel_feast.jpg"
+        "name": "minion_episode_2",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_2.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_2.jpg"
     },
     {
         "id": 2,
-        "name": "day_chicken_and_fox",
-        "url": "https://vedeobase.netlify.app/video/day_chicken_and_fox.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_chicken_and_fox.jpg"
+        "name": "minion_episode_7",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_7.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_7.jpg"
     },
     {
         "id": 2,
-        "name": "day_cows_story",
-        "url": "https://vedeobase.netlify.app/video/day_cows_story.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_cows_story.jpg"
+        "name": "minion_episode_8",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_8.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_8.jpg"
     },
     {
         "id": 2,
-        "name": "day_dino_buddies_moments",
-        "url": "https://vedeobase.netlify.app/video/day_dino_buddies_moments.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_dino_buddies_moments.jpg"
+        "name": "minion_episode_9",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_9.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_9.jpg"
     },
     {
         "id": 2,
-        "name": "day_farmers_story",
-        "url": "https://vedeobase.netlify.app/video/day_farmers_story.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_farmers_story.jpg"
+        "name": "minion_episode_10",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_10.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_10.jpg"
     },
     {
         "id": 2,
-        "name": "day_fun_school_jump_rope_day",
-        "url": "https://vedeobase.netlify.app/video/day_fun_school_jump_rope_day.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_fun_school_jump_rope_day.jpg"
+        "name": "minion_episode_11",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_11.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_11.jpg"
     },
     {
         "id": 2,
-        "name": "day_goose_visit",
-        "url": "https://vedeobase.netlify.app/video/day_goose_visit.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_goose_visit.jpg"
+        "name": "minion_episode_12",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_12.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_12.jpg"
     },
     {
         "id": 2,
-        "name": "day_groundhog_bees",
-        "url": "https://vedeobase.netlify.app/video/day_groundhog_bees.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_groundhog_bees.jpg"
+        "name": "minion_episode_13",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_13.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_13.jpg"
     },
     {
         "id": 2,
-        "name": "day_hare_ants",
-        "url": "https://vedeobase.netlify.app/video/day_hare_ants.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_hare_ants.jpg"
+        "name": "minion_episode_14",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_14.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_14.jpg"
     },
     {
         "id": 2,
-        "name": "day_hare_blue_birds",
-        "url": "https://vedeobase.netlify.app/video/day_hare_blue_birds.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_hare_blue_birds.jpg"
+        "name": "minion_episode_15",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_15.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_15.jpg"
     },
     {
         "id": 2,
-        "name": "day_how_was_summer_vacation",
-        "url": "https://vedeobase.netlify.app/video/day_how_was_summer_vacation.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_how_was_summer_vacation.jpg"
+        "name": "minion_episode_16",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_16.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_16.jpg"
     },
     {
         "id": 2,
-        "name": "day_in_living_room",
-        "url": "https://vedeobase.netlify.app/video/day_in_living_room.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_in_living_room.jpg"
+        "name": "minion_episode_17",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_17.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_17.jpg"
     },
     {
         "id": 2,
-        "name": "day_is_this_yours",
-        "url": "https://vedeobase.netlify.app/video/day_is_this_yours.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_is_this_yours.jpg"
+        "name": "minion_episode_18",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_18.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_18.jpg"
     },
     {
         "id": 2,
-        "name": "day_kips_mess",
-        "url": "https://vedeobase.netlify.app/video/day_kips_mess.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_kips_mess.jpg"
+        "name": "minion_episode_19",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_19.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_19.jpg"
     },
     {
         "id": 2,
-        "name": "day_masha_bon_apetit",
-        "url": "https://vedeobase.netlify.app/video/day_masha_bon_apetit.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_masha_bon_apetit.jpg"
+        "name": "minion_episode_20",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_20.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_20.jpg"
     },
     {
         "id": 2,
-        "name": "day_masha_lala_lamb",
-        "url": "https://vedeobase.netlify.app/video/day_masha_lala_lamb.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_masha_lala_lamb.jpg"
+        "name": "minion_episode_24",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_24.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_24.jpg"
     },
     {
         "id": 2,
-        "name": "day_sailing_adventure",
-        "url": "https://vedeobase.netlify.app/video/day_sailing_adventure.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_sailing_adventure.jpg"
+        "name": "minion_episode_25",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_25.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_25.jpg"
     },
     {
         "id": 2,
-        "name": "day_seashell_story",
-        "url": "https://vedeobase.netlify.app/video/day_seashell_story.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_seashell_story.jpg"
+        "name": "minion_episode_26",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_26.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_26.jpg"
     },
     {
         "id": 2,
-        "name": "day_the_circus",
-        "url": "https://vedeobase.netlify.app/video/day_the_circus.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_the_circus.jpg"
+        "name": "minion_episode_27",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_27.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_27.jpg"
+    },
+	{
+        "id": 2,
+        "name": "minion_episode_28",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_28.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_28.jpg"
     },
     {
         "id": 2,
-        "name": "day_vroom_vroom",
-        "url": "https://vedeobase.netlify.app/video/day_vroom_vroom.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_vroom_vroom.jpg"
+        "name": "minion_episode_29",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_29.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_29.jpg"
     },
     {
         "id": 2,
-        "name": "day_what_he_is_doing",
-        "url": "https://vedeobase.netlify.app/video/day_what_he_is_doing.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_what_he_is_doing.jpg"
+        "name": "minion_episode_30",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_30.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_30.jpg"
     },
     {
         "id": 2,
-        "name": "day_what_she_looks_like",
-        "url": "https://vedeobase.netlify.app/video/day_what_she_looks_like.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_what_she_looks_like.jpg"
+        "name": "minion_episode_31",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_31.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_31.jpg"
     },
     {
         "id": 2,
-        "name": "day_what_you_doing",
-        "url": "https://vedeobase.netlify.app/video/day_what_you_doing.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_what_you_doing.jpg"
+        "name": "minion_episode_32",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_32.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_32.jpg"
     },
     {
         "id": 2,
-        "name": "day_carter_family_winter_fun",
-        "url": "https://vedeobase.netlify.app/video/day_carter_family_winter_fun.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_carter_family_winter_fun.jpg"
+        "name": "minion_episode_33",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_33.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_33.jpg"
+    },
+    {
+        "id": 2,
+        "name": "minion_episode_34",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_34.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_34.jpg"
+    },
+    {
+        "id": 2,
+        "name": "minion_episode_35",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_35.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_35.jpg"
+    },
+    {
+        "id": 2,
+        "name": "minion_episode_36",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_36.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_36.jpg"
+    },
+    {
+        "id": 2,
+        "name": "minion_episode_37",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_37.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_37.jpg"
+    },
+    {
+        "id": 2,
+        "name": "minion_episode_38",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_38.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_38.jpg"
+    },
+    {
+        "id": 2,
+        "name": "minion_episode_39",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_39.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_39.jpg"
+    },
+    {
+        "id": 2,
+        "name": "minion_episode_40",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_40.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_40.jpg"
+    },
+    {
+        "id": 2,
+        "name": "minion_episode_kung_fu",
+        "url": "https://vedeobase.netlify.app/video/minion_episode_kung_fu.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/minion_episode_kung_fu.jpg"
     }
 ]
