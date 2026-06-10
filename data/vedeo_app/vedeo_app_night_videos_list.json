@@ -25,12 +25,6 @@
     },
     {
         "id": 2,
-        "name": "night_fruits_vegetables",
-        "url": "https://vedeobase.netlify.app/video/night_fruits_vegetables.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/night_fruits_vegetables.jpg"
-    },
-    {
-        "id": 2,
         "name": "minion_episode_8",
         "url": "https://vedeobase.netlify.app/video/minion_episode_8.mp4",
         "thumb": "https://vedeobase.netlify.app/video/minion_episode_8.jpg"
@@ -40,12 +34,6 @@
         "name": "minion_episode_9",
         "url": "https://vedeobase.netlify.app/video/minion_episode_9.mp4",
         "thumb": "https://vedeobase.netlify.app/video/minion_episode_9.jpg"
-    },
-    {
-        "id": 2,
-        "name": "minion_episode_7",
-        "url": "https://vedeobase.netlify.app/video/minion_episode_7.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/minion_episode_7.jpg"
     },
     {
         "id": 2,
