@@ -19,6 +19,48 @@
     },
     {
         "id": 2,
+        "name": "day_bluey_road_trip_moments",
+        "url": "https://vedeobase.netlify.app/video/day_bluey_road_trip_moments.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/day_bluey_road_trip_moments.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_cows_story",
+        "url": "https://vedeobase.netlify.app/video/day_cows_story.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/day_cows_story.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_morning_noon_night",
+        "url": "https://vedeobase.netlify.app/video/day_morning_noon_night.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/day_morning_noon_night.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_new_abc_song",
+        "url": "https://vedeobase.netlify.app/video/day_new_abc_song.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/day_new_abc_song.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_sarah_exploring",
+        "url": "https://vedeobase.netlify.app/video/day_sarah_exploring.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/day_sarah_exploring.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_vroom_vroom",
+        "url": "https://vedeobase.netlify.app/video/day_vroom_vroom.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/day_vroom_vroom.jpg"
+    },
+    {
+        "id": 2,
+        "name": "day_we_bear_slide",
+        "url": "https://vedeobase.netlify.app/video/day_we_bear_slide.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/day_we_bear_slide.jpg"
+    },
+    {
+        "id": 2,
         "name": "giant_turnip",
         "url": "https://vedeobase.netlify.app/video/giant_turnip.mp4",
         "thumb": "https://vedeobase.netlify.app/video/giant_turnip.jpg"
@@ -27,7 +69,7 @@
         "id": 2,
         "name": "goldilock_three_bear",
         "url": "https://vedeobase.netlify.app/video/goldilock_three_bear.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/goldilock_three_bear.jpg"
+        "thumb": "https://vedeobase.netlify.app/video/goldilock_three_bear.png"
     },
     {
         "id": 2,
@@ -67,6 +109,42 @@
     },
     {
         "id": 2,
+        "name": "night_bluey_sleepy_time",
+        "url": "https://vedeobase.netlify.app/video/night_bluey_sleepy_time.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/night_bluey_sleepy_time.jpg"
+    },
+    {
+        "id": 2,
+        "name": "night_color_blocked",
+        "url": "https://vedeobase.netlify.app/video/night_color_blocked.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/night_color_blocked.jpg"
+    },
+    {
+        "id": 2,
+        "name": "night_daniel_tiger_what_margaret_read",
+        "url": "https://vedeobase.netlify.app/video/night_daniel_tiger_what_margaret_read.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/night_daniel_tiger_what_margaret_read.jpg"
+    },
+    {
+        "id": 2,
+        "name": "night_digger_and_flower",
+        "url": "https://vedeobase.netlify.app/video/night_digger_and_flower.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/night_digger_and_flower.jpg"
+    },
+	{
+        "id": 2,
+        "name": "night_thats_not_mine",
+        "url": "https://vedeobase.netlify.app/video/night_thats_not_mine.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/night_thats_not_mine.jpg"
+    },
+    {
+        "id": 2,
+        "name": "night_the_mittens",
+        "url": "https://vedeobase.netlify.app/video/night_the_mittens.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/night_the_mittens.jpg"
+    },
+    {
+        "id": 2,
         "name": "peter_rabbit_friends",
         "url": "https://vedeobase.netlify.app/video/peter_rabbit_friends.mp4",
         "thumb": "https://vedeobase.netlify.app/video/peter_rabbit_friends.jpg"
@@ -85,86 +163,14 @@
     },
     {
         "id": 2,
-        "name": "day_vroom_vroom",
-        "url": "https://vedeobase.netlify.app/video/day_vroom_vroom.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_vroom_vroom.jpg"
-    },
-    {
-        "id": 2,
-        "name": "night_bluey_sleepy_time",
-        "url": "https://vedeobase.netlify.app/video/night_bluey_sleepy_time.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/night_bluey_sleepy_time.jpg"
-    },
-    {
-        "id": 2,
-        "name": "night_color_blocked",
-        "url": "https://vedeobase.netlify.app/video/night_color_blocked.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/night_color_blocked.jpg"
-    },
-    {
-        "id": 2,
-        "name": "night_digger_and_flower",
-        "url": "https://vedeobase.netlify.app/video/night_digger_and_flower.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/night_digger_and_flower.jpg"
-    },
-    {
-        "id": 2,
-        "name": "night_daniel_tiger_what_margaret_read",
-        "url": "https://vedeobase.netlify.app/video/night_daniel_tiger_what_margaret_read.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/night_daniel_tiger_what_margaret_read.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_cows_story",
-        "url": "https://vedeobase.netlify.app/video/day_cows_story.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_cows_story.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_bluey_road_trip_moments",
-        "url": "https://vedeobase.netlify.app/video/day_bluey_road_trip_moments.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_bluey_road_trip_moments.jpg"
-    },
-	{
-        "id": 2,
-        "name": "night_thats_not_mine",
-        "url": "https://vedeobase.netlify.app/video/night_thats_not_mine.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/night_thats_not_mine.jpg"
-    },
-    {
-        "id": 2,
         "name": "night_the_opposites",
         "url": "https://vedeobase.netlify.app/video/night_the_opposites.mp4",
         "thumb": "https://vedeobase.netlify.app/video/night_the_opposites.jpg"
     },
     {
         "id": 2,
-        "name": "night_the_mittens",
-        "url": "https://vedeobase.netlify.app/video/night_the_mittens.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/night_the_mittens.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_morning_noon_night",
-        "url": "https://vedeobase.netlify.app/video/day_morning_noon_night.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_morning_noon_night.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_new_abc_song",
-        "url": "https://vedeobase.netlify.app/video/day_new_abc_song.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_new_abc_song.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_sarah_exploring",
-        "url": "https://vedeobase.netlify.app/video/day_sarah_exploring.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_sarah_exploring.jpg"
-    },
-    {
-        "id": 2,
-        "name": "day_we_bear_slide",
-        "url": "https://vedeobase.netlify.app/video/day_we_bear_slide.mp4",
-        "thumb": "https://vedeobase.netlify.app/video/day_we_bear_slide.jpg"
+        "name": "night_the_opposites_read_aloud",
+        "url": "https://vedeobase.netlify.app/video/night_the_opposites_read_aloud.mp4",
+        "thumb": "https://vedeobase.netlify.app/video/night_the_opposites_read_aloud.jpg"
     }
 ]
